@@ -3,261 +3,2169 @@
     "description": "兰若寺畔，千年等一回。",
     "icons": [
       {
-        "name": "logo-apple-1",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/apple/apple00001.png"
+        "name": "aperture-shutter",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/aperture_shutter.png"
       },
       {
-        "name": "logo-apple-2",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/apple/apple00002.png"
+        "name": "blimp-zeppelin",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/blimp_zeppelin.png"
       },
       {
-        "name": "logo-apple-3",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/apple/apple00003.png"
+        "name": "bolt-electricity",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/bolt_electricity.png"
       },
       {
-        "name": "logo-arrow",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/arrow/arrow.png"
+        "name": "cinema-eat-film-food-movie",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/cinema_eat_film_food_movie.png"
       },
       {
-        "name": "logo-disney-plus",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/disney/plus.png"
+        "name": "film-reel-movie",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/film_film%20reel_movie_reel.png"
       },
       {
-        "name": "logo-disney-plus-2",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/disney/plus-2.png"
+        "name": "global-globe-network-planet",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/global_globe_network_planet.png"
       },
       {
-        "name": "logo-disney-plus-3",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/disney/plus-3.png"
+        "name": "globe-earth-world",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/globe_earth_global_planet_world.png"
       },
       {
-        "name": "logo-disney-plus-4",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/disney/plus-4.png"
+        "name": "gps-location-navigation",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/gps_location_navigation_pin_pointer.png"
       },
       {
-        "name": "logo-disney-plus-5",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/disney/plus-5.png"
+        "name": "merge-arrow-on-ramp",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/merge_arrow_on%20ramp.png"
       },
       {
-        "name": "logo-google",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/google/google.png"
+        "name": "pin-tag",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/pin_tag.png"
       },
       {
-        "name": "logo-ms-window",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/ms/window.png"
+        "name": "play-movie-video",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/play_movie_video.png"
       },
       {
-        "name": "logo-netflix-1",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/netflix/netflix00001.png"
+        "name": "rainbow",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/rainbow.png"
       },
       {
-        "name": "logo-netflix-2",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/netflix/netflix00002.png"
+        "name": "security-protection-shield",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/security_protection_shield.png"
       },
       {
-        "name": "logo-netflix-3",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/netflix/netflix00003.png"
+        "name": "star",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/star.png"
       },
       {
-        "name": "logo-netflix-4",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/netflix/netflix00004.png"
+        "name": "train-locomotive-subway",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/train_locomotive_subway_transit_transportation.png"
       },
       {
-        "name": "logo-netflix-5",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/netflix/netflix00005.png"
+        "name": "tv-display-monitor",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/tv_display_monitor_screen.png"
       },
       {
-        "name": "logo-openai-1",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00001.png"
+        "name": "spaceshuttle-rocket-spaceship",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/spaceshuttle_rocket_spaceship.png"
       },
       {
-        "name": "logo-openai-2",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00002.png"
+        "name": "target-bullseye",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/target_bullseye.png"
       },
       {
-        "name": "logo-openai-3",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00003.png"
+        "name": "video-camera",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/ui/video camera.png"
+      },
+      
+      
+      
+      {
+        "name": "earth-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/earth-2.png"
       },
       {
-        "name": "logo-openai-4",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00004.png"
+        "name": "earth-3",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/earth-3.png"
       },
       {
-        "name": "logo-openai-5",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00005.png"
+        "name": "earth",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/earth.png"
       },
-      {
-        "name": "logo-openai-6",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00006.png"
-      },
-      {
-        "name": "logo-openai-7",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00007.png"
-      },
-      {
-        "name": "logo-openai-8",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00008.png"
-      },
-      {
-        "name": "logo-openai-9",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00009.png"
-      },
-      {
-        "name": "logo-openai-10",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00010.png"
-      },
-      {
-        "name": "logo-openai-11",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00011.png"
-      },
-      {
-        "name": "logo-telegram-1",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00001.png"
-      },
-      {
-        "name": "logo-telegram-2",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00002.png"
-      },
-      {
-        "name": "logo-telegram-3",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00003.png"
-      },
-      {
-        "name": "logo-telegram-4",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00004.png"
-      },
-      {
-        "name": "logo-telegram-5",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00005.png"
-      },
-      {
-        "name": "logo-telegram-6",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00006.png"
-      },
-      {
-        "name": "logo-telegram-7",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00007.png"
-      },
-      {
-        "name": "logo-telegram-8",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00008.png"
-      },
-      {
-        "name": "logo-telegram-9",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00009.png"
-      },
-      {
-        "name": "logo-tiktok",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/tiktok/tiktok.png"
-      },
-      {
-        "name": "logo-vpn",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/vpn/vpn.png"
-      },
-      {
-        "name": "logo-vpn-2",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/vpn/vpn-2.png"
-      },
-      {
-        "name": "signal-bolt",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/bolt.png"
-      },
-      {
-        "name": "signal-branching-paths-up",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/branching-paths-up.png"
-      },
-      {
-        "name": "signal-browser",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/browser.png"
-      },
-      {
-        "name": "signal-cursor",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/cursor.png"
-      },
-      {
-        "name": "signal-flow-chart",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/flow-chart.png"
-      },
-      {
-        "name": "signal-internet",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/internet.png"
-      },
-      {
-        "name": "signal-next-arrow",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/next-arrow.png"
-      },
-      {
-        "name": "signal-nuke",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/nuke.png"
-      },
-      {
-        "name": "signal-nuke-2",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/nuke-2.png"
-      },
-      {
-        "name": "signal-proximity-sensor",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/proximity-sensor.png"
-      },
-      {
-        "name": "signal-radar",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/radar.png"
-      },
-      {
-        "name": "signal-radar-2",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/radar-2.png"
-      },
-      {
-        "name": "signal-radar-3",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/radar-3.png"
-      },
-      {
-        "name": "signal-scissor-square",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/scissor-square.png"
-      },
-      {
-        "name": "signal-scissors",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/scissors.png"
-      },
-      {
-        "name": "signal-scissors-2",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/scissors-2.png"
-      },
-      {
-        "name": "signal-scissors-square",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/scissors-square.png"
-      },
-      {
-        "name": "signal-streaming",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming.png"
-      },
-      {
-        "name": "signal-streaming-2",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming-2.png"
-      },
-      {
-        "name": "signal-streaming-3",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming-3.png"
-      },
-      {
-        "name": "signal-streaming-4",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming-4.png"
-      },
-      {
-        "name": "signal-streaming-5",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming-5.png"
-      },
-      {
-        "name": "signal-streaming-6",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming-6.png"
-      },
-      {
-        "name": "signal-transfer",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/transfer.png"
-      },
-      {
-        "name": "signal-upload-arrow",
-        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/upload-arrow.png"
-      }
-    ]
-  }
-  
+    {
+      "name": "add-button",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/add-button.png"
+    },
+    {
+      "name": "apps",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/apps.png"
+    },
+    {
+      "name": "bar-chart",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/bar-chart.png"
+    },
+    {
+      "name": "coin-usd",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/coin-usd.png"
+    },
+    {
+      "name": "create",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/create.png"
+    },
+    {
+      "name": "crown",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/crown.png"
+    },
+    {
+      "name": "crystal",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/crystal.png"
+    },
+    {
+      "name": "fire",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/fire.png"
+    },
+    {
+      "name": "home",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/home.png"
+    },
+    {
+      "name": "laurel-wreath",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/laurel-wreath.png"
+    },
+    {
+      "name": "location-pin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/location-pin.png"
+    },
+    {
+      "name": "play-video",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/play-video.png"
+    },
+    {
+      "name": "ribbon-medal",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/ribbon-medal.png"
+    },
+    {
+      "name": "shield",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/shield.png"
+    },
+    {
+      "name": "shield-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/shield 2.png"
+    },
+    {
+      "name": "star",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/star.png"
+    },
+    {
+      "name": "tick",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/tick.png"
+    },
+    {
+      "name": "trophy-cup",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/comic/trophy-cup.png"
+    },
+    {
+      "name": "3-d-cube",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/3-d-cube.png"
+    },
+    {
+      "name": "add-button-faded",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/add-button.png"
+    },
+    {
+      "name": "adjustment",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/adjustment.png"
+    },
+    {
+      "name": "analytics",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/analytics.png"
+    },
+    {
+      "name": "atom",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/atom.png"
+    },
+    {
+      "name": "badge",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/badge.png"
+    },
+    {
+      "name": "bank",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/bank.png"
+    },
+    {
+      "name": "bookmark",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/bookmark.png"
+    },
+    {
+      "name": "box",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/box.png"
+    },
+    {
+      "name": "cancel",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/cancel.png"
+    },
+    {
+      "name": "car",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/car.png"
+    },
+    {
+      "name": "cards",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/cards.png"
+    },
+    {
+      "name": "chat",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/chat.png"
+    },
+    {
+      "name": "check",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/check.png"
+    },
+    {
+      "name": "clock",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/clock.png"
+    },
+    {
+      "name": "cloud-upload",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/cloud-upload.png"
+    },
+    {
+      "name": "cloud",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/cloud.png"
+    },
+    {
+      "name": "creadit-cards",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/creadit-cards.png"
+    },
+    {
+      "name": "dashboard",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/dashboard.png"
+    },
+    {
+      "name": "database-server",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/database-server.png"
+    },
+    {
+      "name": "delivery-truck",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/delivery-truck.png"
+    },
+    {
+      "name": "design-shape",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/design-shape.png"
+    },
+    {
+      "name": "diamond",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/diamond.png"
+    },
+    {
+      "name": "download",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/download.png"
+    },
+    {
+      "name": "drone-camera",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/drone-camera.png"
+    },
+    {
+      "name": "dustbin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/dustbin.png"
+    },
+    {
+      "name": "editor",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/editor.png"
+    },
+    {
+      "name": "fire-flame",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/fire-flame.png"
+    },
+    {
+      "name": "food-and-drink",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/food-and-drink.png"
+    },
+    {
+      "name": "gift-box",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/gift-box.png"
+    },
+    {
+      "name": "heart-health",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/heart-health.png"
+    },
+    {
+      "name": "home-faded",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/home.png"
+    },
+    {
+      "name": "journal",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/journal.png"
+    },
+    {
+      "name": "layers",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/layers.png"
+    },
+    {
+      "name": "line-graph",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/line-graph.png"
+    },
+    {
+      "name": "location-pin-faded",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/location-pin.png"
+    },
+    {
+      "name": "mail",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/mail.png"
+    },
+    {
+      "name": "medal",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/medal.png"
+    },
+    {
+      "name": "medium-battery",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/medium-battery.png"
+    },
+    {
+      "name": "mic",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/mic.png"
+    },
+    {
+      "name": "moon-night",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/moon-night.png"
+    },
+    {
+      "name": "navigation",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/navigation.png"
+    },
+    {
+      "name": "notebook",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/notebook.png"
+    },
+    {
+      "name": "office-building",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/office-building.png"
+    },
+    {
+      "name": "pie-chart",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/pie-chart.png"
+    },
+    {
+      "name": "play-video-faded",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/play-video.png"
+    },
+    {
+      "name": "portfolio",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/portfolio.png"
+    },
+    {
+      "name": "rating",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/rating.png"
+    },
+    {
+      "name": "sand-clock",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/sand-clock.png"
+    },
+    {
+      "name": "setting",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/setting.png"
+    },
+    {
+      "name": "shield-faded",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/shield.png"
+    },
+    {
+      "name": "star-badge",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/star-badge.png"
+    },
+    {
+      "name": "toggle-button",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/toggle-button.png"
+    },
+    {
+      "name": "users",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/users.png"
+    },
+    {
+      "name": "vr-glasses",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/vr-glasses.png"
+    },
+    {
+      "name": "wifi",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/wifi.png"
+    },
+    {
+      "name": "world",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/faded/world.png"
+    },
+
+
+    {
+      "name": "claude",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/claude/claude.png"
+    },
+    {
+      "name": "claude-2",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/claude/claude00002.png"
+    },
+    {
+      "name": "claude-3",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/claude/claude00003.png"
+    },
+    {
+      "name": "claude-4",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/claude/claude00004.png"
+    },
+    {
+      "name": "emby-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/emby/emby00001.png"
+    },
+    {
+      "name": "emby-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/emby/emby00002.png"
+    },
+    {
+      "name": "emby-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/emby/emby00003.png"
+    },
+    {
+      "name": "emby-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/emby/emby00004.png"
+    },
+    {
+      "name": "apple-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/apple/apple00001.png"
+    },
+    {
+      "name": "apple-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/apple/apple00002.png"
+    },
+    {
+      "name": "apple-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/apple/apple00003.png"
+    },
+    {
+      "name": "apple00004",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/apple/apple00004.png"
+    },
+    {
+      "name": "arrow",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/arrow/arrow.png"
+    },
+    {
+      "name": "disney-plus",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/disney/plus.png"
+    },
+    {
+      "name": "disney-plus-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/disney/plus-2.png"
+    },
+    {
+      "name": "disney-plus-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/disney/plus-3.png"
+    },
+    {
+      "name": "disney-plus-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/disney/plus-4.png"
+    },
+    {
+      "name": "disney-plus-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/disney/plus-5.png"
+    },
+    {
+      "name": "google",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/google/google.png"
+    },
+    {
+      "name": "google-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/google/google-2.png"
+    },
+    {
+      "name": "ms-bing",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/ms/bing.png"
+    },
+    {
+      "name": "ms-window",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/ms/window.png"
+    },
+    {
+      "name": "netflix-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/netflix/netflix00001.png"
+    },
+    {
+      "name": "netflix-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/netflix/netflix00002.png"
+    },
+    {
+      "name": "netflix-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/netflix/netflix00003.png"
+    },
+    {
+      "name": "netflix-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/netflix/netflix00004.png"
+    },
+    {
+      "name": "netflix-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/netflix/netflix00005.png"
+    },
+    {
+      "name": "openai-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00001.png"
+    },
+    {
+      "name": "openai-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00002.png"
+    },
+    {
+      "name": "openai-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00003.png"
+    },
+    {
+      "name": "openai-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00004.png"
+    },
+    {
+      "name": "openai-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00005.png"
+    },
+    {
+      "name": "openai-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00006.png"
+    },
+    {
+      "name": "openai-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00007.png"
+    },
+    {
+      "name": "openai-8",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00008.png"
+    },
+    {
+      "name": "openai-9",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00009.png"
+    },
+    {
+      "name": "openai-10",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00010.png"
+    },
+    {
+      "name": "openai-11",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/openai/openai00011.png"
+    },
+
+
+
+
+    {
+      "name": "telegram-apple-classic",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Apple classic.png"
+    },
+    {
+      "name": "telegram-apple",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Apple.png"
+    },
+    {
+      "name": "telegram-clear-classic",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Clear Classic.png"
+    },
+    {
+      "name": "telegram-clear",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Clear.png"
+    },
+    {
+      "name": "telegram-im-sorry-jon",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/I'm sorry, Jon.png"
+    },
+    {
+      "name": "telegram-neon-purple",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Neon, purple.png"
+    },
+    {
+      "name": "telegram-neon-red",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Neon, red.png"
+    },
+    {
+      "name": "telegram-oled-classic",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/OLED classic.png"
+    },
+    {
+      "name": "telegram-oled",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/OLED.png"
+    },
+    {
+      "name": "telegram-orange-classic",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Orange classic.png"
+    },
+    {
+      "name": "telegram-orange",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Orange.png"
+    },
+    {
+      "name": "telegram-pixel-unperfect",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Pixel unperfect.png"
+    },
+    {
+      "name": "telegram-purple-classic",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Purple classic.png"
+    },
+    {
+      "name": "telegram-purple",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Purple.png"
+    },
+    {
+      "name": "telegram-skeuo",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Skeuo.png"
+    },
+    {
+      "name": "telegram-the-vintage-one",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/The Vintage one.png"
+    },
+    {
+      "name": "telegram-vhs-classic",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/VHS classic.png"
+    },
+    {
+      "name": "telegram-vhs",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/VHS.png"
+    },
+    {
+      "name": "telegram-vaporwavish",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Vaporwavish.png"
+    },
+    {
+      "name": "telegram-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00001.png"
+    },
+    {
+      "name": "telegram-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00002.png"
+    },
+    {
+      "name": "telegram-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00003.png"
+    },
+    {
+      "name": "telegram-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00004.png"
+    },
+    {
+      "name": "telegram-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00005.png"
+    },
+    {
+      "name": "telegram-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00006.png"
+    },
+    {
+      "name": "telegram-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00007.png"
+    },
+    {
+      "name": "telegram-8",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00008.png"
+    },
+    {
+      "name": "telegram-9",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00009.png"
+    },
+    {
+      "name": "telegram00010",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00010.png"
+    },
+    {
+      "name": "telegram00011",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/telegram00011.png"
+    },
+    {
+      "name": "telegram-apple-classic",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Apple classic.png"
+    },
+    {
+      "name": "telegram-apple",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Apple.png"
+    },
+    {
+      "name": "telegram-clear-classic",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Clear Classic.png"
+    },
+    {
+      "name": "telegram-blue-classic",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Blue Classic.png"
+    },
+    {
+      "name": "telegram-duck",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Duck.png"
+    },
+    {
+      "name": "telegram-emojis",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Emojis.png"
+    },
+    {
+      "name": "telegram-golden",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Golden.png.png"
+    },
+    {
+      "name": "telegram-rocket",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Rocket.png.png"
+    },
+    {
+      "name": "telegram-space",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Space.png"
+    },
+    {
+      "name": "telegram-star",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/telegram/Star.png"
+    },
+
+
+
+    {
+      "name": "tiktok",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/tiktok/tiktok.png"
+    },
+    {
+      "name": "vpn",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/vpn/vpn.png"
+    },
+    {
+      "name": "vpn-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/logo/vpn/vpn-2.png"
+    },
+    {
+      "name": "compass-rose",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/compass-rose.png"
+    },
+    {
+      "name": "healed-earth",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/healed-earth.png"
+    },
+    {
+      "name": "satellite-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/satellite00001.png"
+    },
+    {
+      "name": "satellite-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/satellite00002.png"
+    },
+    {
+      "name": "world-map-locations",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/world-map-locations.png"
+    },
+    {
+      "name": "world",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/world.png"
+    },
+    {
+      "name": "acceptable",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/acceptable.png"
+    },
+    {
+      "name": "age",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/age.png"
+    },
+    {
+      "name": "antenna",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/antenna.png"
+    },
+    {
+      "name": "anticlockwise",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/anticlockwise.png"
+    },
+    {
+      "name": "application",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/application.png"
+    },
+    {
+      "name": "auto",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/auto.png"
+    },
+    {
+      "name": "bolt",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/bolt.png"
+    },
+    {
+      "name": "branching-paths-up",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/branching-paths-up.png"
+    },
+    {
+      "name": "cursor",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/cursor.png"
+    },
+    {
+      "name": "data-transfer",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/data-transfer.png"
+    },
+    {
+      "name": "film-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/film00001.png"
+    },
+    {
+      "name": "film-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/film00002.png"
+    },
+    {
+      "name": "flash",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/flash.png"
+    },
+    {
+      "name": "flash-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/flash-3.png"
+    },
+    {
+      "name": "flow-chart",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/flow-chart.png"
+    },
+    {
+      "name": "internet-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/internet00001.png"
+    },
+    {
+      "name": "internet-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/internet00002.png"
+    },
+    {
+      "name": "internet-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/internet00003.png"
+    },
+    {
+      "name": "internet-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/internet00004.png"
+    },
+    {
+      "name": "mobile-data",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/mobile-data.png"
+    },
+    {
+      "name": "next-arrow",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/next-arrow.png"
+    },
+    {
+      "name": "nuke",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/nuke.png"
+    },
+    {
+      "name": "nuke-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/nuke-2.png"
+    },
+    {
+      "name": "proximity-sensor",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/proximity-sensor.png"
+    },
+    {
+      "name": "radar",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/radar.png"
+    },
+    {
+      "name": "radar-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/radar-2.png"
+    },
+    {
+      "name": "radar-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/radar-3.png"
+    },
+    {
+      "name": "scissor-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/scissor-square.png"
+    },
+    {
+      "name": "scissors",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/scissors.png"
+    },
+    {
+      "name": "scissors-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/scissors-2.png"
+    },
+    {
+      "name": "scissors-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/scissors-square.png"
+    },
+    {
+      "name": "smart",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/smart.png"
+    },
+    {
+      "name": "streaming",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/streaming.png"
+    },
+    {
+      "name": "streaming-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/streaming-2.png"
+    },
+    {
+      "name": "streaming-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/streaming-3.png"
+    },
+    {
+      "name": "streaming-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/streaming-4.png"
+    },
+    {
+      "name": "streaming-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/streaming-5.png"
+    },
+    {
+      "name": "streaming-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/streaming-6.png"
+    },
+    {
+      "name": "transfer",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/transfer.png"
+    },
+    {
+      "name": "upload-arrow",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/upload-arrow.png"
+    },
+
+
+
+
+
+    {
+      "name": "EU-culture",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/EU.png"
+    },
+    {
+      "name": "FR-culture",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/FR.png"
+    },
+    {
+      "name": "GB-culture",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/GB.png"
+    },
+    {
+      "name": "KR-culture",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/KR.png"
+    },
+    {
+      "name": "SG-culture",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/SG.png"
+    },
+    {
+      "name": "TW-culture",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/TW.png"
+    },
+    {
+      "name": "US-culture-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/US.png"
+    },
+    {
+      "name": "US-culture-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/US2.png"
+    },
+    {
+      "name": "rising-sun-flag",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/_rising_sun_flag_national_japan.png"
+    },
+    {
+      "name": "king-sejong",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/king_sejong_history_korea_ancient.png"
+    },
+    {
+      "name": "maneki-neko",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/maneki_neko_lucky_cat_traditional.png"
+    },
+    {
+      "name": "soju",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/soju_liquor_alcohol_drink_beverage.png"
+    },
+    {
+      "name": "south-korea-flag",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/culture/south_korea_flag_nation_official.png"
+    },
+
+
+
+
+
+
+    {
+      "name": "EU-square-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/eu00001.png"
+    },
+    {
+      "name": "EU-square-2", 
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/eu00002.png"
+    },
+    {
+      "name": "FR-square-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/fr00001.png"
+    },
+    {
+      "name": "FR-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/fr00002.png"
+    },
+    {
+      "name": "HK-square-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/hk00001.png"
+    },
+    {
+      "name": "HK-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/hk00002.png"
+    },
+    {
+      "name": "JP-square-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/jp00001.png"
+    },
+    {
+      "name": "JP-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/jp00002.png"
+    },
+    {
+      "name": "KR-square-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/kr00001.png"
+    },
+    {
+      "name": "KR-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/kr00002.png"
+    },
+    {
+      "name": "SG-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/sg00002.png"
+    },
+    {
+      "name": "SG-square-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/sg00003.png"
+    },
+    {
+      "name": "TW-square-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/tw00001.png"
+    },
+    {
+      "name": "TW-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/tw00002.png"
+    },
+    {
+      "name": "UK-square-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/uk00001.png"
+    },
+    {
+      "name": "UK-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/uk00002.png"
+    },
+    {
+      "name": "US-square-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/us00001.png"
+    },
+    {
+      "name": "US-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/us00002.png"
+    },
+    {
+      "name": "EU-round",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round/europe-union.png"
+    },
+    {
+      "name": "HK-round",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round/hongkong.png"  
+    },
+    {
+      "name": "JP-round",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round/japan.png"
+    },
+    {
+      "name": "SG-round",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round/singapore.png"
+    },
+    {
+      "name": "KR-round",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round/south-korea.png"
+    },
+    {
+      "name": "TW-round",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round/taiwan.png" 
+    },
+    {
+      "name": "UK-round",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round/united-kingdom.png"
+    },
+    {
+      "name": "US-round-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round/united-states-of-america.png"
+    },
+    {
+      "name": "US-round-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round/united.png"
+    },
+
+    {
+      "name": "DEU-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/DEU00001.png"
+    },
+    {
+      "name": "DEU-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/DEU00002.png"
+    },
+    {
+      "name": "ENG-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/ENG00001.png"
+    },
+    {
+      "name": "ENG-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/ENG00002.png"
+    },
+    {
+      "name": "ENG-rectangle-1-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/ENG00003.png"
+    },
+    {
+      "name": "ENG-rectangle-1-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/ENG00004.png"
+    },
+    {
+      "name": "EUR-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/EUR00001.png"
+    },
+    {
+      "name": "EUR-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/EUR00002.png"
+    },
+    {
+      "name": "EUR-rectangle-1-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/EUR00003.png"
+    },
+    {
+      "name": "FRA-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/FRA00001.png"
+    },
+    {
+      "name": "FRA-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/FRA00002.png"
+    },
+    {
+      "name": "HKG-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/HKG00001.png"
+    },
+    {
+      "name": "HKG-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/HKG00002.png"
+    },
+    {
+      "name": "HKG-rectangle-1-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/HKG00003.png"
+    },
+    {
+      "name": "ITA-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/ITA00001.png"
+    },
+    {
+      "name": "ITA-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/ITA00002.png"
+    },
+    {
+      "name": "JPN-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/JPN00001.png"
+    },
+    {
+      "name": "JPN-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/JPN00002.png"
+    },
+    {
+      "name": "JPN-rectangle-1-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/JPN00003.png"
+    },
+    {
+      "name": "JPN-rectangle-1-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/JPN00004.png"
+    },
+    {
+      "name": "KOR-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/KOR00001.png"
+    },
+    {
+      "name": "KOR-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/KOR00002.png"
+    },
+    {
+      "name": "KOR-rectangle-1-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/KOR00003.png"
+    },
+    {
+      "name": "KOR-rectangle-1-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/KOR00004.png"
+    },
+    {
+      "name": "KOR-rectangle-1-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/KOR00005.png"
+    },
+    {
+      "name": "SGP-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/SGP00001.png"
+    },
+    {
+      "name": "SGP-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/SGP00002.png"
+    },
+    {
+      "name": "SGP-rectangle-1-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/SGP00003.png"
+    },
+    {
+      "name": "TWN-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/TWN00001.png"
+    },
+    {
+      "name": "TWN-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/TWN00002.png"
+    },
+    {
+      "name": "USA-rectangle-1-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/USA00001.png"
+    },
+    {
+      "name": "USA-rectangle-1-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/USA00002.png"
+    },
+    {
+      "name": "USA-rectangle-1-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/USA00003.png"
+    },
+    {
+      "name": "USA-rectangle-1-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00001/USA00004.png"
+    },
+
+
+
+
+
+
+
+    {
+      "name": "FR-rectangle-2-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/FR.png"
+    },
+    {
+      "name": "EU-rectangle-2-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/EU00001.png"
+    },
+    {
+      "name": "EU-rectangle-2-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/EU00002.png"
+    },
+    {
+      "name": "GB-rectangle-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/GB.png"
+    },
+    {
+      "name": "HK-rectangle-2-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/HK00001.png"
+    },
+    {
+      "name": "HK-rectangle-2-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/HK00002.png"
+    },
+    {
+      "name": "IT-rectangle-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/IT.png"
+    },
+    {
+      "name": "JP-rectangle-2-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/JP00001.png"
+    },
+    {
+      "name": "JP-rectangle-2-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/JP00002.png"
+    },
+    {
+      "name": "KR-rectangle-2-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/KR00001.png"
+    },
+    {
+      "name": "KR-rectangle-2-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/KR00002.png"
+    },
+    {
+      "name": "NATO-rectangle-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/NATO.png"
+    },
+    {
+      "name": "SG-rectangle-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/SG.png"
+    },
+    {
+      "name": "TW-rectangle-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/TW.png"
+    },
+    {
+      "name": "UN-rectangle-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/UN.png"
+    },
+    {
+      "name": "US-rectangle-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00002/US.png"
+    },
+    {
+      "name": "EU-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/EU.png"
+    },
+    {
+      "name": "GB-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/GB.png"
+    },
+    {
+      "name": "HK-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/HK.png"
+    },
+    {
+      "name": "JP-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/JP.png"
+    },
+    {
+      "name": "KR-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/KR.png"
+    },
+    {
+      "name": "SG-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/SG.png"
+    },
+    {
+      "name": "TW-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/TW.png"
+    },
+    {
+      "name": "UN-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/UN.png"
+    },
+    {
+      "name": "UNESCO-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/UNESCO.png"
+    },
+    {
+      "name": "US-rectangle-3-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/US.png"
+    },
+    {
+      "name": "US-rectangle-3-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00003/US2.png"
+    },
+    {
+      "name": "DE-rectangle-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00004/DE.png"
+    },
+    {
+      "name": "FR-rectangle-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00004/FR.png"
+    },
+    {
+      "name": "GB-rectangle-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00004/GB.png"
+    },
+    
+    {
+      "name": "JP-rectangle-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00004/JP.png"
+    },
+    {
+      "name": "KR-rectangle-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00004/KR.png"
+    },
+    {
+      "name": "SG-rectangle-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00004/SG.png"
+    },
+    {
+      "name": "TW-rectangle-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00004/TW.png"
+    },
+    {
+      "name": "US-rectangle-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00004/US.png"
+    },
+    {
+      "name": "AQ-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/AQ.png"
+    },
+    {
+      "name": "DE-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/DE.png"
+    },
+    {
+      "name": "EU-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/EU.png"
+    },
+    {
+      "name": "FR-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/FR.png"
+    },
+    {
+      "name": "HK-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/HK.png"
+    },
+    {
+      "name": "IT-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/IT.png"
+    },
+    {
+      "name": "JP-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/JP.png"
+    },
+    {
+      "name": "KR-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/KR.png"
+    },
+    {
+      "name": "NATO-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/NATO.png"
+    },
+    {
+      "name": "NL-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/NL.png"
+    },
+    {
+      "name": "SG-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/SG.png"
+    },
+    {
+      "name": "TW-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/TW.png"
+    },
+    {
+      "name": "UK-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/UK.png"
+    },
+    {
+      "name": "UN-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/UN.png"
+    },
+    {
+      "name": "UNESCO-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/UNESCO.png"
+    },
+    {
+      "name": "USA-rectangle-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00005/USA.png"
+    },
+
+    {
+      "name": "EU-rectangle-6-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/eu00001.png"
+    },
+    {
+      "name": "EU-rectangle-6-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/eu00002.png"
+    },
+    {
+      "name": "FR-rectangle-6-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/fr00001.png"
+    },
+    {
+      "name": "FR-rectangle-6-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/fr00002.png"
+    },
+    {
+      "name": "HK-rectangle-6-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/hk00001.png"
+    },
+    {
+      "name": "HK-rectangle-6-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/hk00002.png"
+    },
+    {
+      "name": "JP-rectangle-6-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/jp00001.png"
+    },
+    {
+      "name": "JP-rectangle-6-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/jp00002.png"
+    },
+    {
+      "name": "KR-rectangle-6-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/kr00001.png"
+    },
+    {
+      "name": "KR-rectangle-6-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/kr00002.png"
+    },
+    {
+      "name": "LGBT-rectangle-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/lgbt.png"
+    },
+    {
+      "name": "SG-rectangle-6-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/sg00001.png"
+    },
+    {
+      "name": "SG-rectangle-6-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/sg00002.png"
+    },
+    {
+      "name": "TW-rectangle-6-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/tw00001.png"
+    },
+    {
+      "name": "TW-rectangle-6-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/tw00002.png"
+    },
+    {
+      "name": "UK-rectangle-6-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/uk00001.png"
+    },
+    {
+      "name": "UK-rectangle-6-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/uk00002.png"
+    },
+    {
+      "name": "USA-rectangle-6-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/usa00001.png"
+    },
+    {
+      "name": "USA-rectangle-6-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00006/usa00002.png"
+    },
+
+
+ {
+      "name": "JP-rectangle-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00007/JP.png"
+    },
+    {
+      "name": "france-rectangle-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00007/france.png"
+    },
+    {
+      "name": "international-flag-rectangle-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00007/international-flag.png"
+    },
+    {
+      "name": "japan-rectangle-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00007/japan.png"
+    },
+    {
+      "name": "science-rectangle-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00007/science.png"
+    },
+    {
+      "name": "unesco-rectangle-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00007/unesco.png"
+    },
+    {
+      "name": "world-medical-association-rectangle-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00007/world-medical-association.png"
+    },
+    {
+      "name": "world-wildlife-fund-rectangle-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle00007/world-wildlife-fund.png"
+    },
+    {
+      "name": "EU-rect-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/rectangle00007/EU.png"
+    },
+    {
+      "name": "FR-rect-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/rectangle00007/FRA.png"
+    },
+    {
+      "name": "UK-rect-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/rectangle00007/GBR.png"
+    },
+    {
+      "name": "HK-rect-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/rectangle00007/HKG.png"
+    },
+    {
+      "name": "JP-rect-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/rectangle00007/JPN.png"
+    },
+    {
+      "name": "KR-rect-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/rectangle00007/KOR.png"
+    },
+    {
+      "name": "SG-rect-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/rectangle00007/SGP.png"
+    },
+    {
+      "name": "TW-rect-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/rectangle00007/TWN.png"
+    },
+    {
+      "name": "US-rect-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/rectangle00007/USA.png"
+    },
+
+
+
+
+
+
+
+
+    {
+      "name": "EU-round-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00002/eu-169784.png"
+    },
+    {
+      "name": "france-round-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00002/france.png"
+    },
+    {
+      "name": "germany-round-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00002/germany.png"
+    },
+    {
+      "name": "italy-round-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00002/italy.png"
+    },
+    {
+      "name": "lgbt-round-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00002/lgbt.png"
+    },
+    {
+      "name": "unesco-round-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00002/unesco.png"
+    },
+
+    {
+      "name": "HK-square-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/hk.png"
+    },
+    {
+      "name": "JP-square-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/jp.png"
+    },
+    {
+      "name": "KR-square-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/kr.png"
+    },
+    {
+      "name": "SG-square-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/sg.png"
+    },
+    {
+      "name": "TW-square-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/tw.png"
+    },
+    {
+      "name": "UK-square-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/uk.png"
+    },
+    {
+      "name": "US-square-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/us.png"
+    },
+    {
+      "name": "britain-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/britain.png"
+    },
+    {
+      "name": "FR-square-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/fr.png"
+    },
+    {
+      "name": "france-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/france.png"
+    },
+    {
+      "name": "hongkong-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/hongkong.png"
+    },
+    {
+      "name": "japan-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/japan.png"
+    },
+    {
+      "name": "korea-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/korea.png"
+    },
+    {
+      "name": "singapore-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/singapore.png"
+    },
+    {
+      "name": "taiwan-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/taiwan.png"
+    },
+    {
+      "name": "un-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/un.png"
+    },
+    {
+      "name": "unitedstates-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00002/unitedstates.png"
+    },
+
+    {
+      "name": "FR-square-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00004/FR.png"
+    },
+    {
+      "name": "GB-square-4-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00004/GB00001.png"
+    },
+    {
+      "name": "GB-square-4-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00004/GB00002.png"
+    },
+    {
+      "name": "JP-square-4-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00004/JP00001.png"
+    },
+    {
+      "name": "JP-square-4-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00004/JP00002.png"
+    },
+    {
+      "name": "KR-square-4-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00004/KR00001.png"
+    },
+    {
+      "name": "KR-square-4-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00004/KR00002.png"
+    },
+    {
+      "name": "SG-square-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00004/SG.png"
+    },
+    {
+      "name": "TW-square-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00004/TW.png"
+    },
+    {
+      "name": "USA-square-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00004/USA.png"
+    },
+
+    
+    {
+      "name": "ATS-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/ATS.png"
+    },
+    {
+      "name": "antarctica-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/antarctica.png"
+    },
+    {
+      "name": "de-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/de.png"
+    },
+    {
+      "name": "it-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/it.png"
+    },
+    {
+      "name": "lgbt-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/lgbt.png"
+    },
+    {
+      "name": "nato-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/nato.png"
+    },
+    {
+      "name": "un-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/un.png"
+    },
+    {
+      "name": "unesco-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square/unesco.png"
+    },
+
+
+    {
+      "name": "europeanunion-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/europeanunion.png"
+    },
+    {
+      "name": "france-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/france.png"
+    },
+    {
+      "name": "hongkong-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/hongkong.png"
+    },
+    {
+      "name": "japan-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/japan.png"
+    },
+    {
+      "name": "nato-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/nato.png"
+    },
+    {
+      "name": "singapore-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/singapore.png"
+    },
+    {
+      "name": "southkorea-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/southkorea.png"
+    },
+    {
+      "name": "taiwan-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/taiwan.png"
+    },
+    {
+      "name": "unitedkingdom-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/unitedkingdom.png"
+    },
+    {
+      "name": "unitednations-square",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/unitednations.png"
+    },
+    {
+      "name": "unitedstates-square-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/square00003/unitedstates.png"
+    },
+    {
+      "name": "UN-round-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/217-united nations.png"
+    },
+    {
+      "name": "world-round",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/227-world.png"
+    },
+    {
+      "name": "DE-round-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/DE00001.png"
+    },
+    {
+      "name": "DE-round-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/DE00002.png"
+    },
+    {
+      "name": "DE-round-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/DE00003.png"
+    },
+    {
+      "name": "EU-round-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/EU00001.png"
+    },
+    {
+      "name": "EU-round-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/EU00002.png"
+    },
+    {
+      "name": "EU-round-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/EU00003.png"
+    },
+    {
+      "name": "FR-round-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/FR00001.png"
+    },
+    {
+      "name": "FR-round-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/FR00002.png"
+    },
+    {
+      "name": "FR-round-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/FR00003.png"
+    },
+    {
+      "name": "HK-round-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/HK00001.png"
+    },
+    {
+      "name": "HK-round-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/HK00002.png"
+    },
+    {
+      "name": "HK-round-8",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/HK00003.png"
+    },
+    {
+      "name": "HK-round-9",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/HK00004.png"
+    },
+    {
+      "name": "IT-round-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/IT00001.png"
+    },
+    {
+      "name": "IT-round-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/IT00002.png"
+    },
+    {
+      "name": "IT-round-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/IT00003.png"
+    },
+    {
+      "name": "JP-round-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/JP00001.png"
+    },
+    {
+      "name": "JP-round-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/JP00002.png"
+    },
+    {
+      "name": "JP-round-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/JP00003.png"
+    },
+    {
+      "name": "JP-round-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/JP00004.png"
+    },
+    {
+      "name": "KR-round-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/KR00004.png"
+    },
+    {
+      "name": "KR-round-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/KR00005.png"
+    },
+    {
+      "name": "KR-round-8",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/KR00006.png"
+    },
+    {
+      "name": "KR-round-9",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/KR00007.png"
+    },
+    {
+      "name": "NATO-round",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/NATO.png"
+    },
+    {
+      "name": "SG-round-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/SG00001.png"
+    },
+    {
+      "name": "SG-round-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/SG00002.png"
+    },
+    {
+      "name": "SG-round-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/SG00003.png"
+    },
+    {
+      "name": "SG-round-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/SG00004.png"
+    },
+    {
+      "name": "TW-round-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/TW00004.png"
+    },
+    {
+      "name": "TW-round-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/TW00005.png"
+    },
+    {
+      "name": "TW-round-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/TW00006.png"
+    },
+    {
+      "name": "TW-round-7",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/TW00007.png"
+    },
+    {
+      "name": "UK-round-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/UK00001.png"
+    },
+    {
+      "name": "UK-round-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/UK00002.png"
+    },
+    {
+      "name": "UK-round-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/UK00003.png"
+    },
+    {
+      "name": "UK-round-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/UK00004.png"
+    },
+    {
+      "name": "US-round-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/US00001.png"
+    },
+    {
+      "name": "US-round-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/US00002.png"
+    },
+    {
+      "name": "US-round-5",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/US00003.png"
+    },
+    {
+      "name": "US-round-6",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/round00003/US00004.png"
+    },
+
+    {
+      "name": "US-round-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/1000012_america_american_flag_states_united_icon.png"
+    },
+    {
+      "name": "UK-round-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/1285313_britain_british_circle_country_england_icon.png"
+    },
+    {
+      "name": "HK-round-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/1292438_circle_country_flag_hong%20kong_national_icon.png"
+    },
+    {
+      "name": "JP-round-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/1292557_circle_country_flag_japan_national_icon.png"
+    },
+    {
+      "name": "SG-round-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/1293013_circle_country_flag_national_singapore_icon.png"
+    },
+    {
+      "name": "KR-round-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/1293019_circle_country_flag_national_south%20korea_icon.png"
+    },
+    {
+      "name": "US-round-8",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/1296688_circle_country_flag_national_usa_icon.png"
+    },
+    {
+      "name": "TW-round-7",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/1296713_circle_country_flag_national_taiwan_icon.png"
+    },
+    {
+      "name": "KR-round-8",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/821255_south%20korea_country_flag_icon.png"
+    },
+    {
+      "name": "HK-round-8",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/821276_hong%20kong_country_flag_hongkong_icon.png"
+    },
+    {
+      "name": "JP-round-8",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/821338_japan_country_flag_japanese_icon.png"
+    },
+    {
+      "name": "SG-round-8",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/821382_singapore_country_flag_icon.png"
+    },
+    {
+      "name": "TW-round-8",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round00004/821389_taiwan_country_flag_icon.png"
+    },
+
+
+
+
+
+
+
+
+
+    
+    {
+      "name": "britain-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/britain.png"
+    },
+    {
+      "name": "eu-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/eu.png"
+    },
+    {
+      "name": "france-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/france.png"
+    },
+    {
+      "name": "germany-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/germany.png"
+    },
+    {
+      "name": "hongkong-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/hongkong.png"
+    },
+    {
+      "name": "italy-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/italy.png"
+    },
+    {
+      "name": "japan-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/japan.png"
+    },
+    {
+      "name": "nato-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/nato.png"
+    },
+    {
+      "name": "singapore-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/singapore.png"
+    },
+    {
+      "name": "south-korea-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/south.png"
+    },
+    {
+      "name": "unesco-coin",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/unesco.png"
+    },
+    {
+      "name": "united-states-coin-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/united.png"
+    },
+    {
+      "name": "united-states-coin-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/coins/united00002.png"
+    },
+    {
+      "name": "japanese-dragon",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/ancient_culture_fantasy_monster_traditional_asian_japanese_dragon.png"
+    },
+    {
+      "name": "japanese-archer",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/archery_sport_arrow_bow_samurai_japanese_archer.png"
+    },
+    {
+      "name": "samurai-warrior",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/armor_character_traditional_sword_japanese_samurai_warrior.png"
+    },
+    {
+      "name": "korean-flag-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/asian_korean_korean%20flag_korean-american_national%20flag_icon.png"
+    },
+    {
+      "name": "korean-flag-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/asian_korean_korean%20flag_korean-american_south%20korea_icon.png"
+    },
+    {
+      "name": "korean-flag-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/asian_korean_korean%20flag_south%20korea_south%20korean%20flag_icon.png"
+    },
+    {
+      "name": "takoyaki",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/ball_japanese_traditional_culture_food_cuisine_takoyaki.png"
+    },
+    {
+      "name": "japanese-bear",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/beast_wild_animal_forrest_japanese_bear.png"
+    },
+    {
+      "name": "japanese-monk",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/buddha_traditional_people_japanese_religion_monk.png"
+    },
+    {
+      "name": "japanese-temple",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/building_pagoda_architecture_culture_traditional_japanese_temple.png"
+    },
+    {
+      "name": "samurai-katana",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/bushido_ronin_traditional_warrior_japanese_sword_samurai_katana.png"
+    },
+    {
+      "name": "samurai-armor",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/bushido_samurai_armor_helmet_mask_japanese_warrior.png"
+    },
+    {
+      "name": "samurai-soldier",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/bushido_soldier_military_sword_japanese_samurai_warrior.png"
+    },
+    {
+      "name": "samurai-character",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/character_katana_traditional_warrior_sword_japanese_samurai.png"
+    },
+    {
+      "name": "koi-fish",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/colorful_beautiful_carp_koi_japanese_fish.png"
+    },
+    {
+      "name": "japanese-octopus",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/cooking_delicious_cuisine_seafood_japan_japanese_octopus_food.png"
+    },
+    {
+      "name": "japanese-rice-ball",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/cuisine_seaweed_ball_lunch_rice_food_japanese.png"
+    },
+    {
+      "name": "japanese-fan",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/elegance_accessory_paper_traditional_fan_japanese.png"
+    },
+    {
+      "name": "ronin-samurai",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/famous_warrior_ronin_swordsman_history_japanese_samurai.png"
+    },
+    {
+      "name": "japanese-fisherman",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/comic/fishing_traditional_fish_asian_fisherman_japanese.png"
+    }
+  ]
+}
+
