@@ -1,0 +1,263 @@
+{
+    "name": "xiaoqian",
+    "description": "兰若寺畔，千年等一回。",
+    "icons": [
+      {
+        "name": "logo-apple-1",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/apple/apple00001.png"
+      },
+      {
+        "name": "logo-apple-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/apple/apple00002.png"
+      },
+      {
+        "name": "logo-apple-3",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/apple/apple00003.png"
+      },
+      {
+        "name": "logo-arrow",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/arrow/arrow.png"
+      },
+      {
+        "name": "logo-disney-plus",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/disney/plus.png"
+      },
+      {
+        "name": "logo-disney-plus-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/disney/plus-2.png"
+      },
+      {
+        "name": "logo-disney-plus-3",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/disney/plus-3.png"
+      },
+      {
+        "name": "logo-disney-plus-4",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/disney/plus-4.png"
+      },
+      {
+        "name": "logo-disney-plus-5",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/disney/plus-5.png"
+      },
+      {
+        "name": "logo-google",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/google/google.png"
+      },
+      {
+        "name": "logo-ms-window",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/ms/window.png"
+      },
+      {
+        "name": "logo-netflix-1",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/netflix/netflix00001.png"
+      },
+      {
+        "name": "logo-netflix-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/netflix/netflix00002.png"
+      },
+      {
+        "name": "logo-netflix-3",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/netflix/netflix00003.png"
+      },
+      {
+        "name": "logo-netflix-4",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/netflix/netflix00004.png"
+      },
+      {
+        "name": "logo-netflix-5",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/netflix/netflix00005.png"
+      },
+      {
+        "name": "logo-openai-1",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00001.png"
+      },
+      {
+        "name": "logo-openai-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00002.png"
+      },
+      {
+        "name": "logo-openai-3",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00003.png"
+      },
+      {
+        "name": "logo-openai-4",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00004.png"
+      },
+      {
+        "name": "logo-openai-5",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00005.png"
+      },
+      {
+        "name": "logo-openai-6",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00006.png"
+      },
+      {
+        "name": "logo-openai-7",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00007.png"
+      },
+      {
+        "name": "logo-openai-8",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00008.png"
+      },
+      {
+        "name": "logo-openai-9",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00009.png"
+      },
+      {
+        "name": "logo-openai-10",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00010.png"
+      },
+      {
+        "name": "logo-openai-11",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/openai/openai00011.png"
+      },
+      {
+        "name": "logo-telegram-1",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00001.png"
+      },
+      {
+        "name": "logo-telegram-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00002.png"
+      },
+      {
+        "name": "logo-telegram-3",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00003.png"
+      },
+      {
+        "name": "logo-telegram-4",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00004.png"
+      },
+      {
+        "name": "logo-telegram-5",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00005.png"
+      },
+      {
+        "name": "logo-telegram-6",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00006.png"
+      },
+      {
+        "name": "logo-telegram-7",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00007.png"
+      },
+      {
+        "name": "logo-telegram-8",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00008.png"
+      },
+      {
+        "name": "logo-telegram-9",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/telegram/telegram00009.png"
+      },
+      {
+        "name": "logo-tiktok",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/tiktok/tiktok.png"
+      },
+      {
+        "name": "logo-vpn",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/vpn/vpn.png"
+      },
+      {
+        "name": "logo-vpn-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/logo/vpn/vpn-2.png"
+      },
+      {
+        "name": "signal-bolt",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/bolt.png"
+      },
+      {
+        "name": "signal-branching-paths-up",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/branching-paths-up.png"
+      },
+      {
+        "name": "signal-browser",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/browser.png"
+      },
+      {
+        "name": "signal-cursor",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/cursor.png"
+      },
+      {
+        "name": "signal-flow-chart",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/flow-chart.png"
+      },
+      {
+        "name": "signal-internet",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/internet.png"
+      },
+      {
+        "name": "signal-next-arrow",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/next-arrow.png"
+      },
+      {
+        "name": "signal-nuke",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/nuke.png"
+      },
+      {
+        "name": "signal-nuke-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/nuke-2.png"
+      },
+      {
+        "name": "signal-proximity-sensor",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/proximity-sensor.png"
+      },
+      {
+        "name": "signal-radar",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/radar.png"
+      },
+      {
+        "name": "signal-radar-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/radar-2.png"
+      },
+      {
+        "name": "signal-radar-3",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/radar-3.png"
+      },
+      {
+        "name": "signal-scissor-square",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/scissor-square.png"
+      },
+      {
+        "name": "signal-scissors",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/scissors.png"
+      },
+      {
+        "name": "signal-scissors-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/scissors-2.png"
+      },
+      {
+        "name": "signal-scissors-square",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/scissors-square.png"
+      },
+      {
+        "name": "signal-streaming",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming.png"
+      },
+      {
+        "name": "signal-streaming-2",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming-2.png"
+      },
+      {
+        "name": "signal-streaming-3",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming-3.png"
+      },
+      {
+        "name": "signal-streaming-4",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming-4.png"
+      },
+      {
+        "name": "signal-streaming-5",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming-5.png"
+      },
+      {
+        "name": "signal-streaming-6",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/streaming-6.png"
+      },
+      {
+        "name": "signal-transfer",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/transfer.png"
+      },
+      {
+        "name": "signal-upload-arrow",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/images/signal/upload-arrow.png"
+      }
+    ]
+  }
+  
