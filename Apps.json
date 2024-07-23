@@ -1,5 +1,5 @@
 {
-  "name": "Xiaoqian's Flat iOS Icon Set",
+  "name": "CC's APP图标集",
   "description": "Comprehensive flat design icon collection.",
   "icons": [
     {
@@ -57,6 +57,26 @@
     {
       "name": "Surge",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/Surge.png"
+    },
+    {
+      "name": "Surge_Classic",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/Surge_Classic.png"
+    },
+    {
+      "name": "Surge_Inky",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/Surge_Inky.png"
+    },
+    {
+      "name": "Surge_Sapphire",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/Surge_Sapphire.png"
+    },
+    {
+      "name": "Surge_Sapphire_Alt",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/Surge_Sapphire_Alt.png"
+    },
+    {
+      "name": "Surge_Sapphire_Dark",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/Surge_Sapphire_Dark.png"
     },
     {
       "name": "qx-1",
