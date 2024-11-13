@@ -167,6 +167,10 @@
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/cloudflare/111100004.png"
     },
     {
+      "name": "cloudflare-5",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/cloudflare/111100005.png"
+    },
+    {
       "name": "huggingface",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/huggingface.png"
     },
@@ -909,6 +913,18 @@
     {
       "name": "Sunset",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/telegram/Sunset.png"
+    },
+    {
+      "name": "CobaltWebapp",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/CobaltWebapp.png"
+    },
+    {
+      "name": "DNSSwitcher",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/DNSSwitcher.png"
+    },
+    {
+      "name": "Werecleaner",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/Werecleaner.png"
     }
   ]
 }
