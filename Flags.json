@@ -39,14 +39,6 @@
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/USA00001.png"
     },
     {
-      "name": "EU-rectangle-1",
-      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/EU00001.png"
-    },
-    {
-      "name": "EU-rectangle-2",
-      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/EU00002.png"
-    },
-    {
       "name": "GB-rectangle-1",
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/GB00001.png"
     },
@@ -54,6 +46,19 @@
       "name": "GB-rectangle-2",
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/GB00002.png"
     },
+    {
+      "name": "JP-rectangle-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/JP00001.png"
+    },
+    {
+      "name": "EU-rectangle-1",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/EU00001.png"
+    },
+    {
+      "name": "EU-rectangle-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/EU00002.png"
+    },
+
     {
       "name": "HK-rectangle-1",
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/HK00001.png"
@@ -63,8 +68,12 @@
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/HK00002.png"
     },
     {
-      "name": "JP-rectangle-1",
-      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/JP00001.png"
+      "name": "HK-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/HK00003.png"
+    },
+    {
+      "name": "HK-rectangle-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/HK00004.png"
     },
     {
       "name": "JP-rectangle-2",
@@ -161,14 +170,6 @@
     {
       "name": "HK-rectangle-4",
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/HK00004.png"
-    },
-    {
-      "name": "JP-rectangle-1",
-      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/JP00001.png"
-    },
-    {
-      "name": "JP-rectangle-2",
-      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/JP00002.png"
     },
     {
       "name": "NATO-rectangle-1",
