@@ -23,7 +23,7 @@
         "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/antenna.png"
       },
       {
-        "name": "anticlockwise",
+        "name": "anticlockwise",  
         "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/anticlockwise.png"
       },
       {
@@ -147,8 +147,8 @@
         "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/swirl00001.png"
       },
       {
-        "name": "switch-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/switch00001.png"
+        "name": "switch-2",
+        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/switch00002.png"
       }  
     ]
   }

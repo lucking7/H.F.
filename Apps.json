@@ -351,6 +351,10 @@
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/google/chrome00002.png"
     },
     {
+      "name": "folx",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/folx.png"
+    },
+    {
       "name": "gemini-1",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/google/gemini00001.png"
     },
@@ -386,7 +390,10 @@
       "name": "gemini-9",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/google/gemini00009.png"
     },    
-
+    {
+      "name": "gemini-10",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/google/gemini00010.png"
+    },  
     {
       "name": "google-1",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/google/google00001.png"
