@@ -3,6 +3,14 @@
   "description": "Comprehensive flat design icon collection.",
   "icons": [
     {
+      "name": "girl00001",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/girl00001.png"
+    },
+    {
+      "name": "girl00002",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/girl00002.png"
+    },
+    {
       "name": "nasa-1",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/nasa/nasa00001.png"
     },
@@ -57,6 +65,10 @@
     {
       "name": "Surge",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/Surge.png"
+    },
+    {
+      "name": "Surge_AKA",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/Surge_AKA.png"
     },
     {
       "name": "Surge_Classic",
@@ -389,11 +401,11 @@
     {
       "name": "gemini-9",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/google/gemini00009.png"
-    },    
+    },
     {
       "name": "gemini-10",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/google/gemini00010.png"
-    },  
+    },
     {
       "name": "google-1",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/google/google00001.png"
@@ -478,7 +490,7 @@
     {
       "name": "SuperMeatBoy",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/game/SuperMeatBoy.png"
-    },  
+    },
     {
       "name": "Deprecated_Ryujinx_Logo_Recoloured",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/developer/Deprecated_Ryujinx_Logo_Recoloured.png"
@@ -691,23 +703,6 @@
       "name": "bilibili-5",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/bilibili/bilibili00005.png"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     {
       "name": "perplexity-1",
