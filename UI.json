@@ -4,151 +4,163 @@
     "icons": [
       {
         "name": "FingerAction",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/FingerAction.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/FingerAction.png"
       },
       {
         "name": "HandsGun",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/HandsGun.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/HandsGun.png"
       },
       {
         "name": "acceptable",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/acceptable.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/acceptable.png"
       },
       {
         "name": "age",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/age.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/age.png"
       },
       {
         "name": "antenna",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/antenna.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/antenna.png"
       },
       {
         "name": "anticlockwise",  
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/anticlockwise.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/anticlockwise.png"
       },
       {
         "name": "application",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/application.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/application.png"
       },
       {
         "name": "astrology",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/astrology.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/astrology.png"
       },
       {
         "name": "astronomy",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/astronomy.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/astronomy.png"
       },
       {
         "name": "branching",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/branching.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/branching.png"
       },
       {
         "name": "brightstar-2",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/brightstar2.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/brightstar2.png"
       },
       {
         "name": "brightstar-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/brightstar1.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/brightstar1.png"
+      },
+      {
+        "name": "crystal",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/crystal.png"
       },
       {
         "name": "data-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/data00001.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/data00001.png"
       },
       {
         "name": "data-2",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/data00002.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/data00002.png"
       },
       {
         "name": "equalizer",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/equalizer.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/equalizer.png"
       },
       {
         "name": "film",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/film.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/film.png"
       },
       {
         "name": "film-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/film00001.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/film00001.png"
       },
       {
         "name": "flash-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/flash00001.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/flash00001.png"
       },
       {
         "name": "flash-2",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/flash00002.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/flash00002.png"
       },
       {
         "name": "globe-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/globe00001.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/globe00001.png"
       },
       {
         "name": "globe-2",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/globe00002.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/globe00002.png"
       },
       {
         "name": "globe-3",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/globe00003.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/globe00003.png"
       },
       {
         "name": "internet-2",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/internet00002.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/internet00002.png"
       },
       {
         "name": "internet-3",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/internet00003.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/internet00003.png"
       },
       {
         "name": "magic",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/magic.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/magic.png"
+      },
+      {
+        "name": "magiccard",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/magiccard.png"
       },
       {
         "name": "magicsun",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/magicsun.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/magicsun.png"
       },
       {
         "name": "radar-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/radar00001.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/radar00001.png"
       },
       {
         "name": "radar-2",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/radar00002.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/radar00002.png"
       },
       {
         "name": "rocket-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/rocket00001.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/rocket00001.png"
       },
       {
         "name": "satellite-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/satellite00001.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/satellite00001.png"
       },
       {
         "name": "scissor-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/scissor00001.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/scissor00001.png"
       },
       {
         "name": "star",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/star.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/star.png"
       },
       {
         "name": "stars",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/stars.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/stars.png"
       },
       {
         "name": "streaming-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/streaming00001.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/streaming00001.png"
       },
       {
         "name": "streaming-2",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/streaming00002.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/streaming00002.png"
       },
       {
         "name": "swirl-1",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/swirl00001.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/swirl00001.png"
+      },
+      {
+        "name": "switch-1",
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/switch00001.png"
       },
       {
         "name": "switch-2",
-        "url": "https://raw.githubusercontent.com/hchichi/H.F./main/signal/switch00002.png"
+        "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/signal/switch00002.png"
       }  
     ]
   }
