@@ -39,6 +39,14 @@
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/USA00001.png"
     },
     {
+      "name": "USA-rectangle-2",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/USA00002.png"
+    },
+    {
+      "name": "USA-rectangle-3",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/USA00003.png"
+    },
+    {
       "name": "GB-rectangle-1",
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/GB00001.png"
     },
@@ -92,6 +100,10 @@
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/KR00003.png"
     },
     {
+      "name": "KR-rectangle-4",
+      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/KR00004.png"
+    },
+    {
       "name": "SG-rectangle-1",
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/SG00001.png"
     },
@@ -132,22 +144,6 @@
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/TW00005.png"
     },
     {
-      "name": "US-rectangle-1",
-      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/US00001.png"
-    },
-    {
-      "name": "US-rectangle-2",
-      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/US00002.png"
-    },
-    {
-      "name": "US-rectangle-3",
-      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/US00003.png"
-    },
-    {
-      "name": "US-rectangle-4",
-      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/US00004.png"
-    },
-    {
       "name": "EUR-rectangle-1",
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/EUR00001.png"
     },
@@ -166,10 +162,6 @@
     {
       "name": "EU-rectangle-4",
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/EU00004.png"
-    },
-    {
-      "name": "HK-rectangle-4",
-      "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/rectangle/HK00004.png"
     },
     {
       "name": "NATO-rectangle-1",
@@ -250,54 +242,6 @@
     {
       "name": "world-wildlife-fund-organization",
       "url": "https://raw.githubusercontent.com/HauruJ/H.F./main/flags/organization/world-wildlife-fund.png"
-    },
-    {
-      "name": "EU-round-1",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/EU00001.png"
-    },
-    {
-      "name": "HK-round-4",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/HK00004.png"
-    },
-    {
-      "name": "JP-round-4",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/JP00004.png"
-    },
-    {
-      "name": "KR-round-2",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/KR00002.png"
-    },
-    {
-      "name": "SG-round-3",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/SG00003.png"
-    },
-    {
-      "name": "SG-round-6",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/SG00006.png"
-    },
-    {
-      "name": "TW-round-5",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/TW00005.png"
-    },
-    {
-      "name": "TW-round-6",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/TW00006.png"
-    },
-    {
-      "name": "UK-round-5",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/UK00005.png"
-    },
-    {
-      "name": "UN-round-1",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/UN00001.png"
-    },
-    {
-      "name": "UN-round-3",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/UN00003.png"
-    },
-    {
-      "name": "US-round-5",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/flags/round/US00005.png"
     }
   ]
 }
