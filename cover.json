@@ -1,0 +1,30 @@
+{
+  "name": "LUCK's Cover",
+  "description": "A collection of cover images.",
+  "icons": [
+    {
+      "name": "doubanbestpicture",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/doubanbestpicture.png"
+    },
+    {
+      "name": "imdbbestseries",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/imdbbestseries.png"
+    },
+    {
+      "name": "imdbpicture",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/imdbpicture.png"
+    },
+    {
+      "name": "oscarwinningfinale",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/oscarwinningfinale.png"
+    },
+    {
+      "name": "unexpectedending",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/unexpectedending.png"
+    },
+    {
+      "name": "unexpectedending00002",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/unexpectedending00002.png"
+    }
+  ]
+}

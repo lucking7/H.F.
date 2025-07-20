@@ -1,82 +1,82 @@
 {
-    "name": "CC's APP图标集(144px)",
+    "name": "LUCK's APP图标集(144px)",
     "description": "A collection of flat design app icons for Quantumult X, all in 144px format",
     "icons": [
     {
       "name": "Arc Browser",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/arc00001.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/arc00001.png"
     },
     {
       "name": "Claude",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/claude00001.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/claude00001.png"
     },
     {
       "name": "Clash 1",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/clash00001.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/clash00001.png"
     },
     {
       "name": "Clash 2",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/clash00002.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/clash00002.png"
     },
     {
       "name": "Duck",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/duck.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/duck.png"
     },
     {
       "name": "Hugging Face",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/huggingface.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/huggingface.png"
     },
     {
       "name": "Ollama 1",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/ollama00001.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/ollama00001.png"
     },
     {
       "name": "Ollama 2",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/ollama00002.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/ollama00002.png"
     },
     {
       "name": "Quantumult X 1",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/qx00001.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/qx00001.png"
     },
     {
       "name": "Quantumult X 2",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/qx00002.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/qx00002.png"
     },
     {
       "name": "Quantumult X 3",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/qx00003.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/qx00003.png"
     },
     {
       "name": "Quantumult X 4",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/qx00004.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/qx00004.png"
     },
     {
       "name": "Shadowrocket 1",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/shadowrocket00001.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/shadowrocket00001.png"
     },
     {
       "name": "Shadowrocket 2",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/shadowrocket00002.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/shadowrocket00002.png"
     },
     {
       "name": "SingBox",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/singbox.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/singbox.png"
     },
     {
       "name": "Surge 1",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/surge00001.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/surge00001.png"
     },
     {
       "name": "Surge 2",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/surge00002.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/surge00002.png"
     },
     {
       "name": "Telegram 1",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/telegram00001.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/telegram00001.png"
     },
     {
       "name": "Telegram 2",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/logo/144px/telegram00002.png"
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/telegram00002.png"
     }
   ]
 }
