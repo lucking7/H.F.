@@ -25,6 +25,26 @@
     {
       "name": "unexpectedending00002",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/unexpectedending00002.png"
+    },
+    {
+      "name": "anime",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/anime.png"
+    },
+    {
+      "name": "chinesedrama",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/chinesedrama.png"
+    },
+    {
+      "name": "japanesedrama",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/japanesedrama.png"
+    },
+    {
+      "name": "westerndrama",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westerndrama.png"
+    },
+    {
+      "name": "koreandrama",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/koreandrama.png"
     }
   ]
 }
