@@ -45,6 +45,18 @@
     {
       "name": "koreandrama",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/koreandrama.png"
+    },
+    {
+      "name": "westerndrama00002",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westerndrama00002.png"
+    },
+    {
+      "name": "documentary",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/documentary.png"
+    },
+    {
+      "name": "varietyshow",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/varietyshow.png"
     }
   ]
 }
