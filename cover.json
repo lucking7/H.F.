@@ -3,30 +3,6 @@
   "description": "A collection of cover images.",
   "icons": [
     {
-      "name": "doubanbestpicture",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/doubanbestpicture.png"
-    },
-    {
-      "name": "imdbbestseries",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/imdbbestseries.png"
-    },
-    {
-      "name": "imdbpicture",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/imdbpicture.png"
-    },
-    {
-      "name": "oscarwinningfinale",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/oscarwinningfinale.png"
-    },
-    {
-      "name": "unexpectedending",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/unexpectedending.png"
-    },
-    {
-      "name": "unexpectedending00002",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/unexpectedending00002.png"
-    },
-    {
       "name": "anime",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/anime.png"
     },
@@ -35,44 +11,44 @@
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/chinesedrama.png"
     },
     {
-      "name": "japanesedrama",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/japanesedrama.png"
-    },
-    {
-      "name": "westerndrama",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westerndrama.png"
-    },
-    {
-      "name": "koreandrama",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/koreandrama.png"
-    },
-    {
-      "name": "westerndrama-2",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westerndrama-2.png"
+      "name": "chinesemovie",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/chinesemovie.png"
     },
     {
       "name": "documentary",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/documentary.png"
     },
     {
-      "name": "varietyshow",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/varietyshow.png"
-    },
-    {
-      "name": "chinesemovie",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/chinesemovie.png"
+      "name": "japanesedrama",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/japanesedrama.png"
     },
     {
       "name": "japanesemovie",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/japanesemovie.png"
     },
     {
-      "name": "westernmovie",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westernmovie.png"
+      "name": "koreandrama",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/koreandrama.png"
     },
     {
       "name": "koreanmovie",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/koreanmovie.png"
+    },
+    {
+      "name": "varietyshow",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/varietyshow.png"
+    },
+    {
+      "name": "westerndrama",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westerndrama.png"
+    },
+    {
+      "name": "westerndrama-2",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westerndrama-2.png"
+    },
+    {
+      "name": "westernmovie",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westernmovie.png"
     }
   ]
 }
