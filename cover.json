@@ -47,8 +47,8 @@
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/koreandrama.png"
     },
     {
-      "name": "westerndrama00002",
-      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westerndrama00002.png"
+      "name": "westerndrama-2",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westerndrama-2.png"
     },
     {
       "name": "documentary",
@@ -57,6 +57,22 @@
     {
       "name": "varietyshow",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/varietyshow.png"
+    },
+    {
+      "name": "chinesemovie",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/chinesemovie.png"
+    },
+    {
+      "name": "japanesemovie",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/japanesemovie.png"
+    },
+    {
+      "name": "westernmovie",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westernmovie.png"
+    },
+    {
+      "name": "koreanmovie",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/koreanmovie.png"
     }
   ]
 }
