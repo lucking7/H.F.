@@ -49,6 +49,10 @@
     {
       "name": "westernmovie",
       "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westernmovie.png"
+    },
+    {
+      "name": "westernmovie-2",
+      "url": "https://raw.githubusercontent.com/hchichi/H.F./main/cover/westernmovie-2.png"
     }
   ]
 }
