@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="772" viewBox="0 0 1024 772" role="img" aria-label="GBR">
+  <!--Geometry adapted from lipis/flag-icons 086f7e97d657358203916dbe84f61c2bccaa81eb (MIT); palette redrawn after USA00001.-->
+  <defs>
+    <clipPath id="card">
+      <rect x="8" y="8" width="1008" height="756" rx="64" />
+    </clipPath>
+    <linearGradient id="paint-1" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
+      <stop offset="0" stop-color="#425FAD" />
+      <stop offset="0.82" stop-color="#072472" />
+      <stop offset="1" stop-color="#072472" />
+    </linearGradient>
+    <linearGradient id="paint-2" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.34" stop-color="#FFFFFF" />
+      <stop offset="0.82" stop-color="#DEDEDE" />
+      <stop offset="1" stop-color="#DEDEDE" />
+    </linearGradient>
+    <linearGradient id="paint-3" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
+      <stop offset="0" stop-color="#FF6454" />
+      <stop offset="0.82" stop-color="#C52A1A" />
+      <stop offset="1" stop-color="#C52A1A" />
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <g transform="translate(8 8) scale(1.575)">
+      <path fill="url(#paint-1)" d="M0 0h640v480H0z" />
+      <path fill="url(#paint-2)" d="m75 0 244 181L562 0h78v62L400 241l240 178v61h-80L320 301 81 480H0v-60l239-178L0 64V0z" />
+      <path fill="url(#paint-3)" d="m424 281 216 159v40L369 281zm-184 20 6 35L54 480H0zM640 0v3L391 191l2-44L590 0zM0 0l239 176h-60L0 42z" />
+      <path fill="url(#paint-2)" d="M241 0v480h160V0zM0 160v160h640V160z" />
+      <path fill="url(#paint-3)" d="M0 193v96h640v-96zM273 0v480h96V0z" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Toggles">
+<defs>
+<linearGradient id="white" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.34" stop-color="#FFFFFF"/><stop offset="0.82" stop-color="#DEDEDE"/></linearGradient>
+<linearGradient id="blue" gradientUnits="userSpaceOnUse" x1="0" y1="48" x2="0" y2="976"><stop offset="0" stop-color="#425FAD"/><stop offset="0.82" stop-color="#072472"/></linearGradient>
+<linearGradient id="red" gradientUnits="userSpaceOnUse" x1="0" y1="48" x2="0" y2="976"><stop offset="0" stop-color="#FF6454"/><stop offset="0.82" stop-color="#C52A1A"/></linearGradient>
+</defs>
+<rect x="48" y="48" width="928" height="928" rx="128" fill="url(#white)"/>
+<rect x="282" y="290" width="460" height="186" rx="93" stroke="url(#blue)" fill="url(#white)" stroke-width="36"/><rect x="282" y="552" width="460" height="186" rx="93" stroke="url(#red)" fill="url(#white)" stroke-width="36"/><circle cx="386" cy="383" r="60" stroke="url(#blue)" fill="url(#blue)" stroke-width="0"/><circle cx="638" cy="645" r="60" stroke="url(#red)" fill="url(#red)" stroke-width="0"/>
+</svg>

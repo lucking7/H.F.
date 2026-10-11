@@ -2,10 +2,10 @@
 
 ## Collections
 
-- [Recommended flags](FlagsRecommended.json): the default rounded rectangle selection, including Netherlands and the corrected US flag.
-- [All flag variants](Flags.json): the complete collection with historical URLs preserved.
+- [Flags](Flags.json): one version per location, redrawn in the USA-1 inspired palette.
 - [Flag style and editable sources](flags/README.md).
-- [App icons](Apps.json), [144 px app icons](Apps144px.json), and [UI icons](UI.json).
+- [App and brand icons](Apps.json): one clear version per identity, with original brand colors.
+- [UI icons](UI.json): a compact set of distinct utility symbols.
 
 ---
 

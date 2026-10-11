@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="772" viewBox="0 0 1024 772" role="img" aria-label="KOR">
+  <!--Geometry adapted from lipis/flag-icons 086f7e97d657358203916dbe84f61c2bccaa81eb (MIT); palette redrawn after USA00001.-->
+  <defs>
+    <clipPath id="card">
+      <rect x="8" y="8" width="1008" height="756" rx="64" />
+    </clipPath>
+    <linearGradient id="paint-1" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6772486772 -0 -0 0.6772486772 -101.2046561 -5.844656085)">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.34" stop-color="#FFFFFF" />
+      <stop offset="0.82" stop-color="#DEDEDE" />
+      <stop offset="1" stop-color="#DEDEDE" />
+    </linearGradient>
+    <linearGradient id="paint-2" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.03522820661 0.05282246744 -0.05282246744 0.03522820661 2.381338199 -40.62836628)">
+      <stop offset="0" stop-color="#303030" />
+      <stop offset="0.82" stop-color="#111111" />
+      <stop offset="1" stop-color="#111111" />
+    </linearGradient>
+    <linearGradient id="paint-3" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.03522820661 0.05282246744 -0.05282246744 0.03522820661 2.381338199 -84.62836628)">
+      <stop offset="0" stop-color="#303030" />
+      <stop offset="0.82" stop-color="#111111" />
+      <stop offset="1" stop-color="#111111" />
+    </linearGradient>
+    <linearGradient id="paint-4" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.03522820661 0.05282246744 -0.05282246744 0.03522820661 2.381338199 -40.62836628)">
+      <stop offset="0" stop-color="#303030" />
+      <stop offset="0.82" stop-color="#111111" />
+      <stop offset="1" stop-color="#111111" />
+    </linearGradient>
+    <linearGradient id="paint-5" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.03522820661 0.05282246744 -0.05282246744 0.03522820661 2.381338199 -40.62836628)">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.34" stop-color="#FFFFFF" />
+      <stop offset="0.82" stop-color="#DEDEDE" />
+      <stop offset="1" stop-color="#DEDEDE" />
+    </linearGradient>
+    <linearGradient id="paint-6" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.03522820661 0.05282246744 -0.05282246744 0.03522820661 2.381338199 -40.62836628)">
+      <stop offset="0" stop-color="#FF6454" />
+      <stop offset="0.82" stop-color="#C52A1A" />
+      <stop offset="1" stop-color="#C52A1A" />
+    </linearGradient>
+    <linearGradient id="paint-7" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.03522820661 0.05282246744 -0.05282246744 0.03522820661 2.381338199 -40.62836628)">
+      <stop offset="0" stop-color="#425FAD" />
+      <stop offset="0.82" stop-color="#072472" />
+      <stop offset="1" stop-color="#072472" />
+    </linearGradient>
+    <linearGradient id="paint-8" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.03522820661 0.05282246744 -0.05282246744 -0.03522820661 38.44209356 -13.43559524)">
+      <stop offset="0" stop-color="#303030" />
+      <stop offset="0.82" stop-color="#111111" />
+      <stop offset="1" stop-color="#111111" />
+    </linearGradient>
+    <linearGradient id="paint-9" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.03522820661 0.05282246744 -0.05282246744 -0.03522820661 38.44209356 -57.43559524)">
+      <stop offset="0" stop-color="#303030" />
+      <stop offset="0.82" stop-color="#111111" />
+      <stop offset="1" stop-color="#111111" />
+    </linearGradient>
+    <linearGradient id="paint-10" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.03522820661 0.05282246744 -0.05282246744 -0.03522820661 38.44209356 -13.43559524)">
+      <stop offset="0" stop-color="#303030" />
+      <stop offset="0.82" stop-color="#111111" />
+      <stop offset="1" stop-color="#111111" />
+    </linearGradient>
+    <linearGradient id="paint-11" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.03522820661 0.05282246744 -0.05282246744 -0.03522820661 38.44209356 -13.43559524)">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.34" stop-color="#FFFFFF" />
+      <stop offset="0.82" stop-color="#DEDEDE" />
+      <stop offset="1" stop-color="#DEDEDE" />
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <g transform="translate(8 8) scale(1.575)">
+      <defs>
+        <clipPath id="kr-a">
+          <path fill-opacity=".7" d="M-95.8-.4h682.7v512H-95.8z" />
+        </clipPath>
+      </defs>
+      <g fill-rule="evenodd" clip-path="url(#kr-a)" transform="translate(89.8 .4)scale(.9375)">
+        <path fill="url(#paint-1)" d="M-95.8-.4H587v512H-95.8Z" />
+        <g transform="rotate(-56.3 361.6 -101.3)scale(10.66667)">
+          <g id="kr-c">
+            <path id="kr-b" fill="url(#paint-2)" d="M-6-26H6v2H-6Zm0 3H6v2H-6Zm0 3H6v2H-6Z" />
+            <g transform=" translate(0 44)">
+              <path fill="url(#paint-3)" d="M-6-26H6v2H-6Zm0 3H6v2H-6Zm0 3H6v2H-6Z" />
+            </g>
+          </g>
+          <path stroke="url(#paint-5)" d="M0 17v10" fill="url(#paint-4)" />
+          <path fill="url(#paint-6)" d="M0-12a12 12 0 0 1 0 24Z" />
+          <path fill="url(#paint-7)" d="M0-12a12 12 0 0 0 0 24A6 6 0 0 0 0 0Z" />
+          <circle cy="-6" r="6" fill="url(#paint-6)" />
+        </g>
+        <g transform="rotate(-123.7 191.2 62.2)scale(10.66667)">
+          <g transform=" translate(0 0)">
+            <g>
+              <path fill="url(#paint-8)" d="M-6-26H6v2H-6Zm0 3H6v2H-6Zm0 3H6v2H-6Z" />
+              <g transform=" translate(0 44)">
+                <path fill="url(#paint-9)" d="M-6-26H6v2H-6Zm0 3H6v2H-6Zm0 3H6v2H-6Z" />
+              </g>
+            </g>
+          </g>
+          <path stroke="url(#paint-11)" d="M0-23.5v3M0 17v3.5m0 3v3" fill="url(#paint-10)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

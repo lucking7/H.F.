@@ -1,0 +1,1250 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="772" viewBox="0 0 1024 772" role="img" aria-label="EUR">
+  <!--Geometry adapted from lipis/flag-icons 086f7e97d657358203916dbe84f61c2bccaa81eb (MIT); palette redrawn after USA00001.-->
+  <defs>
+    <clipPath id="card">
+      <rect x="8" y="8" width="1008" height="756" rx="64" />
+    </clipPath>
+    <linearGradient id="paint-1" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
+      <stop offset="0" stop-color="#425FAD" />
+      <stop offset="0.82" stop-color="#072472" />
+      <stop offset="1" stop-color="#072472" />
+    </linearGradient>
+    <linearGradient id="paint-2" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 -0 -0 0.02678571847 -13.71428786 -4.436318595)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-3" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 0 0 0.02678571847 13.71428786 -4.436318595)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-4" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -8.457137722 11.67216499)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-5" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 8.457137722 11.67216499)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-6" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 8.487489298 11.65011328)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-7" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 -8.487489298 11.65011328)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-8" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 0.01875830551 -14.41396067)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-9" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 -0.01875830551 -14.41396067)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-10" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -13.70269459 -4.471999012)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-11" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 13.70269459 -4.471999012)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-12" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 -0 -0 0.02678571847 -13.71428786 -16.43631859)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-13" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 0 0 0.02678571847 13.71428786 -16.43631859)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-14" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -19.86981592 7.963961062)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-15" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 19.86981592 7.963961062)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-16" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 1.43406627 21.35831722)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-17" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 -1.43406627 21.35831722)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-18" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 -11.39391989 -18.1221646)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-19" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 11.39391989 -18.1221646)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-20" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -20.75611761 5.23620492)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-21" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 20.75611761 5.23620492)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-22" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 -0 -0 0.02678571847 -7.714287857 -10.43631859)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-23" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 0 0 0.02678571847 7.714287857 -10.43631859)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-24" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -12.30937485 4.111723931)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-25" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 12.30937485 4.111723931)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-26" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 0.1066758176 12.97750374)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-27" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 -0.1066758176 12.97750374)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-28" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 -7.541682759 -10.56172354)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-29" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 7.541682759 -10.56172354)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-30" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -12.37530413 3.908814468)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-31" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 12.37530413 3.908814468)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-32" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 11.83431798 -2.064926654)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-33" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -11.83431798 -2.064926654)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-34" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 1.693143424 -11.89320266)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-35" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 -1.693143424 -11.89320266)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-36" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 2.548982231e-18 -2.548982231e-18 0.02678571847 -10.7878978 -5.285476827)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-37" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 2.548982231e-18 2.548982231e-18 0.02678571847 10.7878978 -5.285476827)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-38" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 -5.620867324 10.61700781)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-39" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 5.620867324 10.61700781)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-40" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 8.360430931 8.626598337)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-41" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -8.360430931 8.626598337)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-42" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 2.513748176 11.10912713)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-43" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 -2.513748176 11.10912713)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-44" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 11.34219866 1.042192494)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-45" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -11.34219866 1.042192494)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-46" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 4.496116101 -10.46501675)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-47" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 -4.496116101 -10.46501675)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-48" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 9.788616845 5.82362566)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-49" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -9.788616845 5.82362566)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-50" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 -2.548982231e-18 -2.548982231e-18 0.02678571847 8.563446089 -7.509928538)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-51" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 -2.548982231e-18 2.548982231e-18 0.02678571847 -8.563446089 -7.509928538)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-52" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -15.50898391 3.96613139)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-53" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 15.50898391 3.96613139)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-54" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 -1.020524491 15.97552221)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-55" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 1.020524491 15.97552221)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-56" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 14.87826509 5.907284325)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-57" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -14.87826509 5.907284325)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-58" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 1.274491115e-18 1.274491115e-18 0.02678571847 8.564554698 -13.52431821)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-59" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 1.274491115e-18 -1.274491115e-18 0.02678571847 -8.564554698 -13.52431821)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-60" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 -10.21579801 -12.32461972)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-61" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 10.21579801 -12.32461972)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-62" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -18.09392011 5.40827195)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-63" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 18.09392011 5.40827195)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-64" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 -0.4477565279 18.87958856)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-65" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 0.4477565279 18.87958856)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-66" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 17.81719135 6.259955477)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-67" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -17.81719135 6.259955477)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-68" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 1.274491115e-18 1.274491115e-18 0.02678571847 10.73490109 -15.53709268)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-69" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 1.274491115e-18 -1.274491115e-18 0.02678571847 -10.73490109 -15.53709268)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-70" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 -11.45938637 -15.01072331)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-71" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 11.45938637 -15.01072331)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-72" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 0 0 0.02678571847 19.71428786 -10.43631859)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-73" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 -0 -0 0.02678571847 -19.71428786 -10.43631859)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-74" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 -3.833478826 -21.97440174)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-75" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 3.833478826 -21.97440174)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-76" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -22.08350807 -3.14460856)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-77" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 22.08350807 -3.14460856)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-78" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -16.01757879 15.52440213)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-79" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 16.01757879 15.52440213)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-80" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 9.81487975 20.03092676)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-81" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 -9.81487975 20.03092676)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-82" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 -10.3558659 14.05718564)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-83" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 10.3558659 14.05718564)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-84" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 10.16903945 14.192923)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-85" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -10.16903945 14.192923)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-86" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 -2.548982231e-18 -2.548982231e-18 0.02678571847 16.64067791 -5.285476827)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-87" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 -2.548982231e-18 2.548982231e-18 0.02678571847 -16.64067791 -5.285476827)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-88" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 16.56931656 -5.50510449)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-89" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -16.56931656 -5.50510449)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-90" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 -0.1154650959 -17.45952733)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-91" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 0.1154650959 -17.45952733)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-92" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -19.67643571 -5.012985163)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-93" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 19.67643571 -5.012985163)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-94" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 -10.84798523 17.16430479)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-95" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 10.84798523 17.16430479)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-96" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 12.97201213 15.62110892)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-97" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -12.97201213 15.62110892)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-98" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 1.312720817 -20.26250001)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-99" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 -1.312720817 -20.26250001)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-100" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 2.548982231e-18 -2.548982231e-18 0.02678571847 -18.86512963 -7.509928538)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-101" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 2.548982231e-18 2.548982231e-18 0.02678571847 18.86512963 -7.509928538)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-102" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 -7.033087886 -22.11999428)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-103" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 7.033087886 -22.11999428)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-104" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -23.21070838 -0.1465900828)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-105" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 23.21070838 -0.1465900828)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-106" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 -7.311918793 22.02939662)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-107" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 7.311918793 22.02939662)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-108" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 -1.274491115e-18 1.274491115e-18 0.02678571847 -18.86402102 -13.52431821)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-109" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 -1.274491115e-18 -1.274491115e-18 0.02678571847 18.86402102 -13.52431821)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-110" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -18.69169404 13.76150595)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-111" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 18.69169404 13.76150595)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-112" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 0.0254747321 0.0254747321 0.008277242214 -9.618024079 -20.67785372)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-113" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 0.0254747321 -0.0254747321 0.008277242214 9.618024079 -20.67785372)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-114" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 0.01574425029 0.01574425029 -0.02167010145 -22.63794041 2.757476268)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-115" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 0.01574425029 -0.01574425029 -0.02167010145 22.63794041 2.757476268)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-116" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02167010145 -0.01574425029 -0.01574425029 -0.02167010145 -4.372992532 22.38206777)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-117" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02167010145 -0.01574425029 0.01574425029 -0.02167010145 4.372992532 22.38206777)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-118" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.02678571847 -1.274491115e-18 1.274491115e-18 0.02678571847 -16.69367463 -15.53709268)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-119" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.02678571847 -1.274491115e-18 -1.274491115e-18 0.02678571847 16.69367463 -15.53709268)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-120" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.008277242214 -0.0254747321 0.0254747321 0.008277242214 -19.9352824 11.07540235)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-121" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.008277242214 -0.0254747321 -0.0254747321 0.008277242214 19.9352824 11.07540235)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <g transform="translate(8 8) scale(1.575)">
+      <defs>
+        <g id="eu-d">
+          <g id="eu-b">
+            <path id="eu-a" d="m0-1-.3 1 .5.1z" />
+            <g transform="scale(-1 1) translate(0 0)">
+              <path d="m0-1-.3 1 .5.1z" />
+            </g>
+          </g>
+          <g id="eu-c">
+            <g transform="rotate(72) translate(0 0)">
+              <g>
+                <path d="m0-1-.3 1 .5.1z" />
+                <g transform="scale(-1 1) translate(0 0)">
+                  <path d="m0-1-.3 1 .5.1z" />
+                </g>
+              </g>
+            </g>
+            <g transform="rotate(144) translate(0 0)">
+              <g>
+                <path d="m0-1-.3 1 .5.1z" />
+                <g transform="scale(-1 1) translate(0 0)">
+                  <path d="m0-1-.3 1 .5.1z" />
+                </g>
+              </g>
+            </g>
+          </g>
+          <g transform="scale(-1 1) translate(0 0)">
+            <g>
+              <g transform="rotate(72) translate(0 0)">
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" />
+                  </g>
+                </g>
+              </g>
+              <g transform="rotate(144) translate(0 0)">
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </defs>
+      <path fill="url(#paint-1)" d="M0 0h640v480H0z" />
+      <g fill="#fc0" transform="translate(320 242.3)scale(23.7037)">
+        <g transform=" translate(0 -6)">
+          <g>
+            <g>
+              <path d="m0-1-.3 1 .5.1z" fill="url(#paint-2)" />
+              <g transform="scale(-1 1) translate(0 0)">
+                <path d="m0-1-.3 1 .5.1z" fill="url(#paint-3)" />
+              </g>
+            </g>
+            <g>
+              <g transform="rotate(72) translate(0 0)">
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-4)" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-5)" />
+                  </g>
+                </g>
+              </g>
+              <g transform="rotate(144) translate(0 0)">
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-6)" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-7)" />
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g transform="scale(-1 1) translate(0 0)">
+              <g>
+                <g transform="rotate(72) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-8)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-9)" />
+                    </g>
+                  </g>
+                </g>
+                <g transform="rotate(144) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-10)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-11)" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g transform=" translate(0 6)">
+          <g>
+            <g>
+              <path d="m0-1-.3 1 .5.1z" fill="url(#paint-12)" />
+              <g transform="scale(-1 1) translate(0 0)">
+                <path d="m0-1-.3 1 .5.1z" fill="url(#paint-13)" />
+              </g>
+            </g>
+            <g>
+              <g transform="rotate(72) translate(0 0)">
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-14)" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-15)" />
+                  </g>
+                </g>
+              </g>
+              <g transform="rotate(144) translate(0 0)">
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-16)" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-17)" />
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g transform="scale(-1 1) translate(0 0)">
+              <g>
+                <g transform="rotate(72) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-18)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-19)" />
+                    </g>
+                  </g>
+                </g>
+                <g transform="rotate(144) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-20)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-21)" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="eu-e">
+          <g transform=" translate(-6 0)">
+            <g>
+              <g>
+                <path d="m0-1-.3 1 .5.1z" fill="url(#paint-22)" />
+                <g transform="scale(-1 1) translate(0 0)">
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-23)" />
+                </g>
+              </g>
+              <g>
+                <g transform="rotate(72) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-24)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-25)" />
+                    </g>
+                  </g>
+                </g>
+                <g transform="rotate(144) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-26)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-27)" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g transform="scale(-1 1) translate(0 0)">
+                <g>
+                  <g transform="rotate(72) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-28)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-29)" />
+                      </g>
+                    </g>
+                  </g>
+                  <g transform="rotate(144) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-30)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-31)" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g transform="rotate(-144 -2.3 -2.1) translate(0 0)">
+            <g>
+              <g>
+                <path d="m0-1-.3 1 .5.1z" fill="url(#paint-32)" />
+                <g transform="scale(-1 1) translate(0 0)">
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-33)" />
+                </g>
+              </g>
+              <g>
+                <g transform="rotate(72) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-34)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-35)" />
+                    </g>
+                  </g>
+                </g>
+                <g transform="rotate(144) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-36)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-37)" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g transform="scale(-1 1) translate(0 0)">
+                <g>
+                  <g transform="rotate(72) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-38)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-39)" />
+                      </g>
+                    </g>
+                  </g>
+                  <g transform="rotate(144) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-40)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-41)" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g transform="rotate(144 -2.1 -2.3) translate(0 0)">
+            <g>
+              <g>
+                <path d="m0-1-.3 1 .5.1z" fill="url(#paint-42)" />
+                <g transform="scale(-1 1) translate(0 0)">
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-43)" />
+                </g>
+              </g>
+              <g>
+                <g transform="rotate(72) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-44)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-45)" />
+                    </g>
+                  </g>
+                </g>
+                <g transform="rotate(144) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-46)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-47)" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g transform="scale(-1 1) translate(0 0)">
+                <g>
+                  <g transform="rotate(72) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-48)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-49)" />
+                      </g>
+                    </g>
+                  </g>
+                  <g transform="rotate(144) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-50)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-51)" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g transform="rotate(72 -4.7 -2) translate(0 0)">
+            <g>
+              <g>
+                <path d="m0-1-.3 1 .5.1z" fill="url(#paint-52)" />
+                <g transform="scale(-1 1) translate(0 0)">
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-53)" />
+                </g>
+              </g>
+              <g>
+                <g transform="rotate(72) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-54)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-55)" />
+                    </g>
+                  </g>
+                </g>
+                <g transform="rotate(144) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-56)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-57)" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g transform="scale(-1 1) translate(0 0)">
+                <g>
+                  <g transform="rotate(72) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-58)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-59)" />
+                      </g>
+                    </g>
+                  </g>
+                  <g transform="rotate(144) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-60)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-61)" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g transform="rotate(72 -5 .5) translate(0 0)">
+            <g>
+              <g>
+                <path d="m0-1-.3 1 .5.1z" fill="url(#paint-62)" />
+                <g transform="scale(-1 1) translate(0 0)">
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-63)" />
+                </g>
+              </g>
+              <g>
+                <g transform="rotate(72) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-64)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-65)" />
+                    </g>
+                  </g>
+                </g>
+                <g transform="rotate(144) translate(0 0)">
+                  <g>
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-66)" />
+                    <g transform="scale(-1 1) translate(0 0)">
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-67)" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g transform="scale(-1 1) translate(0 0)">
+                <g>
+                  <g transform="rotate(72) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-68)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-69)" />
+                      </g>
+                    </g>
+                  </g>
+                  <g transform="rotate(144) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-70)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-71)" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g transform="scale(-1 1) translate(0 0)">
+          <g>
+            <g transform=" translate(-6 0)">
+              <g>
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-72)" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-73)" />
+                  </g>
+                </g>
+                <g>
+                  <g transform="rotate(72) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-74)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-75)" />
+                      </g>
+                    </g>
+                  </g>
+                  <g transform="rotate(144) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-76)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-77)" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g transform="scale(-1 1) translate(0 0)">
+                  <g>
+                    <g transform="rotate(72) translate(0 0)">
+                      <g>
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-78)" />
+                        <g transform="scale(-1 1) translate(0 0)">
+                          <path d="m0-1-.3 1 .5.1z" fill="url(#paint-79)" />
+                        </g>
+                      </g>
+                    </g>
+                    <g transform="rotate(144) translate(0 0)">
+                      <g>
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-80)" />
+                        <g transform="scale(-1 1) translate(0 0)">
+                          <path d="m0-1-.3 1 .5.1z" fill="url(#paint-81)" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g transform="rotate(-144 -2.3 -2.1) translate(0 0)">
+              <g>
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-82)" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-83)" />
+                  </g>
+                </g>
+                <g>
+                  <g transform="rotate(72) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-84)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-85)" />
+                      </g>
+                    </g>
+                  </g>
+                  <g transform="rotate(144) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-86)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-87)" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g transform="scale(-1 1) translate(0 0)">
+                  <g>
+                    <g transform="rotate(72) translate(0 0)">
+                      <g>
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-88)" />
+                        <g transform="scale(-1 1) translate(0 0)">
+                          <path d="m0-1-.3 1 .5.1z" fill="url(#paint-89)" />
+                        </g>
+                      </g>
+                    </g>
+                    <g transform="rotate(144) translate(0 0)">
+                      <g>
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-90)" />
+                        <g transform="scale(-1 1) translate(0 0)">
+                          <path d="m0-1-.3 1 .5.1z" fill="url(#paint-91)" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g transform="rotate(144 -2.1 -2.3) translate(0 0)">
+              <g>
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-92)" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-93)" />
+                  </g>
+                </g>
+                <g>
+                  <g transform="rotate(72) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-94)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-95)" />
+                      </g>
+                    </g>
+                  </g>
+                  <g transform="rotate(144) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-96)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-97)" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g transform="scale(-1 1) translate(0 0)">
+                  <g>
+                    <g transform="rotate(72) translate(0 0)">
+                      <g>
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-98)" />
+                        <g transform="scale(-1 1) translate(0 0)">
+                          <path d="m0-1-.3 1 .5.1z" fill="url(#paint-99)" />
+                        </g>
+                      </g>
+                    </g>
+                    <g transform="rotate(144) translate(0 0)">
+                      <g>
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-100)" />
+                        <g transform="scale(-1 1) translate(0 0)">
+                          <path d="m0-1-.3 1 .5.1z" fill="url(#paint-101)" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g transform="rotate(72 -4.7 -2) translate(0 0)">
+              <g>
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-102)" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-103)" />
+                  </g>
+                </g>
+                <g>
+                  <g transform="rotate(72) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-104)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-105)" />
+                      </g>
+                    </g>
+                  </g>
+                  <g transform="rotate(144) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-106)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-107)" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g transform="scale(-1 1) translate(0 0)">
+                  <g>
+                    <g transform="rotate(72) translate(0 0)">
+                      <g>
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-108)" />
+                        <g transform="scale(-1 1) translate(0 0)">
+                          <path d="m0-1-.3 1 .5.1z" fill="url(#paint-109)" />
+                        </g>
+                      </g>
+                    </g>
+                    <g transform="rotate(144) translate(0 0)">
+                      <g>
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-110)" />
+                        <g transform="scale(-1 1) translate(0 0)">
+                          <path d="m0-1-.3 1 .5.1z" fill="url(#paint-111)" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g transform="rotate(72 -5 .5) translate(0 0)">
+              <g>
+                <g>
+                  <path d="m0-1-.3 1 .5.1z" fill="url(#paint-112)" />
+                  <g transform="scale(-1 1) translate(0 0)">
+                    <path d="m0-1-.3 1 .5.1z" fill="url(#paint-113)" />
+                  </g>
+                </g>
+                <g>
+                  <g transform="rotate(72) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-114)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-115)" />
+                      </g>
+                    </g>
+                  </g>
+                  <g transform="rotate(144) translate(0 0)">
+                    <g>
+                      <path d="m0-1-.3 1 .5.1z" fill="url(#paint-116)" />
+                      <g transform="scale(-1 1) translate(0 0)">
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-117)" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g transform="scale(-1 1) translate(0 0)">
+                  <g>
+                    <g transform="rotate(72) translate(0 0)">
+                      <g>
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-118)" />
+                        <g transform="scale(-1 1) translate(0 0)">
+                          <path d="m0-1-.3 1 .5.1z" fill="url(#paint-119)" />
+                        </g>
+                      </g>
+                    </g>
+                    <g transform="rotate(144) translate(0 0)">
+                      <g>
+                        <path d="m0-1-.3 1 .5.1z" fill="url(#paint-120)" />
+                        <g transform="scale(-1 1) translate(0 0)">
+                          <path d="m0-1-.3 1 .5.1z" fill="url(#paint-121)" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

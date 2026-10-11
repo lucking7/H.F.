@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="772" viewBox="0 0 1024 772" role="img" aria-label="HKG">
+  <!--Geometry adapted from lipis/flag-icons 086f7e97d657358203916dbe84f61c2bccaa81eb (MIT); palette redrawn after USA00001.-->
+  <defs>
+    <clipPath id="card">
+      <rect x="8" y="8" width="1008" height="756" rx="64" />
+    </clipPath>
+    <linearGradient id="paint-1" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
+      <stop offset="0" stop-color="#FF6454" />
+      <stop offset="0.82" stop-color="#C52A1A" />
+      <stop offset="1" stop-color="#C52A1A" />
+    </linearGradient>
+    <linearGradient id="paint-2" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.34" stop-color="#FFFFFF" />
+      <stop offset="0.82" stop-color="#DEDEDE" />
+      <stop offset="1" stop-color="#DEDEDE" />
+    </linearGradient>
+    <linearGradient id="paint-3" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.1962012663 -0.6038454072 0.6038454072 0.1962012663 -22.05044585 468.7206763)">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.34" stop-color="#FFFFFF" />
+      <stop offset="0.82" stop-color="#DEDEDE" />
+      <stop offset="1" stop-color="#DEDEDE" />
+    </linearGradient>
+    <linearGradient id="paint-4" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.5136615837 -0.3731969856 0.3731969856 -0.5136615837 423.3158186 631.273398)">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.34" stop-color="#FFFFFF" />
+      <stop offset="0.82" stop-color="#DEDEDE" />
+      <stop offset="1" stop-color="#DEDEDE" />
+    </linearGradient>
+    <linearGradient id="paint-5" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-0.5136615837 0.3731969856 -0.3731969856 -0.5136615837 715.5383882 257.9364636)">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.34" stop-color="#FFFFFF" />
+      <stop offset="0.82" stop-color="#DEDEDE" />
+      <stop offset="1" stop-color="#DEDEDE" />
+    </linearGradient>
+    <linearGradient id="paint-6" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.1962012663 0.6038454072 -0.6038454072 0.1962012663 450.7756041 -135.3511729)">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="0.34" stop-color="#FFFFFF" />
+      <stop offset="0.82" stop-color="#DEDEDE" />
+      <stop offset="1" stop-color="#DEDEDE" />
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <g transform="translate(8 8) scale(1.575)">
+      <path fill="url(#paint-1)" d="M0 0h640v480H0" />
+      <path id="hk-a" fill="url(#paint-2)" d="M346.3 103.1C267 98 230.6 201.9 305.6 240.3c-26-22.4-20.6-55.3-10.1-72.4l1.9 1.1c-13.8 23.5-11.2 52.7 11.1 71-12.7-12.3-9.5-39 12.1-48.9s23.6-39.3 16.4-49.1q-14.7-25.6 9.3-38.9M307.9 164l-4.7 7.4-1.8-8.6-8.6-2.3 7.8-4.3-.6-8.9 6.5 6.1 8.3-3.3-3.7 8.1 5.6 6.8z" />
+      <g transform="rotate(72 312.5 243.5) translate(0 0)">
+        <path fill="url(#paint-3)" d="M346.3 103.1C267 98 230.6 201.9 305.6 240.3c-26-22.4-20.6-55.3-10.1-72.4l1.9 1.1c-13.8 23.5-11.2 52.7 11.1 71-12.7-12.3-9.5-39 12.1-48.9s23.6-39.3 16.4-49.1q-14.7-25.6 9.3-38.9M307.9 164l-4.7 7.4-1.8-8.6-8.6-2.3 7.8-4.3-.6-8.9 6.5 6.1 8.3-3.3-3.7 8.1 5.6 6.8z" />
+      </g>
+      <g transform="rotate(144 312.5 243.5) translate(0 0)">
+        <path fill="url(#paint-4)" d="M346.3 103.1C267 98 230.6 201.9 305.6 240.3c-26-22.4-20.6-55.3-10.1-72.4l1.9 1.1c-13.8 23.5-11.2 52.7 11.1 71-12.7-12.3-9.5-39 12.1-48.9s23.6-39.3 16.4-49.1q-14.7-25.6 9.3-38.9M307.9 164l-4.7 7.4-1.8-8.6-8.6-2.3 7.8-4.3-.6-8.9 6.5 6.1 8.3-3.3-3.7 8.1 5.6 6.8z" />
+      </g>
+      <g transform="rotate(216 312.5 243.5) translate(0 0)">
+        <path fill="url(#paint-5)" d="M346.3 103.1C267 98 230.6 201.9 305.6 240.3c-26-22.4-20.6-55.3-10.1-72.4l1.9 1.1c-13.8 23.5-11.2 52.7 11.1 71-12.7-12.3-9.5-39 12.1-48.9s23.6-39.3 16.4-49.1q-14.7-25.6 9.3-38.9M307.9 164l-4.7 7.4-1.8-8.6-8.6-2.3 7.8-4.3-.6-8.9 6.5 6.1 8.3-3.3-3.7 8.1 5.6 6.8z" />
+      </g>
+      <g transform="rotate(288 312.5 243.5) translate(0 0)">
+        <path fill="url(#paint-6)" d="M346.3 103.1C267 98 230.6 201.9 305.6 240.3c-26-22.4-20.6-55.3-10.1-72.4l1.9 1.1c-13.8 23.5-11.2 52.7 11.1 71-12.7-12.3-9.5-39 12.1-48.9s23.6-39.3 16.4-49.1q-14.7-25.6 9.3-38.9M307.9 164l-4.7 7.4-1.8-8.6-8.6-2.3 7.8-4.3-.6-8.9 6.5 6.1 8.3-3.3-3.7 8.1 5.6 6.8z" />
+      </g>
+    </g>
+  </g>
+</svg>

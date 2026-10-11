@@ -1,16 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="772" viewBox="0 0 1024 772" role="img" aria-label="BEL">
-<defs>
-  <clipPath id="card"><rect x="8" y="8" width="1008" height="756" rx="64"/></clipPath>
-  <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.12"/>
-    <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0"/>
-    <stop offset="1" stop-color="#000000" stop-opacity="0.12"/>
-  </linearGradient>
-</defs>
-<g clip-path="url(#card)">
-<rect x="8" y="8" width="336" height="756" fill="#000001"/>
-<rect x="344" y="8" width="336" height="756" fill="#FFD90C"/>
-<rect x="680" y="8" width="336" height="756" fill="#F31830"/>
-<rect x="8" y="8" width="1008" height="756" fill="url(#shade)"/>
-</g>
+  <!--Geometry adapted from lipis/flag-icons 086f7e97d657358203916dbe84f61c2bccaa81eb (MIT); palette redrawn after USA00001.-->
+  <defs>
+    <clipPath id="card">
+      <rect x="8" y="8" width="1008" height="756" rx="64" />
+    </clipPath>
+    <linearGradient id="paint-1" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
+      <stop offset="0" stop-color="#303030" />
+      <stop offset="0.82" stop-color="#111111" />
+      <stop offset="1" stop-color="#111111" />
+    </linearGradient>
+    <linearGradient id="paint-2" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
+      <stop offset="0" stop-color="#FFDA55" />
+      <stop offset="0.82" stop-color="#D6AC27" />
+      <stop offset="1" stop-color="#D6AC27" />
+    </linearGradient>
+    <linearGradient id="paint-3" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
+      <stop offset="0" stop-color="#FF6454" />
+      <stop offset="0.82" stop-color="#C52A1A" />
+      <stop offset="1" stop-color="#C52A1A" />
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <g transform="translate(8 8) scale(1.575)">
+      <g fill-rule="evenodd" stroke-width="1pt">
+        <path fill="url(#paint-1)" d="M0 0h213.3v480H0z" />
+        <path fill="url(#paint-2)" d="M213.3 0h213.4v480H213.3z" />
+        <path fill="url(#paint-3)" d="M426.7 0H640v480H426.7z" />
+      </g>
+    </g>
+  </g>
 </svg>
