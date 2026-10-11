@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Routing">
-<defs>
-<linearGradient id="white" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.34" stop-color="#FFFFFF"/><stop offset="0.82" stop-color="#DEDEDE"/></linearGradient>
-<linearGradient id="blue" gradientUnits="userSpaceOnUse" x1="0" y1="48" x2="0" y2="976"><stop offset="0" stop-color="#425FAD"/><stop offset="0.82" stop-color="#072472"/></linearGradient>
-<linearGradient id="red" gradientUnits="userSpaceOnUse" x1="0" y1="48" x2="0" y2="976"><stop offset="0" stop-color="#FF6454"/><stop offset="0.82" stop-color="#C52A1A"/></linearGradient>
-</defs>
-<rect x="48" y="48" width="928" height="928" rx="128" fill="url(#white)"/>
-<path d="M512 760 V500 C512 418 420 384 318 310 M512 500 C512 418 604 384 706 310 M318 310 H432 M318 310 V424 M706 310 H592 M706 310 V424" stroke="url(#blue)" fill="none" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/><circle cx="512" cy="760" r="28" stroke="url(#red)" fill="url(#red)" stroke-width="0"/>
-</svg>

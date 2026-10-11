@@ -4,8 +4,9 @@
 
 - [Flags](Flags.json): one version per location, redrawn in the USA-1 inspired palette.
 - [Flag style and editable sources](flags/README.md).
-- [App and brand icons](Apps.json): one clear version per identity, with original brand colors.
-- [UI icons](UI.json): a compact set of distinct utility symbols.
+- [App and brand icons](Apps.json): original App and brand icon collection.
+- [App icons (144px)](Apps144px.json).
+- [UI icons](UI.json): original UI icon collection.
 
 ---
 

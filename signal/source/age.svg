@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Age restriction">
-<defs>
-<linearGradient id="white" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.34" stop-color="#FFFFFF"/><stop offset="0.82" stop-color="#DEDEDE"/></linearGradient>
-<linearGradient id="blue" gradientUnits="userSpaceOnUse" x1="0" y1="48" x2="0" y2="976"><stop offset="0" stop-color="#425FAD"/><stop offset="0.82" stop-color="#072472"/></linearGradient>
-<linearGradient id="red" gradientUnits="userSpaceOnUse" x1="0" y1="48" x2="0" y2="976"><stop offset="0" stop-color="#FF6454"/><stop offset="0.82" stop-color="#C52A1A"/></linearGradient>
-</defs>
-<rect x="48" y="48" width="928" height="928" rx="128" fill="url(#white)"/>
-<circle cx="512" cy="512" r="266" stroke="url(#red)" fill="none" stroke-width="36"/><path d="M302 302 L722 722" stroke="url(#red)" fill="none" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/><path d="M365 440 L411 398 V650 M603 508 C483 508 493 372 603 372 C713 372 723 508 603 508 C477 508 477 664 603 664 C729 664 729 508 603 508" stroke="url(#blue)" fill="none" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

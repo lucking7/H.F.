@@ -1,242 +1,886 @@
 {
   "name": "LUCK's APP图标集",
-  "description": "One recognizable icon per app, brand or product. Original brand colors retained; duplicate skins and ornamental variants removed.",
+  "description": "Comprehensive flat design icon collection.",
   "icons": [
     {
-      "name": "33 Immortals",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/33immortals.png"
-    },
-    {
-      "name": "AdGuard VPN",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/adguardvpn.png"
-    },
-    {
-      "name": "Aion",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/aion00001.png"
-    },
-    {
-      "name": "App Store",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00005.png"
-    },
-    {
-      "name": "Apple",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00003.png"
-    },
-    {
-      "name": "Apple Intelligence",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/appleintelligence.png"
-    },
-    {
-      "name": "Apple Maps / MapKit",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/applemapsmapkit.png"
-    },
-    {
-      "name": "Apple One",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/appleone00001.png"
-    },
-    {
-      "name": "Apple TV",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/appletv.png"
-    },
-    {
-      "name": "Arc Browser",
+      "name": "arc00001-144px",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/arc00001.png"
     },
     {
-      "name": "Bash",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/bash00001.png"
-    },
-    {
-      "name": "Bilibili",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/bilibili/bilibili00001.png"
-    },
-    {
-      "name": "Binary Ninja",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/binaryninja00003.png"
-    },
-    {
-      "name": "Blue Archive",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/bluearchive.png"
-    },
-    {
-      "name": "Clash",
+      "name": "clash00001-144px",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/clash00001.png"
     },
     {
-      "name": "Claude",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/claude/claude00002.png"
+      "name": "clash00002-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/clash00002.png"
     },
     {
-      "name": "Cloudflare",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/cloudflare/111100003.png"
+      "name": "claude00001-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/claude00001.png"
     },
     {
-      "name": "Cobalt Webapp",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/CobaltWebapp.png"
+      "name": "duck-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/duck.png"
     },
     {
-      "name": "Crisis Core Final Fantasy VII Reunion",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/Crisis_Core_Final_Fantasy_VII_Reunion.png"
+      "name": "huggingface-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/huggingface.png"
     },
     {
-      "name": "Disney+",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/disney/disney00001.png"
+      "name": "ollama00001-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/ollama00001.png"
     },
     {
-      "name": "DNS Switcher",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/DNSSwitcher.png"
+      "name": "ollama00002-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/ollama00002.png"
     },
     {
-      "name": "Dogecoin",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/dogecoin00001.png"
+      "name": "qx00001-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/qx00001.png"
     },
     {
-      "name": "Emby",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/emby/emby00004.png"
+      "name": "qx00002-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/qx00002.png"
     },
     {
-      "name": "Folx",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/folx.png"
+      "name": "qx00003-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/qx00003.png"
     },
     {
-      "name": "Google",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/google00001.png"
+      "name": "qx00004-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/qx00004.png"
     },
     {
-      "name": "Google Chrome",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/chrome00001.png"
+      "name": "shadowrocket00001-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/shadowrocket00001.png"
     },
     {
-      "name": "Google Gemini",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00005.png"
+      "name": "shadowrocket00002-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/shadowrocket00002.png"
     },
     {
-      "name": "Google One",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/googleone.png"
+      "name": "singbox-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/singbox.png"
     },
     {
-      "name": "Google Play",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/PlayStoreCartoon.png"
+      "name": "surge00001-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/surge00001.png"
     },
     {
-      "name": "Hades",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/hade.png"
+      "name": "surge00002-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/surge00002.png"
     },
     {
-      "name": "Hugging Face",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/huggingface.png"
+      "name": "telegram00001-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/telegram00001.png"
     },
     {
-      "name": "IINA",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/iina/iina00005.png"
+      "name": "telegram00002-144px",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/telegram00002.png"
     },
     {
-      "name": "Infuse",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/entertainment/infuse00001.png"
+      "name": "Arc-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/Arc/Arc00001.png"
     },
     {
-      "name": "Lost Ruins",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/lostruins.png"
+      "name": "Arc-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/Arc/Arc00002.png"
     },
     {
-      "name": "Microsoft Copilot",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/microsoft/copilot00002.png"
+      "name": "Arc-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/Arc/Arc00003.png"
     },
     {
-      "name": "Movie Tavern",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/entertainment/movietavern.png"
+      "name": "Arc-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/Arc/Arc00004.png"
     },
     {
-      "name": "NASA",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nasa/nasa00002.png"
+      "name": "Arc-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/Arc/Arc00005.png"
     },
     {
-      "name": "NekoRay",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/nekoray.png"
+      "name": "apple-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00001.png"
     },
     {
-      "name": "Netflix",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/netflix/netflix00002.png"
+      "name": "apple-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00002.png"
     },
     {
-      "name": "Nintendo Switch",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00003.png"
+      "name": "apple-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00003.png"
     },
     {
-      "name": "Ollama",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/ollama00001.png"
+      "name": "apple-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00004.png"
     },
     {
-      "name": "OpenAI",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00005.png"
+      "name": "apple-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00005.png"
     },
     {
-      "name": "OpenEmu",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Emu.png"
+      "name": "apple-6",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00006.png"
     },
     {
-      "name": "Perplexity",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/perplexity/perplexity00001.png"
+      "name": "apple-store-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00001.png"
     },
     {
-      "name": "Persona 5 Royal",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/Persona_5_Royal00001.png"
+      "name": "apple-store-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00002.png"
     },
     {
-      "name": "Quantumult X",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/qx00001.png"
+      "name": "apple-store-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00003.png"
     },
     {
-      "name": "Safari",
+      "name": "apple-store-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00004.png"
+    },
+    {
+      "name": "apple-store-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00005.png"
+    },
+    {
+      "name": "apple-store-6",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00006.png"
+    },
+    {
+      "name": "apple-store-7",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00007.png"
+    },
+    {
+      "name": "apple-store-8",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00008.png"
+    },
+    {
+      "name": "apple-store-9",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00009.png"
+    },
+    {
+      "name": "apple-store-10",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00010.png"
+    },
+    {
+      "name": "apple-intelligence",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/appleintelligence.png"
+    },
+    {
+      "name": "apple-maps-mapkit",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/applemapsmapkit.png"
+    },
+    {
+      "name": "apple-one-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/appleone00001.png"
+    },
+    {
+      "name": "apple-one-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/appleone00002.png"
+    },
+    {
+      "name": "apple-tv",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/appletv.png"
+    },
+    {
+      "name": "safari-1",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/safari00001.png"
     },
     {
-      "name": "Shadowrocket",
+      "name": "bilibili-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/bilibili/bilibili00001.png"
+    },
+    {
+      "name": "bilibili-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/bilibili/bilibili00002.png"
+    },
+    {
+      "name": "bilibili-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/bilibili/bilibili00003.png"
+    },
+    {
+      "name": "bilibili-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/bilibili/bilibili00004.png"
+    },
+    {
+      "name": "bilibili-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/bilibili/bilibili00005.png"
+    },
+    {
+      "name": "claude-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/claude/claude00001.png"
+    },
+    {
+      "name": "claude-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/claude/claude00002.png"
+    },
+    {
+      "name": "claude-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/claude/claude00003.png"
+    },
+    {
+      "name": "claude-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/claude/claude00004.png"
+    },
+    {
+      "name": "cloudflare-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/cloudflare/111100001.png"
+    },
+    {
+      "name": "cloudflare-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/cloudflare/111100002.png"
+    },
+    {
+      "name": "cloudflare-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/cloudflare/111100003.png"
+    },
+    {
+      "name": "cloudflare-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/cloudflare/111100004.png"
+    },
+    {
+      "name": "cloudflare-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/cloudflare/111100005.png"
+    },
+    {
+      "name": "CobaltWebapp-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/CobaltWebapp.png"
+    },
+    {
+      "name": "DNSSwitcher-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/DNSSwitcher.png"
+    },
+    {
+      "name": "Deprecated_Ryujinx_Logo_Recoloured-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Deprecated_Ryujinx_Logo_Recoloured.png"
+    },
+    {
+      "name": "Emu-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Emu.png"
+    },
+    {
+      "name": "Shadowrocket00001-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Shadowrocket00001.png"
+    },
+    {
+      "name": "Shadowrocket00002-developer",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Shadowrocket00002.png"
     },
     {
-      "name": "sing-box",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/singbox.png"
-    },
-    {
-      "name": "Spotify",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/spotify/5da2a72d9defa12c118cbc069d040711_HKFCMzCyBf.png"
-    },
-    {
-      "name": "Stray",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/Stray.png"
-    },
-    {
-      "name": "Super Meat Boy",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/SuperMeatBoy.png"
-    },
-    {
-      "name": "SUPERHOT",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/SuperHot.png"
-    },
-    {
-      "name": "Surge",
+      "name": "Surge-developer",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Surge.png"
     },
     {
-      "name": "Suyu",
+      "name": "Surge_AKA-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Surge_AKA.png"
+    },
+    {
+      "name": "Surge_Classic-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Surge_Classic.png"
+    },
+    {
+      "name": "Surge_Inky-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Surge_Inky.png"
+    },
+    {
+      "name": "Surge_Sapphire-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Surge_Sapphire.png"
+    },
+    {
+      "name": "Surge_Sapphire_Alt-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Surge_Sapphire_Alt.png"
+    },
+    {
+      "name": "Surge_Sapphire_Dark-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Surge_Sapphire_Dark.png"
+    },
+    {
+      "name": "Suyu-developer",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Suyu.png"
     },
     {
-      "name": "Telegram",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Classic.png"
+      "name": "Werecleaner-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Werecleaner.png"
     },
     {
-      "name": "The Legend of Zelda: Breath of the Wild",
+      "name": "adguardvpn-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/adguardvpn.png"
+    },
+    {
+      "name": "animegirl00001-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/animegirl00001.png"
+    },
+    {
+      "name": "animegirl00003-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/animegirl00003.png"
+    },
+    {
+      "name": "animegirl00004-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/animegirl00004.png"
+    },
+    {
+      "name": "bash00001-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/bash00001.png"
+    },
+    {
+      "name": "binaryninja00001-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/binaryninja00001.png"
+    },
+    {
+      "name": "binaryninja00002-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/binaryninja00002.png"
+    },
+    {
+      "name": "binaryninja00003-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/binaryninja00003.png"
+    },
+    {
+      "name": "dit00001-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/dit00001.png"
+    },
+    {
+      "name": "dit00002-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/dit00002.png"
+    },
+    {
+      "name": "dit00003-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/dit00003.png"
+    },
+    {
+      "name": "dogecoin00001-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/dogecoin00001.png"
+    },
+    {
+      "name": "folx-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/folx.png"
+    },
+    {
+      "name": "girl00001-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/girl00001.png"
+    },
+    {
+      "name": "girl00002-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/girl00002.png"
+    },
+    {
+      "name": "huggingface-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/huggingface.png"
+    },
+    {
+      "name": "nekoray-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/nekoray.png"
+    },
+    {
+      "name": "ollama-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/ollama.png"
+    },
+    {
+      "name": "ollama00001-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/ollama00001.png"
+    },
+    {
+      "name": "ollama00002-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/ollama00002.png"
+    },
+    {
+      "name": "qx00001-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/qx00001.png"
+    },
+    {
+      "name": "qx00002-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/qx00002.png"
+    },
+    {
+      "name": "sakuracat-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/sakuracat.png"
+    },
+    {
+      "name": "singbox-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/singbox.png"
+    },
+    {
+      "name": "singbox2-developer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/singbox2.png"
+    },
+    {
+      "name": "disney-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/disney/disney00001.png"
+    },
+    {
+      "name": "disney-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/disney/disney00002.png"
+    },
+    {
+      "name": "disney-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/disney/disney00003.png"
+    },
+    {
+      "name": "disney-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/disney/disney00004.png"
+    },
+    {
+      "name": "disney-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/disney/disney00005.png"
+    },
+    {
+      "name": "emby-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/emby/emby00001.png"
+    },
+    {
+      "name": "emby-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/emby/emby00002.png"
+    },
+    {
+      "name": "emby-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/emby/emby00003.png"
+    },
+    {
+      "name": "emby-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/emby/emby00004.png"
+    },
+    {
+      "name": "crown-entertainment",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/entertainment/crown00001.png"
+    },
+    {
+      "name": "infuse-entertainment",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/entertainment/infuse00001.png"
+    },
+    {
+      "name": "movietavern-entertainment",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/entertainment/movietavern.png"
+    },
+    {
+      "name": "play-entertainment",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/entertainment/play.png"
+    },
+    {
+      "name": "play00002-entertainment",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/entertainment/play00002.png"
+    },
+    {
+      "name": "1717879151304-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/1717879151304.png"
+    },
+    {
+      "name": "33immortals-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/33immortals.png"
+    },
+    {
+      "name": "Crisis_Core_Final_Fantasy_VII_Reunion-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/Crisis_Core_Final_Fantasy_VII_Reunion.png"
+    },
+    {
+      "name": "OpenEmuiGBA00001-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/OpenEmuiGBA00001.png"
+    },
+    {
+      "name": "OpenEmuiGBA00002-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/OpenEmuiGBA00002.png"
+    },
+    {
+      "name": "Persona_5_Royal00001-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/Persona_5_Royal00001.png"
+    },
+    {
+      "name": "Persona_5_Royal00002-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/Persona_5_Royal00002.png"
+    },
+    {
+      "name": "RightHandSculpture-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/RightHandSculpture.png"
+    },
+    {
+      "name": "Stray-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/Stray.png"
+    },
+    {
+      "name": "SuperHot-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/SuperHot.png"
+    },
+    {
+      "name": "SuperMeatBoy-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/SuperMeatBoy.png"
+    },
+    {
+      "name": "The_Legend_of_Zelda_Breath_of_the_Wild00001-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/The_Legend_of_Zelda_Breath_of_the_Wild00001.png"
+    },
+    {
+      "name": "The_Legend_of_Zelda_Breath_of_the_Wild00002-game",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/The_Legend_of_Zelda_Breath_of_the_Wild00002.png"
     },
     {
-      "name": "TikTok",
+      "name": "The_Legend_of_Zelda_Breath_of_the_Wild00003-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/The_Legend_of_Zelda_Breath_of_the_Wild00003.png"
+    },
+    {
+      "name": "The_Legend_of_Zelda_Breath_of_the_Wild00004-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/The_Legend_of_Zelda_Breath_of_the_Wild00004.png"
+    },
+    {
+      "name": "aion00001-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/aion00001.png"
+    },
+    {
+      "name": "aion00002-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/aion00002.png"
+    },
+    {
+      "name": "animemusicwithai-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/animemusicwithai.png"
+    },
+    {
+      "name": "bluearchive-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/bluearchive.png"
+    },
+    {
+      "name": "hade-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/hade.png"
+    },
+    {
+      "name": "lostruins-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/lostruins.png"
+    },
+    {
+      "name": "missedmessages-game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/missedmessages.png"
+    },
+    {
+      "name": "PlayStoreCartoon-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/PlayStoreCartoon.png"
+    },
+    {
+      "name": "chrome00001-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/chrome00001.png"
+    },
+    {
+      "name": "chrome00002-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/chrome00002.png"
+    },
+    {
+      "name": "gemini00001-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00001.png"
+    },
+    {
+      "name": "gemini00002-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00002.png"
+    },
+    {
+      "name": "gemini00003-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00003.png"
+    },
+    {
+      "name": "gemini00004-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00004.png"
+    },
+    {
+      "name": "gemini00005-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00005.png"
+    },
+    {
+      "name": "gemini00006-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00006.png"
+    },
+    {
+      "name": "gemini00007-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00007.png"
+    },
+    {
+      "name": "gemini00008-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00008.png"
+    },
+    {
+      "name": "gemini00009-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00009.png"
+    },
+    {
+      "name": "gemini00010-google",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/gemini00010.png"
+    },
+    {
+      "name": "google-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/google00001.png"
+    },
+    {
+      "name": "google-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/google00002.png"
+    },
+    {
+      "name": "google-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/google00003.png"
+    },
+    {
+      "name": "google-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/google00004.png"
+    },
+    {
+      "name": "google-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/google00005.png"
+    },
+    {
+      "name": "google-6",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/google00006.png"
+    },
+    {
+      "name": "google-one",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/google/googleone.png"
+    },
+    {
+      "name": "iina-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/iina/iina00001.png"
+    },
+    {
+      "name": "iina-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/iina/iina00002.png"
+    },
+    {
+      "name": "iina-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/iina/iina00003.png"
+    },
+    {
+      "name": "iina-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/iina/iina00004.png"
+    },
+    {
+      "name": "iina-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/iina/iina00005.png"
+    },
+    {
+      "name": "iina-6",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/iina/iina00006.png"
+    },
+    {
+      "name": "iina-7",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/iina/iina00007.png"
+    },
+    {
+      "name": "iina-8",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/iina/iina00008.png"
+    },
+    {
+      "name": "copilot-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/microsoft/copilot00001.png"
+    },
+    {
+      "name": "copilot-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/microsoft/copilot00002.png"
+    },
+    {
+      "name": "nasa-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nasa/nasa00001.png"
+    },
+    {
+      "name": "nasa-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nasa/nasa00002.png"
+    },
+    {
+      "name": "netflix-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/netflix/netflix00001.png"
+    },
+    {
+      "name": "netflix-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/netflix/netflix00002.png"
+    },
+    {
+      "name": "netflix-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/netflix/netflix00003.png"
+    },
+    {
+      "name": "nintendo-switch-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00001.png"
+    },
+    {
+      "name": "nintendo-switch-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00002.png"
+    },
+    {
+      "name": "nintendo-switch-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00003.png"
+    },
+    {
+      "name": "nintendo-switch-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00004.png"
+    },
+    {
+      "name": "nintendo-switch-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00005.png"
+    },
+    {
+      "name": "openai-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00001.png"
+    },
+    {
+      "name": "openai-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00002.png"
+    },
+    {
+      "name": "openai-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00003.png"
+    },
+    {
+      "name": "openai-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00004.png"
+    },
+    {
+      "name": "openai-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00005.png"
+    },
+    {
+      "name": "openai-6",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00006.png"
+    },
+    {
+      "name": "openai-7",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00007.png"
+    },
+    {
+      "name": "openai-8",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00008.png"
+    },
+    {
+      "name": "perplexity-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/perplexity/perplexity00001.png"
+    },
+    {
+      "name": "spotify-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/spotify/5da2a72d9defa12c118cbc069d040711_HKFCMzCyBf.png"
+    },
+    {
+      "name": "telegram-apple-classic",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Apple%20classic.png"
+    },
+    {
+      "name": "telegram-apple",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Apple.png"
+    },
+    {
+      "name": "telegram-aqua",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Aqua.png"
+    },
+    {
+      "name": "telegram-blue-classic",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Blue%20Classic.png"
+    },
+    {
+      "name": "telegram-classic-black",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Classic%20Black.png"
+    },
+    {
+      "name": "telegram-classic",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Classic.png"
+    },
+    {
+      "name": "telegram-duck",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Duck.png"
+    },
+    {
+      "name": "telegram-emojis",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Emojis.png"
+    },
+    {
+      "name": "telegram-golden",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Golden.png.png"
+    },
+    {
+      "name": "telegram-im-sorry-jon",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/I'm%20sorry,%20Jon.png"
+    },
+    {
+      "name": "telegram-mono-black",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Mono%20Black.png"
+    },
+    {
+      "name": "telegram-neon-purple",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Neon,%20purple.png"
+    },
+    {
+      "name": "telegram-neon-red",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Neon,%20red.png"
+    },
+    {
+      "name": "telegram-oled-classic",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/OLED%20classic.png"
+    },
+    {
+      "name": "telegram-oled",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/OLED.png"
+    },
+    {
+      "name": "telegram-pixel-unperfect",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Pixel%20unperfect.png"
+    },
+    {
+      "name": "telegram-rocket",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Rocket.png.png"
+    },
+    {
+      "name": "telegram-skeuo",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Skeuo.png"
+    },
+    {
+      "name": "telegram-space",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Space.png"
+    },
+    {
+      "name": "telegram-star",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Star.png"
+    },
+    {
+      "name": "telegram-sunset",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Sunset.png"
+    },
+    {
+      "name": "telegram-the-vintage-one",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/The%20Vintage%20one.png"
+    },
+    {
+      "name": "telegram-vaporwavish",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/Vaporwavish.png"
+    },
+    {
+      "name": "telegram-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00001.png"
+    },
+    {
+      "name": "telegram-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00002.png"
+    },
+    {
+      "name": "telegram-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00003.png"
+    },
+    {
+      "name": "telegram-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00004.png"
+    },
+    {
+      "name": "telegram-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00005.png"
+    },
+    {
+      "name": "telegram-6",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00006.png"
+    },
+    {
+      "name": "telegram-7",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00007.png"
+    },
+    {
+      "name": "telegram-8",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00008.png"
+    },
+    {
+      "name": "telegram-9",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00009.png"
+    },
+    {
+      "name": "tiktok-1",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/tiktok/tiktok00001.png"
     },
     {
-      "name": "WereCleaner",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Werecleaner.png"
+      "name": "tiktok-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/tiktok/tiktok00002.png"
     }
   ]
 }

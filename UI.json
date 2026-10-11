@@ -1,86 +1,166 @@
 {
-  "name": "LUCK's UI图标集",
-  "description": "20 distinct utility symbols redrawn on a shared rounded grid with USA-1 inspired coral and indigo gradients.",
-  "icons": [
-    {
-      "name": "Click",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/FingerAction.png"
-    },
-    {
-      "name": "Approved",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/acceptable.png"
-    },
-    {
-      "name": "Age restriction",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/age.png"
-    },
-    {
-      "name": "Signal strength",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/antenna.png"
-    },
-    {
-      "name": "Refresh",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/anticlockwise.png"
-    },
-    {
-      "name": "Applications",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/application.png"
-    },
-    {
-      "name": "Routing",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/branching.png"
-    },
-    {
-      "name": "Highlight",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/brightstar2.png"
-    },
-    {
-      "name": "Data transfer",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/data00001.png"
-    },
-    {
-      "name": "Equalizer",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/equalizer.png"
-    },
-    {
-      "name": "Video",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/film00001.png"
-    },
-    {
-      "name": "Lightning",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/flash00002.png"
-    },
-    {
-      "name": "Globe",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/globe00002.png"
-    },
-    {
-      "name": "Internet",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/internet00002.png"
-    },
-    {
-      "name": "Radar",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/radar00002.png"
-    },
-    {
-      "name": "Rocket",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/rocket00001.png"
-    },
-    {
-      "name": "Satellite",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/satellite00001.png"
-    },
-    {
-      "name": "Cut",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/scissor00001.png"
-    },
-    {
-      "name": "Broadcast",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/streaming00001.png"
-    },
-    {
-      "name": "Toggles",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/switch00002.png"
-    }
-  ]
-}
+    "name": "LUCK's UI图标集",
+    "description": "A diverse set of icons featuring multiple styles and themes for various design needs.",
+    "icons": [
+      {
+        "name": "FingerAction",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/FingerAction.png"
+      },
+      {
+        "name": "HandsGun",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/HandsGun.png"
+      },
+      {
+        "name": "acceptable",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/acceptable.png"
+      },
+      {
+        "name": "age",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/age.png"
+      },
+      {
+        "name": "antenna",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/antenna.png"
+      },
+      {
+        "name": "anticlockwise",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/anticlockwise.png"
+      },
+      {
+        "name": "application",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/application.png"
+      },
+      {
+        "name": "astrology",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/astrology.png"
+      },
+      {
+        "name": "astronomy",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/astronomy.png"
+      },
+      {
+        "name": "branching",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/branching.png"
+      },
+      {
+        "name": "brightstar1",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/brightstar1.png"
+      },
+      {
+        "name": "brightstar2",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/brightstar2.png"
+      },
+      {
+        "name": "crystal",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/crystal.png"
+      },
+      {
+        "name": "data00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/data00001.png"
+      },
+      {
+        "name": "data00002",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/data00002.png"
+      },
+      {
+        "name": "equalizer",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/equalizer.png"
+      },
+      {
+        "name": "film",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/film.png"
+      },
+      {
+        "name": "film00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/film00001.png"
+      },
+      {
+        "name": "flash00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/flash00001.png"
+      },
+      {
+        "name": "flash00002",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/flash00002.png"
+      },
+      {
+        "name": "globe00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/globe00001.png"
+      },
+      {
+        "name": "globe00002",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/globe00002.png"
+      },
+      {
+        "name": "globe00003",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/globe00003.png"
+      },
+      {
+        "name": "internet00002",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/internet00002.png"
+      },
+      {
+        "name": "internet00003",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/internet00003.png"
+      },
+      {
+        "name": "magic",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magic.png"
+      },
+      {
+        "name": "magiccard",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magiccard.png"
+      },
+      {
+        "name": "magicsun",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magicsun.png"
+      },
+      {
+        "name": "radar00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/radar00001.png"
+      },
+      {
+        "name": "radar00002",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/radar00002.png"
+      },
+      {
+        "name": "rocket00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/rocket00001.png"
+      },
+      {
+        "name": "satellite00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/satellite00001.png"
+      },
+      {
+        "name": "scissor00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/scissor00001.png"
+      },
+      {
+        "name": "star",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/star.png"
+      },
+      {
+        "name": "stars",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/stars.png"
+      },
+      {
+        "name": "streaming00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/streaming00001.png"
+      },
+      {
+        "name": "streaming00002",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/streaming00002.png"
+      },
+      {
+        "name": "swirl00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/swirl00001.png"
+      },
+      {
+        "name": "switch00001",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/switch00001.png"
+      },
+      {
+        "name": "switch00002",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/switch00002.png"
+      }
+    ]
+  }
