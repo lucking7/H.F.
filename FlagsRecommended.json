@@ -1,0 +1,58 @@
+{
+  "name": "LUCK's 国旗图标集 · 推荐",
+  "description": "Recommended rounded rectangular flag cards: 1024 × 772, transparent corners, subtle vertical shading. Decorative 4:3 cards; not official flag proportions.",
+  "icons": [
+    {
+      "name": "GBR-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/GBR00001.png"
+    },
+    {
+      "name": "HKG-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/HKG00001.png"
+    },
+    {
+      "name": "JPN-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/JPN00001.png"
+    },
+    {
+      "name": "KOR-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/KOR00001.png"
+    },
+    {
+      "name": "SGP-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/SGP00001.png"
+    },
+    {
+      "name": "TWN-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/TWN00001.png"
+    },
+    {
+      "name": "BEL-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/BEL00001.png"
+    },
+    {
+      "name": "DEU-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/DEU00001.png"
+    },
+    {
+      "name": "FRA-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/FRA00001.png"
+    },
+    {
+      "name": "IRL-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/IRL00001.png"
+    },
+    {
+      "name": "ITA-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/ITA00001.png"
+    },
+    {
+      "name": "NLD-rectangle-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/NLD00001.png"
+    },
+    {
+      "name": "USA-rectangle-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/USA00004.png"
+    }
+  ]
+}

@@ -1,5 +1,12 @@
 ### Hchi's Icon Repository
 
+## Collections
+
+- [Recommended flags](FlagsRecommended.json): the default rounded rectangle selection, including Netherlands and the corrected US flag.
+- [All flag variants](Flags.json): the complete collection with historical URLs preserved.
+- [Flag style and editable sources](flags/README.md).
+- [App icons](Apps.json), [144 px app icons](Apps144px.json), and [UI icons](UI.json).
+
 ---
 
 > [!CAUTION]

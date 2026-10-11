@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="772" viewBox="0 0 1024 772" role="img" aria-label="BEL">
+<defs>
+  <clipPath id="card"><rect x="8" y="8" width="1008" height="756" rx="64"/></clipPath>
+  <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.12"/>
+    <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="1" stop-color="#000000" stop-opacity="0.12"/>
+  </linearGradient>
+</defs>
+<g clip-path="url(#card)">
+<rect x="8" y="8" width="336" height="756" fill="#000001"/>
+<rect x="344" y="8" width="336" height="756" fill="#FFD90C"/>
+<rect x="680" y="8" width="336" height="756" fill="#F31830"/>
+<rect x="8" y="8" width="1008" height="756" fill="url(#shade)"/>
+</g>
+</svg>
