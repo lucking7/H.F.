@@ -6,9 +6,11 @@
 
 Redrawn flags use a 1024 × 772 transparent canvas, a 1008 × 756 card at (8, 8), and 64 px corners. Proportions and palettes are decorative rather than official specifications. The base coral and indigo palette follows the original USA-1 design.
 
-Japan and Singapore use the selected B treatment: continuous white shading, a subtle light rim and a lower edge. Singapore's crescent and stars use a separate local white gradient.
+Japan, Singapore and Korea use the selected B treatment: continuous white shading, a subtle light rim and a lower edge. Singapore's crescent and stars use a separate local white gradient.
 
 Germany uses a separate gradient inside each stripe, avoiding a muddy yellow band caused by global shading. Its endpoints are charcoal `#424242` → `#171717`, coral `#FF6454` → `#DC3929`, and gold `#FFE06A` → `#F1BF32`.
+
+Belgium uses the same brighter gold endpoints as Germany. Ireland and Italy have lighter green shadows; Ireland also has a brighter orange. The Netherlands uses a local indigo gradient inside its blue stripe (`#3659A8` → `#173681`) to avoid a nearly flat dark base. Other selected palettes remain unchanged.
 
 ## United Nations and institution artwork
 
