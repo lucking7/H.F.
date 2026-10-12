@@ -1,95 +1,21 @@
----
-name: Prism Strategy Icons
-description: A 24-icon strategy-group set with layered geometry and a restrained static glass treatment.
-colors:
-  porcelain-top: "#FFFFFF"
-  porcelain-middle: "#F4F6FA"
-  porcelain-bottom: "#E0E5ED"
-  layer-background: "#F5F7FB"
-rounded:
-  static-enclosure: "53/256 canvas units"
----
+# Relief visual system · v2
 
-# Design System: Prism Strategy Icons
+## User direction
 
-## Overview
+Large, simple matte relief rather than small multicolor objects sitting on a pale tile. References are the supplied red tile / white symbol image and https://macosicons.com/?icon=DAZC158WJJ (CapCut Golden Gate Dark by xdan).
 
-**Creative North Star: "Porcelain Prism"**
+## Geometry
 
-The set translates proxy strategy groups into compact, readable symbols. A pale porcelain enclosure keeps the collection coherent, while one two-stop hue family gives each strategy a distinct identity. The artwork is newly authored and uses Apple Icon Composer and App icon guidance as references for layered composition, not as proof of native output.
+1024px square export; viewBox 0 0 256 256. Static enclosure: x/y 8, size 240, corner radius 54. Glyph envelope: approximately 186 units, centered optically at (128,127). Each glyph has its own bounds so narrow cursors and wide arrows carry similar visual weight. Star is a five-point star; Smart is a four-point spark; AI is a chip with a cutout spark. Update adds a downward arrow inside the cycle.
 
-The delivered assets are 24 composite SVGs, 24 static 1024 × 1024 PNGs, 24 static 144 × 144 PNGs, and unmasked layer SVGs. No `.icon` project, dynamic refraction, native dark or monochrome appearance, Icon Composer import test, or device validation is included.
+## Material
 
-## Colors
+Porcelain background #FFFFFF to #ECEEF1; graphite symbol #17191C to #707276; soft shadow offset 3.6 units / blur 2.6 / opacity .18. Color appearance uses the subject palette bottom value from manifest.json, ivory symbol #FFFFFF to #EBECED, and a short tinted shadow. A gentle lower fade integrates the symbol into the backing. The material is a static simulation, not dynamic refraction.
 
-The enclosure moves from Porcelain Top through Porcelain Middle to Porcelain Bottom. Each symbol uses the following top-to-bottom pair; translucency and highlights may introduce lighter derived tones in composite output.
+## Sources
 
-| Icon | Top | Bottom |
-| --- | --- | --- |
-| Star | `#FFD65B` | `#ED8B16` |
-| Smart | `#52E6DD` | `#008FAB` |
-| Auto | `#6CBBFF` | `#2359E9` |
-| Select | `#B9A3FF` | `#6D42D7` |
-| Fallback | `#FFB96D` | `#E56727` |
-| Load Balance | `#6DDEBE` | `#138D75` |
-| Direct | `#75DBA0` | `#20924D` |
-| Proxy | `#75B1FF` | `#3258CB` |
-| Global | `#58D7EF` | `#087EA8` |
-| Rules | `#ADB4FF` | `#5962C7` |
-| Reject | `#FF8D94` | `#D73B4C` |
-| DNS | `#7FDCDD` | `#208D98` |
-| Speed | `#FFC267` | `#E58816` |
-| Privacy | `#82B9FF` | `#3A5CCA` |
-| Stream | `#FF9A7A` | `#E75235` |
-| AI | `#C79CFF` | `#8245CA` |
-| Search | `#6AC8FF` | `#247CB9` |
-| Social | `#FFA2CC` | `#CB4585` |
-| Game | `#AE9AFF` | `#7050C8` |
-| Work | `#83C2DD` | `#3A799D` |
-| Download | `#6ACFDB` | `#178B9B` |
-| Update | `#91CEA3` | `#388656` |
-| Cloud | `#8DCBFF` | `#3C85C8` |
-| Final | `#A6B8C9` | `#546B84` |
+Composite SVGs carry static lighting and an enclosure. Raw background/glyph layers have no filters, gradients or corner masks; SVG masks encode negative spaces only. Raw layers carry the final symbol size, so do not apply the old 87% Prism scale. No native `.icon` file, native dark/mono mode or import/device verification is claimed.
 
-**The Silhouette First Rule.** Color separates categories, but every icon must remain identifiable by geometry at 144px.
+## Scope
 
-## Layout
-
-All artwork uses a square 1024 × 1024 file canvas. Back, front, and accent layer SVGs share a 256-unit viewBox and retain their geometry at 100%. Composite SVGs group those artwork layers and apply a centered 87% scale (`translate(128 128) scale(.87) translate(-128 -128)`); the opaque background remains full canvas. Raw artwork imported at 100% is therefore about 14.9% larger than the composite glyph. Apply the same centered 87% group scale when matching the static output.
-
-## Elevation & Depth
-
-Composite SVGs and PNGs simulate glass statically with a colored rear layer, translucent or pale foreground, a crisp gradient rim, top illumination, and two soft drop-shadow levels. These effects are baked into the composite representation. The files in `layers/` contain no lighting, shadow, rounded mask, or dynamic material behavior.
-
-**The Native Material Rule.** When building a real Icon Composer project, import the unmasked layers and recreate material, masking, and depth in Icon Composer rather than stacking the pre-rendered composite.
-
-## Shapes
-
-The static enclosure is a rounded square spanning 240 × 240 units from `(8, 8)` on the 256-unit canvas, with a 53-unit corner radius and a one-unit rim. Symbols use filled geometry with rounded terminals where the subject permits. They contain no letters or emoji.
-
-## Components
-
-The shared layer order is `background`, `back`, `front`, then optional `accent`:
-
-- **Background:** opaque `#F5F7FB`, full canvas, never scaled with the glyph.
-- **Back:** solid color-bearing depth silhouette.
-- **Front:** main readable symbol, intended for translucency or pale material treatment.
-- **Accent:** optional highlight or semantic detail above the foreground.
-
-The 24 names are Star, Smart, Auto, Select, Fallback, Load Balance, Direct, Proxy, Global, Rules, Reject, DNS, Speed, Privacy, Stream, AI, Search, Social, Game, Work, Download, Update, Cloud, and Final.
-
-## Do's and Don'ts
-
-### Do:
-
-- **Do** preserve each icon's silhouette, layer order, shared center, and paired hue family.
-- **Do** evaluate both 1024px and 144px static exports after geometry changes.
-- **Do** use the layer SVGs as the starting point for a future native Icon Composer project.
-
-### Don't:
-
-- **Don't** describe the static gradients and shadows as dynamic Liquid Glass or real-time refraction.
-- **Don't** treat the light and dark contact sheets as native appearance variants.
-- **Don't** claim Icon Composer or device acceptance until those checks have actually been run.
-
-Official references: [Apple Icon Composer](https://developer.apple.com/icon-composer/) and [Apple Human Interface Guidelines: App icons](https://developer.apple.com/design/human-interface-guidelines/app-icons/), consulted 2026-10-12.
+24 identities listed in manifest.json and two color appearances, each exported at 1024px and 144px. Existing App/UI and other flag collections are independent. The previous Prism version remains in Git history.

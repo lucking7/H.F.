@@ -3,7 +3,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const sharp = require('sharp');
 function addOrigin(file, slug) {
-  const origin = `Origin: original deterministic vector artwork in strategy/source/${slug}.svg, authored by Codex for the user; rasterized with sharp. No generative-image model used. Reference: https://developer.apple.com/icon-composer/`;
+  const origin = `Origin: original deterministic vector artwork in strategy/source/${slug}.svg, authored by Codex for the user; rasterized with sharp. No generative-image model used. Style references: https://macosicons.com/?icon=DAZC158WJJ and the user-supplied red/white relief icon; reference artwork is not redistributed.`;
   const data = Buffer.from('impeccable:prompt\0' + origin, 'utf8');
   const type = Buffer.from('tEXt');
   let crc = 0xffffffff;
@@ -20,10 +20,13 @@ const dir = path.resolve(__dirname, '..');
 (async () => {
   for (const filename of fs.readdirSync(path.join(dir, 'source')).filter(name => name.endsWith('.svg'))) {
     const source = path.join(dir, 'source', filename);
-    const png = filename.replace(/\.svg$/, '.png');
-    await sharp(source).png().toFile(path.join(dir, 'png', png));
-    await sharp(source).resize(144, 144).png().toFile(path.join(dir, '144px', png));
-    addOrigin(path.join(dir, 'png', png), filename.replace(/\.svg$/, ''));
-    addOrigin(path.join(dir, '144px', png), filename.replace(/\.svg$/, ''));
+    const colored = filename.endsWith('-color.svg');
+    const slug = filename.replace(/(-color)?\.svg$/, '');
+    const full = path.join(dir, colored ? 'color' : 'png', slug + '.png');
+    const small = path.join(dir, colored ? 'color-144px' : '144px', slug + '.png');
+    await sharp(source).png().toFile(full);
+    await sharp(source).resize(144, 144).png().toFile(small);
+    addOrigin(full, filename.replace(/\.svg$/, ''));
+    addOrigin(small, filename.replace(/\.svg$/, ''));
   }
 })().catch(error => { console.error(error); process.exitCode = 1; });

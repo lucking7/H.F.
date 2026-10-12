@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 256 256" role="img" aria-label="Search"><defs>
+        <linearGradient id="base" x2="0" y2="1"><stop stop-color="#247CB9"/><stop offset=".55" stop-color="#247CB9"/><stop offset="1" stop-color="#247CB9"/></linearGradient>
+        <linearGradient id="sculpt" x1="0" y1="0" x2=".15" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".35" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EBECED"/></linearGradient>
+        <linearGradient id="fade" x2="0" y2="1"><stop offset=".48" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".28"/></linearGradient>
+        <linearGradient id="edge" x2="0" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".85"/><stop offset=".45" stop-color="#FFFFFF" stop-opacity=".1"/><stop offset="1" stop-color="#47505E" stop-opacity=".15"/></linearGradient>
+        <filter id="relief" x="-25%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="3.6" stdDeviation="2.6" flood-color="#247CB9" flood-opacity=".23"/></filter>
+        <mask id="glyph" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256"><g transform="translate(128 127) scale(1.0628571) translate(-130.5 -131.0)"><path xmlns="http://www.w3.org/2000/svg" d="M166 148 216 198Q222 206 213 215Q204 224 195 216L146 166Z" fill="#FFFFFF" /><path xmlns="http://www.w3.org/2000/svg" d="M117 44A74 74 0 1 0 117 192A74 74 0 0 0 117 44ZM117 75A43 43 0 1 1 117 161A43 43 0 0 1 117 75Z" fill-rule="evenodd" fill="#FFFFFF" /></g></mask>
+        <mask id="front-glyph" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256"><g transform="translate(128 127) scale(1.0628571) translate(-130.5 -131.0)"></g></mask>
+        <clipPath id="tile"><rect x="8" y="8" width="240" height="240" rx="54"/></clipPath>
+        </defs>
+        <rect x="8" y="8" width="240" height="240" rx="54" fill="url(#base)"/>
+        <g clip-path="url(#tile)"><g filter="url(#relief)"><rect width="256" height="256" fill="url(#sculpt)" mask="url(#glyph)"/></g><rect x="8" y="8" width="240" height="240" fill="url(#fade)"/></g>
+        <rect x="8.6" y="8.6" width="238.8" height="238.8" rx="53.4" fill="none" stroke="url(#edge)" stroke-width="1.2"/>
+        </svg>

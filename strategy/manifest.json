@@ -1,6 +1,11 @@
 {
-  "title": "Prism · Strategy Icons",
+  "title": "Relief · Strategy Icons",
+  "version": 2,
   "size": 1024,
+  "appearances": [
+    "light",
+    "color"
+  ],
   "icons": [
     {
       "slug": "star",

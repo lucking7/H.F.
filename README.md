@@ -2,7 +2,7 @@
 
 ## Collections
 
-- [Prism strategy-group icons](Strategy.json): 24 layered designs, including Star and Smart. [Preview and sources](strategy/README.md).
+- [Relief strategy-group icons](Strategy.json): 24 large relief symbols in two appearances, including Star and Smart. [Preview and sources](strategy/README.md).
 
 - [Flags](Flags.json): user-selected flags, with classic UN and institution artwork preserved.
 - [Flag style and editable sources](flags/README.md).

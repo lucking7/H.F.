@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 256 256" role="img" aria-label="DNS"><defs>
+        <linearGradient id="base" x2="0" y2="1"><stop stop-color="#208D98"/><stop offset=".55" stop-color="#208D98"/><stop offset="1" stop-color="#208D98"/></linearGradient>
+        <linearGradient id="sculpt" x1="0" y1="0" x2=".15" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".35" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EBECED"/></linearGradient>
+        <linearGradient id="fade" x2="0" y2="1"><stop offset=".48" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".28"/></linearGradient>
+        <linearGradient id="edge" x2="0" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".85"/><stop offset=".45" stop-color="#FFFFFF" stop-opacity=".1"/><stop offset="1" stop-color="#47505E" stop-opacity=".15"/></linearGradient>
+        <filter id="relief" x="-25%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="3.6" stdDeviation="2.6" flood-color="#208D98" flood-opacity=".23"/></filter>
+        <mask id="glyph" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256"><g transform="translate(128 127) scale(1.1772152) translate(-128.0 -127.5)"><rect xmlns="http://www.w3.org/2000/svg" x="49" y="49" width="158" height="69" rx="24" fill="#FFFFFF" /><rect xmlns="http://www.w3.org/2000/svg" x="49" y="137" width="158" height="69" rx="24" fill="#FFFFFF" /><circle xmlns="http://www.w3.org/2000/svg" cx="78" cy="83" r="10" fill="#000000" /><circle xmlns="http://www.w3.org/2000/svg" cx="78" cy="171" r="10" fill="#000000" /><rect xmlns="http://www.w3.org/2000/svg" x="105" y="74" width="68" height="17" rx="8" fill="#000000" /><rect xmlns="http://www.w3.org/2000/svg" x="105" y="162" width="68" height="17" rx="8" fill="#000000" /></g></mask>
+        <mask id="front-glyph" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256"><g transform="translate(128 127) scale(1.1772152) translate(-128.0 -127.5)"><circle xmlns="http://www.w3.org/2000/svg" cx="78" cy="83" r="10" fill="#000000" /><circle xmlns="http://www.w3.org/2000/svg" cx="78" cy="171" r="10" fill="#000000" /><rect xmlns="http://www.w3.org/2000/svg" x="105" y="74" width="68" height="17" rx="8" fill="#000000" /><rect xmlns="http://www.w3.org/2000/svg" x="105" y="162" width="68" height="17" rx="8" fill="#000000" /></g></mask>
+        <clipPath id="tile"><rect x="8" y="8" width="240" height="240" rx="54"/></clipPath>
+        </defs>
+        <rect x="8" y="8" width="240" height="240" rx="54" fill="url(#base)"/>
+        <g clip-path="url(#tile)"><g filter="url(#relief)"><rect width="256" height="256" fill="url(#sculpt)" mask="url(#glyph)"/></g><rect x="8" y="8" width="240" height="240" fill="url(#fade)"/></g>
+        <rect x="8.6" y="8.6" width="238.8" height="238.8" rx="53.4" fill="none" stroke="url(#edge)" stroke-width="1.2"/>
+        </svg>

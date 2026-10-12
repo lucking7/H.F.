@@ -1,0 +1,102 @@
+{
+  "name": "LUCK's 策略组图标 · Relief Color",
+  "description": "24 original large relief symbols. Static previews; editable SVG source included.",
+  "icons": [
+    {
+      "name": "Star",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/star.png"
+    },
+    {
+      "name": "Smart",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/smart.png"
+    },
+    {
+      "name": "Auto",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/auto.png"
+    },
+    {
+      "name": "Select",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/select.png"
+    },
+    {
+      "name": "Fallback",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/fallback.png"
+    },
+    {
+      "name": "Load Balance",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/load-balance.png"
+    },
+    {
+      "name": "Direct",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/direct.png"
+    },
+    {
+      "name": "Proxy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/proxy.png"
+    },
+    {
+      "name": "Global",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/global.png"
+    },
+    {
+      "name": "Rules",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/rules.png"
+    },
+    {
+      "name": "Reject",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/reject.png"
+    },
+    {
+      "name": "DNS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/dns.png"
+    },
+    {
+      "name": "Speed",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/speed.png"
+    },
+    {
+      "name": "Privacy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/privacy.png"
+    },
+    {
+      "name": "Stream",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/stream.png"
+    },
+    {
+      "name": "AI",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/ai.png"
+    },
+    {
+      "name": "Search",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/search.png"
+    },
+    {
+      "name": "Social",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/social.png"
+    },
+    {
+      "name": "Game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/game.png"
+    },
+    {
+      "name": "Work",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/work.png"
+    },
+    {
+      "name": "Download",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/download.png"
+    },
+    {
+      "name": "Update",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/update.png"
+    },
+    {
+      "name": "Cloud",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/cloud.png"
+    },
+    {
+      "name": "Final",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/final.png"
+    }
+  ]
+}

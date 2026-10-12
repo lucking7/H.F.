@@ -9,6 +9,8 @@ const icons = JSON.parse(fs.readFileSync(path.join(root, 'manifest.json'))).icon
     ['preview-light.png', 180, 35, '#edf0f5'],
     ['preview-dark.png', 180, 35, '#1a202c'],
     ['preview-small.png', 48, 36, '#edf0f5'],
+    ['preview-color.png', 180, 35, '#edf0f5'],
+    ['preview-color-small.png', 48, 36, '#edf0f5'],
   ]) {
     const width = 6 * (size + gap) + gap;
     const height = 4 * (size + gap + 25) + gap;
@@ -17,7 +19,7 @@ const icons = JSON.parse(fs.readFileSync(path.join(root, 'manifest.json'))).icon
     for (const [index, icon] of icons.entries()) {
       const left = gap + (index % 6) * (size + gap);
       const top = gap + Math.floor(index / 6) * (size + gap + 25);
-      layers.push({ input: await sharp(path.join(root, 'png', icon.slug + '.png')).resize(size, size).toBuffer(), left, top });
+      layers.push({ input: await sharp(path.join(root, name.includes('color') ? 'color' : 'png', icon.slug + '.png')).resize(size, size).toBuffer(), left, top });
       labels += `<text x="${left + size / 2}" y="${top + size + 22}" text-anchor="middle">${icon.name}</text>`;
     }
     const color = name === 'preview-dark.png' ? '#edf0f5' : '#364455';

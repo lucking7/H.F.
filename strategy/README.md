@@ -1,59 +1,59 @@
-# Prism · Strategy Icons
+# Relief · Strategy Icons
 
-24 original strategy-group icons inspired by Apple's layered icon design. This collection is independent of the existing App, UI and flag collections.
+24 original strategy symbols redesigned around large matte relief shapes. Two appearances share the same subjects and geometry: porcelain with graphite relief, and colored tiles with ivory relief. This replaces the earlier small layered Prism presentation.
 
-## Use
+## Files
 
-- [Strategy.json](../Strategy.json): 24 direct links to 1024 × 1024 PNGs.
-- [Strategy144px.json](../Strategy144px.json): the same 24 icons indexed as 144 × 144 PNGs.
-- [png/](png/): flattened material previews for proxy clients and other image consumers.
-- [144px/](144px/): matching smaller PNG exports.
-- [source/](source/): composite SVGs with the rounded enclosure, centered 87% glyph scale, gradients, edge highlights, and static shadows used by the PNG exports.
-- [layers/](layers/): unmasked, unlit source layers. Each icon includes an opaque square background plus separate back/front artwork; some include an accent.
+- [Strategy.json](../Strategy.json) and [Strategy144px.json](../Strategy144px.json): porcelain / graphite, 1024px and 144px.
+- [StrategyColor.json](../StrategyColor.json) and [StrategyColor144px.json](../StrategyColor144px.json): color / ivory, 1024px and 144px.
+- `source/<name>.svg` and `source/<name>-color.svg`: editable static compositions.
+- `layers/<name>/background.svg` and `glyph.svg`: unmasked square background and clean vector symbol, with true transparent cutouts and without baked lighting/shadows.
 
-![24 icons on a light surface](preview-light.png)
+![Porcelain and graphite](preview-light.png)
 
-## Design and scope
+![Color and ivory](preview-color.png)
 
-The common design uses a pale porcelain surface, a floating colored rear layer, and a translucent or frosted foreground. Each subject is distinct at small sizes. Color is secondary to silhouette; no letters or emoji are used inside the icons. The static exports intentionally simulate depth with top illumination, crisp edge highlights, and offset soft shadows.
+## Design
 
-These PNG/SVG exports are **not native `.icon` packages** and do not contain dynamic Liquid Glass, real-time refraction, or system appearance annotations. They have not been imported or tested in Icon Composer or validated on a device. The light/dark contact sheets show the same default artwork against two surrounding colors; there are no native dark or monochrome variants.
+A single large symbol replaces the inset miniature illustrations. A subdued vertical material transition and a short, soft offset shadow suggest relief. The same shape carries both appearances. Symbols have optical sizing within a 186-unit envelope on a 256-unit design grid; the exported canvas is 1024 square, with rounded corners only in the static composition.
 
-For a native Icon Composer project, import the unmasked files in `layers/<name>/` in background, back, front, accent order. The back, front, and accent SVGs use the same 256-unit coordinate system but retain the authored geometry at 100%. The composite `source/<name>.svg` scales those three artwork layers together to 87% around the canvas center; the full-canvas background is not scaled. Apply that centered 87% group scale if the native composition must match the static export. Then use Icon Composer for masking, specular lighting, translucency, and shadow. Do not import the composite SVG or flattened PNG as native layer artwork because both already contain the rounded enclosure and static material treatment.
+The native layer SVGs include the same centered symbol sizing as the static composition. The source symbol uses SVG luminance masks for transparent cutouts; there is no extra 87% scale step. Native import compatibility is not verified. The static source includes gradients, shadows and an enclosure; do not treat it as an unstyled native icon layer.
 
-References: [Icon Composer](https://developer.apple.com/icon-composer/) and [Apple's App icons guidance](https://developer.apple.com/design/human-interface-guidelines/app-icons/), consulted 2026-10-12. All artwork in this collection is newly authored; Apple reference images are not distributed in this repository.
+PNG exports are static artwork, not `.icon` packages or dynamic Liquid Glass. Icon Composer import, platform modes and device appearance have not been tested. The dark preview shows the same light icons against a dark surrounding surface, not a native dark theme.
 
-## Icon map
+References: [CapCut (Golden Gate, Dark), by xdan](https://macosicons.com/?icon=DAZC158WJJ) for the graphite relief treatment, and the user-supplied red/white icon for the large light relief symbol. These references inform material and proportions only; their logos and pixels are not redistributed. The original [Apple Icon Composer](https://developer.apple.com/icon-composer/) reference remains background context for source organization.
 
-| Name | Meaning | File |
+## Subjects
+
+| Name | Use | File |
 | --- | --- | --- |
-| Star | 收藏 · 五角星，收藏与优选 | [star.png](png/star.png) |
-| Smart | 智能选择 · 四瓣感应器与中心星芒，智能选择 | [smart.png](png/smart.png) |
-| Auto | 自动测速 · 双向循环箭头，自动探测 | [auto.png](png/auto.png) |
-| Select | 手动选择 · 指针与选择面板，手动切换 | [select.png](png/select.png) |
-| Fallback | 故障转移 · 转向备用路径的双折线箭头 | [fallback.png](png/fallback.png) |
-| Load Balance | 负载均衡 · 一入三出，负载分配 | [load-balance.png](png/load-balance.png) |
-| Direct | 直连 · 直达箭头，直接连接 | [direct.png](png/direct.png) |
-| Proxy | 代理 · 相互覆盖的网络节点与穿越箭头 | [proxy.png](png/proxy.png) |
-| Global | 全局 · 球体与抽象大陆，全局路由 | [global.png](png/global.png) |
-| Rules | 规则分流 · 规则文档与完成标记 | [rules.png](png/rules.png) |
-| Reject | 拦截 · 八边形禁行标记 | [reject.png](png/reject.png) |
-| DNS | 域名解析 · 双层解析服务器 | [dns.png](png/dns.png) |
-| Speed | 速度优先 · 测速表盘与指针 | [speed.png](png/speed.png) |
-| Privacy | 隐私保护 · 盾牌与锁，隐私和安全 | [privacy.png](png/privacy.png) |
-| Stream | 流媒体 · 视频播放卡片 | [stream.png](png/stream.png) |
-| AI | 人工智能 · 芯片与计算星核，AI 服务 | [ai.png](png/ai.png) |
-| Search | 搜索 · 放大镜，搜索服务 | [search.png](png/search.png) |
-| Social | 社交 · 交叠对话气泡，社交服务 | [social.png](png/social.png) |
-| Game | 游戏 · 游戏手柄，低延迟游戏 | [game.png](png/game.png) |
-| Work | 工作 · 公文包，工作服务 | [work.png](png/work.png) |
-| Download | 下载 · 下载箭头与托盘 | [download.png](png/download.png) |
-| Update | 更新 · 双循环箭头与状态点，系统更新 | [update.png](png/update.png) |
-| Cloud | 云服务 · 云与上传箭头，云端同步 | [cloud.png](png/cloud.png) |
-| Final | 兜底 · 终点确认，默认兜底策略 | [final.png](png/final.png) |
+| Star | 收藏 | [star.png](png/star.png) |
+| Smart | 智能选择 | [smart.png](png/smart.png) |
+| Auto | 自动测速 | [auto.png](png/auto.png) |
+| Select | 手动选择 | [select.png](png/select.png) |
+| Fallback | 故障转移 | [fallback.png](png/fallback.png) |
+| Load Balance | 负载均衡 | [load-balance.png](png/load-balance.png) |
+| Direct | 直连 | [direct.png](png/direct.png) |
+| Proxy | 代理 | [proxy.png](png/proxy.png) |
+| Global | 全局 | [global.png](png/global.png) |
+| Rules | 规则分流 | [rules.png](png/rules.png) |
+| Reject | 拦截 | [reject.png](png/reject.png) |
+| DNS | 域名解析 | [dns.png](png/dns.png) |
+| Speed | 速度优先 | [speed.png](png/speed.png) |
+| Privacy | 隐私保护 | [privacy.png](png/privacy.png) |
+| Stream | 流媒体 | [stream.png](png/stream.png) |
+| AI | 人工智能 | [ai.png](png/ai.png) |
+| Search | 搜索 | [search.png](png/search.png) |
+| Social | 社交 | [social.png](png/social.png) |
+| Game | 游戏 | [game.png](png/game.png) |
+| Work | 工作 | [work.png](png/work.png) |
+| Download | 下载 | [download.png](png/download.png) |
+| Update | 更新 | [update.png](png/update.png) |
+| Cloud | 云服务 | [cloud.png](png/cloud.png) |
+| Final | 兜底 | [final.png](png/final.png) |
 
 ## Rebuild
 
-Run `python3 strategy/scripts/build.py` from any directory. Install `sharp` in your Node environment, then run `node strategy/scripts/render.cjs`. The Python source defines all 24 geometries and writes the manifest, layer artwork, composite SVGs and collection index. The Node script produces both PNG sizes. Use Python 3.9 or later.
+Run `python3 strategy/scripts/build.py`, then install `sharp` and run `node strategy/scripts/render.cjs`. Run `node strategy/scripts/preview.cjs` for contact sheets. The rendering script embeds origin metadata in the exported icon PNGs.
 
-Original artwork follows the repository license. Sources and previews are provided for further customization.
+Original artwork follows the repository license. Earlier versions remain in Git history.

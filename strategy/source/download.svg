@@ -1,19 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 256 256" role="img" aria-label="Download"><defs>
- <linearGradient id="plate" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".55" stop-color="#F4F6FA"/><stop offset="1" stop-color="#E0E5ED"/></linearGradient>
- <radialGradient id="tint" cx=".5" cy=".42" r=".65"><stop stop-color="#6ACFDB" stop-opacity=".18"/><stop offset="1" stop-color="#6ACFDB" stop-opacity="0"/></radialGradient>
- <linearGradient id="body" x1="0" y1="0" x2=".25" y2="1"><stop stop-color="#6ACFDB"/><stop offset=".55" stop-color="#178B9B"/><stop offset="1" stop-color="#178B9B"/></linearGradient>
- <linearGradient id="glass" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".75"/><stop offset=".22" stop-color="#6ACFDB" stop-opacity=".92"/><stop offset=".68" stop-color="#178B9B" stop-opacity=".91"/><stop offset="1" stop-color="#178B9B"/></linearGradient>
- <linearGradient id="rim" x1="0" y1="0" x2=".3" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".95"/><stop offset=".4" stop-color="#FFFFFF" stop-opacity=".24"/><stop offset="1" stop-color="#178B9B" stop-opacity=".55"/></linearGradient>
- <filter id="shadow" x="-35%" y="-35%" width="170%" height="180%"><feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#178B9B" flood-opacity=".3"/></filter>
- <filter id="frontShadow" x="-35%" y="-35%" width="170%" height="180%"><feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="#178B9B" flood-opacity=".3"/></filter>
- <clipPath id="mask"><rect x="8" y="8" width="240" height="240" rx="53"/></clipPath>
- <clipPath id="frontMask"><path d="M110 42H146V121H179L128 173 77 121H110Z" /></clipPath>
- </defs>
- <rect x="8" y="8" width="240" height="240" rx="53" fill="url(#plate)"/>
- <g clip-path="url(#mask)"><rect x="8" y="8" width="240" height="240" fill="url(#tint)"/><g transform="translate(128 128) scale(.87) translate(-128 -128)" fill-rule="evenodd">
- <g id="depth" fill="url(#body)" filter="url(#shadow)"><path d="M50 155H79V184H177V155H206V192Q206 215 182 215H74Q50 215 50 192Z" /></g>
- <g id="foreground" fill="url(#glass)" stroke="url(#rim)" stroke-width="1.15" stroke-linejoin="round" filter="url(#frontShadow)"><path d="M110 42H146V121H179L128 173 77 121H110Z" /></g>
- <g id="accent"></g>
- </g></g>
- <rect x="8.5" y="8.5" width="239" height="239" rx="52.5" fill="none" stroke="url(#rim)" stroke-width="1"/>
- </svg>
+        <linearGradient id="base" x2="0" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".55" stop-color="#FFFFFF"/><stop offset="1" stop-color="#ECEEF1"/></linearGradient>
+        <linearGradient id="sculpt" x1="0" y1="0" x2=".15" y2="1"><stop stop-color="#17191C"/><stop offset=".35" stop-color="#17191C"/><stop offset="1" stop-color="#707276"/></linearGradient>
+        <linearGradient id="fade" x2="0" y2="1"><stop offset=".48" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".38"/></linearGradient>
+        <linearGradient id="edge" x2="0" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".85"/><stop offset=".45" stop-color="#FFFFFF" stop-opacity=".1"/><stop offset="1" stop-color="#47505E" stop-opacity=".15"/></linearGradient>
+        <filter id="relief" x="-25%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="3.6" stdDeviation="2.6" flood-color="#35383D" flood-opacity=".18"/></filter>
+        <mask id="glyph" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256"><g transform="translate(128 127) scale(1.0751445) translate(-128.0 -128.5)"><path xmlns="http://www.w3.org/2000/svg" d="M50 155H79V184H177V155H206V192Q206 215 182 215H74Q50 215 50 192Z" fill="#FFFFFF" /><path xmlns="http://www.w3.org/2000/svg" d="M110 42H146V121H179L128 173 77 121H110Z" fill="#FFFFFF" /></g></mask>
+        <mask id="front-glyph" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256"><g transform="translate(128 127) scale(1.0751445) translate(-128.0 -128.5)"></g></mask>
+        <clipPath id="tile"><rect x="8" y="8" width="240" height="240" rx="54"/></clipPath>
+        </defs>
+        <rect x="8" y="8" width="240" height="240" rx="54" fill="url(#base)"/>
+        <g clip-path="url(#tile)"><g filter="url(#relief)"><rect width="256" height="256" fill="url(#sculpt)" mask="url(#glyph)"/></g><rect x="8" y="8" width="240" height="240" fill="url(#fade)"/></g>
+        <rect x="8.6" y="8.6" width="238.8" height="238.8" rx="53.4" fill="none" stroke="url(#edge)" stroke-width="1.2"/>
+        </svg>

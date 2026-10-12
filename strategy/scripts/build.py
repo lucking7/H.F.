@@ -1,5 +1,6 @@
 from pathlib import Path
 import json,math,html
+import xml.etree.ElementTree as E
 R=Path(__file__).resolve().parents[2];D=R/'strategy';D.mkdir(exist_ok=True)
 for p in ['source','png','144px','layers']:(D/p).mkdir(exist_ok=True)
 # Each icon is authored as filled, scalable geometry in a shared 256-unit grid.
@@ -39,44 +40,89 @@ add('download','Download','下载','#6ACFDB','#178B9B',path('M50 155H79V184H177V
 add('update','Update','更新','#91CEA3','#388656',path('M53 97A84 84 0 0 1 194 73L209 58V119H148L169 98A50 50 0 0 0 84 113Z'),path('M203 160A84 84 0 0 1 62 184L47 199V138H108L87 159A50 50 0 0 0 172 144Z'),path('M118 99H140V137H156L129 166 102 137H118Z',fill='#ECFFF1',fill_opacity='.96'),'双循环箭头与状态点，系统更新')
 add('cloud','Cloud','云服务','#8DCBFF','#3C85C8',path('M65 193A44 44 0 0 1 60 105A68 68 0 0 1 190 98A48 48 0 0 1 190 193Z'),path('M125 104 92 144H112V184H144V144H166Z'),'', '云与上传箭头，云端同步')
 add('final','Final','兜底','#A6B8C9','#546B84',circle(128,128,83),path('M80 131 111 162 181 88 199 108 111 201 60 151Z'),'', '终点确认，默认兜底策略')
-pale={'select':'#EBE3FF','direct':'#C7F4DD','global':'#ABF1FC','rules':'#CBD0FF','reject':'#FFE1E4','ai':'#E9DCFF','stream':'#FFDCCC','cloud':'#DAEDFF','final':'#E3EDF6','game':'#E8DAFF','dns':'#B9EFF0'}
-# Record only author-controlled geometry and colors; no Apple icon artwork is redistributed.
+# V2: bold single-subject relief, inspired by the supplied monochrome and coral examples.
+for folder in ['color', 'color-144px']:(D/folder).mkdir(exist_ok=True)
+N='http://www.w3.org/2000/svg'
+E.register_namespace('',N)
+def solid(fragment,color):
+    root=E.fromstring('<svg xmlns="'+N+'">'+fragment+'</svg>')
+    for node in root.iter():
+        if node is root:continue
+        node.set('fill',color)
+        for key in ['fill-opacity','stroke','stroke-width','stroke-linejoin','stroke-linecap']:
+            node.attrib.pop(key,None)
+    return ''.join(E.tostring(c,encoding='unicode') for c in root)
+# Foreground cutouts clarify meaning without tiny gloss or decoration.
+glyphs={}
+boxes={}
 for row in rows:
- slug=row['slug'];ld=D/'layers'/slug;ld.mkdir(exist_ok=True)
- for layer in ['back','front']:
-  body=row[layer];color=row['bottom'] if layer=='back' else pale.get(slug,row['top'])
-  (ld/(layer+'.svg')).write_text(f'<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 256 256"><g fill="{color}" fill-rule="evenodd">{body}</g></svg>\n')
- if row['accent']:(ld/'accent.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 256 256">{row["accent"]}</svg>\n')
- (ld/'background.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024"><rect width="1024" height="1024" fill="#F5F7FB"/></svg>\n')
- # Static material simulation: separate depth shadow, color-bearing solid layer, translucent front, crisp specular edge.
- defs=f'''<defs>
- <linearGradient id="plate" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".55" stop-color="#F4F6FA"/><stop offset="1" stop-color="#E0E5ED"/></linearGradient>
- <radialGradient id="tint" cx=".5" cy=".42" r=".65"><stop stop-color="{row['top']}" stop-opacity=".18"/><stop offset="1" stop-color="{row['top']}" stop-opacity="0"/></radialGradient>
- <linearGradient id="body" x1="0" y1="0" x2=".25" y2="1"><stop stop-color="{row['top']}"/><stop offset=".55" stop-color="{row['bottom']}"/><stop offset="1" stop-color="{row['bottom']}"/></linearGradient>
- <linearGradient id="glass" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".75"/><stop offset=".22" stop-color="{row['top']}" stop-opacity=".92"/><stop offset=".68" stop-color="{row['bottom']}" stop-opacity=".91"/><stop offset="1" stop-color="{row['bottom']}"/></linearGradient>
- <linearGradient id="rim" x1="0" y1="0" x2=".3" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".95"/><stop offset=".4" stop-color="#FFFFFF" stop-opacity=".24"/><stop offset="1" stop-color="{row['bottom']}" stop-opacity=".55"/></linearGradient>
- <filter id="shadow" x="-35%" y="-35%" width="170%" height="180%"><feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="{row['bottom']}" flood-opacity=".3"/></filter>
- <filter id="frontShadow" x="-35%" y="-35%" width="170%" height="180%"><feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="{row['bottom']}" flood-opacity=".3"/></filter>
- <clipPath id="mask"><rect x="8" y="8" width="240" height="240" rx="53"/></clipPath>
- <clipPath id="frontMask">{row['front']}</clipPath>
- </defs>'''
- # Keep every glyph within the shared safe zone by scaling about the optical center.
- glyph=f'''<g transform="translate(128 128) scale(.87) translate(-128 -128)" fill-rule="evenodd">
- <g id="depth" fill="url(#body)" filter="url(#shadow)">{row['back']}</g>
- <g id="foreground" fill="{pale.get(slug,'url(#glass)')}" stroke="url(#rim)" stroke-width="1.15" stroke-linejoin="round" filter="url(#frontShadow)">{row['front']}</g>
- <g id="accent">{row['accent']}</g>
- </g>'''
- svg=f'''<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 256 256" role="img" aria-label="{html.escape(row['name'])}">{defs}
- <rect x="8" y="8" width="240" height="240" rx="53" fill="url(#plate)"/>
- <g clip-path="url(#mask)"><rect x="8" y="8" width="240" height="240" fill="url(#tint)"/>{glyph}</g>
- <rect x="8.5" y="8.5" width="239" height="239" rx="52.5" fill="none" stroke="url(#rim)" stroke-width="1"/>
- </svg>'''
- (D/'source'/(slug+'.svg')).write_text(svg+'\n')
+    k=row['slug'];back=row['back'];front=row['front'];cut='';detail=''
+    if k=='star':back=star(128,128,91,41);front=''
+    elif k=='smart':back=star(128,128,94,34,4);front=''
+    elif k in ['direct','select']:back=front;front=''
+    elif k in ['global','rules','reject','dns','ai','stream','game','cloud','final']:
+        cut=front
+    elif k=='update':back+=row['accent']
+    elif k=='game':cut=front+circle(173,112,10)+circle(193,135,10)
+    elif k=='privacy':
+        cut=path('M100 112V95A28 28 0 0 1 156 95V112H148V95A20 20 0 0 0 108 95V112Z')+rect(94,110,68,58,13)
+    elif k=='work':
+        cut=rect(116,131,24,30,6)
+    elif k=='proxy':
+        back=rect(49,84,104,113,28)
+        front=rect(109,44,104,113,28)
+        detail=path('M86 122H153V104L184 133 153 162V144H86Z')
+    elif k=='social':cut=circle(142,144,6)+circle(166,144,6)+circle(190,144,6)
+    if k not in ['proxy','social']:
+        if k not in ['direct','select','star','smart'] and not cut:back+=front
+        front=''
+    glyphs[k]=(back,front,cut,detail)
+boxes.update({
+ 'star':(37,37,219,211),'smart':(34,34,222,222),'auto':(51,44,205,212),
+ 'select':(85,78,172,193),'fallback':(54,46,187,218),'load-balance':(42,47,214,203),
+ 'direct':(76,86,186,171),'proxy':(49,44,213,197),'global':(46,48,210,212),
+ 'rules':(54,43,198,214),'reject':(43,43,213,213),'dns':(49,49,207,206),
+ 'speed':(38,42,218,184),'privacy':(53,36,203,220),'stream':(41,68,215,200),
+ 'ai':(44,44,212,212),'search':(43,44,218,218),'social':(43,46,218,211),
+ 'game':(35,68,222,203),'work':(42,42,214,208),'download':(50,42,206,215),
+ 'update':(47,44,209,212),'cloud':(34,53,238,193),'final':(45,45,211,211)})
+for row in rows:
+    slug=row['slug'];back,front,cut,detail=glyphs[slug]
+    x0,y0,x1,y1=boxes[slug];scale=186/max(x1-x0,y1-y0)
+    transform=f'translate(128 127) scale({scale:.7f}) translate({-(x0+x1)/2} {-(y0+y1)/2})'
+    # Each subject has a graphite-on-porcelain and ivory-on-color appearance.
+    for theme in ['light','color']:
+        colored=theme=='color';bg0=row['bottom'] if colored else '#FFFFFF';bg1=row['bottom'] if colored else '#ECEEF1'
+        tone0='#FFFFFF' if colored else '#17191C';tone1='#EBECED' if colored else '#707276'
+        rim='#FFFFFF' if colored else '#35373A'
+        defs=f'''<defs>
+        <linearGradient id="base" x2="0" y2="1"><stop stop-color="{bg0}"/><stop offset=".55" stop-color="{bg0}"/><stop offset="1" stop-color="{bg1}"/></linearGradient>
+        <linearGradient id="sculpt" x1="0" y1="0" x2=".15" y2="1"><stop stop-color="{tone0}"/><stop offset=".35" stop-color="{tone0}"/><stop offset="1" stop-color="{tone1}"/></linearGradient>
+        <linearGradient id="fade" x2="0" y2="1"><stop offset=".48" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="{'.28' if colored else '.38'}"/></linearGradient>
+        <linearGradient id="edge" x2="0" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".85"/><stop offset=".45" stop-color="#FFFFFF" stop-opacity=".1"/><stop offset="1" stop-color="#47505E" stop-opacity=".15"/></linearGradient>
+        <filter id="relief" x="-25%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="3.6" stdDeviation="2.6" flood-color="{row['bottom'] if colored else '#35383D'}" flood-opacity="{'.23' if colored else '.18'}"/></filter>
+        <mask id="glyph" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256"><g transform="{transform}">{solid(back,'#FFFFFF')}{solid(cut,'#000000')}</g></mask>
+        <mask id="front-glyph" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256"><g transform="{transform}">{solid(front,'#FFFFFF')}{solid(cut,'#000000')}</g></mask>
+        <clipPath id="tile"><rect x="8" y="8" width="240" height="240" rx="54"/></clipPath>
+        </defs>'''
+        # Shadow receives the same holes as the silhouette, so glyphs remain crisp relief objects.
+        symbol=f'<g filter="url(#relief)"><rect width="256" height="256" fill="url(#sculpt)" mask="url(#glyph)"/></g>'
+        if front:symbol+='<g filter="url(#relief)"><rect width="256" height="256" fill="url(#sculpt)" mask="url(#front-glyph)"/></g>'
+        if detail:symbol+=f'<g transform="{transform}">{solid(detail,bg0)}</g>'
+        svg=f'''<svg xmlns="{N}" width="1024" height="1024" viewBox="0 0 256 256" role="img" aria-label="{html.escape(row['name'])}">{defs}
+        <rect x="8" y="8" width="240" height="240" rx="54" fill="url(#base)"/>
+        <g clip-path="url(#tile)">{symbol}<rect x="8" y="8" width="240" height="240" fill="url(#fade)"/></g>
+        <rect x="8.6" y="8.6" width="238.8" height="238.8" rx="53.4" fill="none" stroke="url(#edge)" stroke-width="1.2"/>
+        </svg>'''
+        source=D/'source'/(slug+('-color' if colored else '')+'.svg');source.write_text(svg+'\n')
+    # Clean vector geometry for use in a real native icon editor. No enclosure or baked light.
+    ld=D/'layers'/slug
+    for old in ld.glob('*.svg'):old.unlink()
+    raw=f'<svg xmlns="{N}" width="1024" height="1024" viewBox="0 0 256 256"><defs><mask id="shape" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256"><g transform="{transform}">{solid(back,"#FFFFFF")}{solid(front,"#FFFFFF")}{solid(cut,"#000000")}{solid(detail,"#000000")}</g></mask></defs><rect width="256" height="256" fill="#202226" mask="url(#shape)"/></svg>'
+    (ld/'glyph.svg').write_text(raw+'\n')
+    (ld/'background.svg').write_text(f'<svg xmlns="{N}" width="1024" height="1024"><rect width="1024" height="1024" fill="#F7F7F8"/></svg>\n')
 manifest=[{k:v for k,v in row.items() if k not in ['back','front','accent']} for row in rows]
-(D/'manifest.json').write_text(json.dumps({'title':'Prism · Strategy Icons','size':1024,'icons':manifest},ensure_ascii=False,indent=2)+'\n')
-(R/'Strategy.json').write_text(json.dumps({'name':"LUCK's 策略组图标 · Prism",'description':'24 original strategy icons inspired by layered glass material. Static PNG exports; editable SVG and unbaked layer assets included.','icons':[{'name':i['name'],'url':f'https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/{i["slug"]}.png'} for i in rows]},ensure_ascii=False,indent=2)+'\n')
-print('Authored',len(rows),'distinct layered icons')
-small_index=json.loads((R/'Strategy.json').read_text())
-small_index['name'] += ' (144px)'
-for icon in small_index['icons']:icon['url']=icon['url'].replace('/png/','/144px/')
-(R/'Strategy144px.json').write_text(json.dumps(small_index,ensure_ascii=False,indent=2)+'\n')
+(D/'manifest.json').write_text(json.dumps({'title':'Relief · Strategy Icons','version':2,'size':1024,'appearances':['light','color'],'icons':manifest},ensure_ascii=False,indent=2)+'\n')
+for file,folder,label in [('Strategy.json','png','Relief'),('Strategy144px.json','144px','Relief (144px)'),('StrategyColor.json','color','Relief Color'),('StrategyColor144px.json','color-144px','Relief Color (144px)')]:
+    (R/file).write_text(json.dumps({'name':"LUCK's 策略组图标 · "+label,'description':'24 original large relief symbols. Static previews; editable SVG source included.','icons':[{'name':i['name'],'url':f'https://raw.githubusercontent.com/lucking7/H.F./main/strategy/{folder}/{i["slug"]}.png'} for i in rows]},ensure_ascii=False,indent=2)+'\n')
+print('Authored 24 relief icons in two appearances')
