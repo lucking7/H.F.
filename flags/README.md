@@ -1,28 +1,28 @@
 # Flag collection
 
-[Flags.json](../Flags.json) is the single index. Each country, region or international flag has one version. Duplicate variants, test exports, Photoshop drafts and unrelated organizational artwork have been removed; their original files remain in Git history. The former `FlagsRecommended.json` has been retired.
+[Flags.json](../Flags.json) contains the user-selected flags and two preserved historical artworks. [selection.json](selection.json) records the selections and refinements.
 
 ## Style
 
-All cards use a 1024 × 772 RGBA canvas, with a 1008 × 756 rounded rectangle at (8, 8), a 64 px corner radius and transparent corners. There are no external shadows or borders. The decorative 4:3 cards do not reproduce each flag's official aspect ratio or official colors.
+Redrawn flags use a 1024 × 772 transparent canvas, a 1008 × 756 card at (8, 8), and 64 px corners. Proportions and palettes are decorative rather than official specifications. The base coral and indigo palette follows the original USA-1 design.
 
-The colors and vertical shading follow the original `USA00001.png`:
+Japan and Singapore use the selected B treatment: continuous white shading, a subtle light rim and a lower edge. Singapore's crescent and stars use a separate local white gradient.
 
-| Material | Top | Bottom |
-| --- | --- | --- |
-| Coral red | `#FF6454` | `#C52A1A` |
-| Indigo blue | `#425FAD` | `#072472` |
-| White | `#FFFFFF` | `#DEDEDE` |
+Germany uses a separate gradient inside each stripe, avoiding a muddy yellow band caused by global shading. Its endpoints are charcoal `#424242` → `#171717`, coral `#FF6454` → `#DC3929`, and gold `#FFE06A` → `#F1BF32`.
 
-Red and blue reach their final shades at 82% of the card height. White stays white through the upper 34%, then shades to gray at 82%. Other colors use the same restrained vertical treatment while preserving the flag's recognizable hue. The UN retains its light blue.
+## United Nations and institution artwork
 
-`USA00001.png` has been redrawn in the preferred original palette, with 50 five-point stars in nine alternating rows of six and five, and 13 stripes. The old drawing's stripe-count error and edge artifact are removed. Versions 2, 3 and 4 are no longer part of the collection.
+- `UN.png`: refined vector redraw of the United Nations flag, with saturated cyan-to-blue shading (`#64CEFF` → `#00619E`).
+- `UN-classic.png`: the original `UNO00003.png`, preserved byte-for-byte from commit `50dd75c`.
+- `INSTITUTION.png`: the original red building/pediment icon named `UNO00001.png`, preserved byte-for-byte from commit `50dd75c`. Its neutral name describes the image without attributing it to the United Nations or a particular institution.
 
-## Sources
+The two historical raster images retain their original canvas, edges and colors. They have no editable SVG counterpart; all redrawn flags have sources in [source/](source/). Superseded files remain recoverable through Git history. Apps and UI icons are maintained independently.
 
-Every PNG has an editable counterpart in [source/](source/). Except for the explicitly drawn US stars and stripes, geometry is adapted from [lipis/flag-icons](https://github.com/lipis/flag-icons) at commit `086f7e97d657358203916dbe84f61c2bccaa81eb`. Its MIT notice is preserved in [LICENSE.flag-icons](source/LICENSE.flag-icons). Palette, gradients, card shape and exports were redrawn for this repository.
+## Sources and export
 
-With `sharp` installed, an SVG can be exported without changing its canvas:
+Except for the explicitly drawn US stars and stripes, vector geometry is adapted from [lipis/flag-icons](https://github.com/lipis/flag-icons) at commit `086f7e97d657358203916dbe84f61c2bccaa81eb`. Its MIT notice is preserved in [LICENSE.flag-icons](source/LICENSE.flag-icons).
+
+With `sharp` installed:
 
 ```sh
 node -e "require('sharp')(process.argv[1]).png().toFile(process.argv[2])" flags/source/NLD00001.svg flags/rectangle/NLD00001.png

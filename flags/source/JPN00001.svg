@@ -1,15 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="772" viewBox="0 0 1024 772" role="img" aria-label="JPN">
-  <!--Geometry adapted from lipis/flag-icons 086f7e97d657358203916dbe84f61c2bccaa81eb (MIT); palette redrawn after USA00001.-->
+
   <defs>
     <clipPath id="card">
       <rect x="8" y="8" width="1008" height="756" rx="64" />
     </clipPath>
     <linearGradient id="paint-1" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -93.07936508 26.92063492)">
-      <stop offset="0" stop-color="#FFFFFF" />
-      <stop offset="0.34" stop-color="#FFFFFF" />
-      <stop offset="0.82" stop-color="#DEDEDE" />
-      <stop offset="1" stop-color="#DEDEDE" />
-    </linearGradient>
+      <stop offset="0" stop-color="#FFFFFF" /><stop offset=".16" stop-color="#F7F7F7" /><stop offset=".55" stop-color="#E8E8E8" /><stop offset="1" stop-color="#C8CDD3" /></linearGradient>
     <linearGradient id="paint-2" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.8293761723 -0 -0 0.8293761723 98.38889532 23.93164945)">
       <stop offset="0" stop-color="#FF6454" />
       <stop offset="0.82" stop-color="#C52A1A" />
@@ -29,4 +25,4 @@
       </g>
     </g>
   </g>
-</svg>
+<g clip-path="url(#card)"><rect x="9.5" y="9.5" width="1005" height="753" rx="62.5" fill="none" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="3" /><path d="M 72 760 H 952 Q 1012 760 1012 700" fill="none" stroke="#596471" stroke-opacity=".24" stroke-width="4" /></g></svg>

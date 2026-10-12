@@ -2,7 +2,7 @@
 
 ## Collections
 
-- [Flags](Flags.json): one version per location, redrawn in the USA-1 inspired palette.
+- [Flags](Flags.json): user-selected flags, with classic UN and institution artwork preserved.
 - [Flag style and editable sources](flags/README.md).
 - [App and brand icons](Apps.json): original App and brand icon collection.
 - [App icons (144px)](Apps144px.json).

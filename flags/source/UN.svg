@@ -1,32 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="772" viewBox="0 0 1024 772" role="img" aria-label="UNO">
-  <!--Geometry adapted from lipis/flag-icons 086f7e97d657358203916dbe84f61c2bccaa81eb (MIT); palette redrawn after USA00001.-->
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="772" viewBox="0 0 1024 772" role="img" aria-label="United Nations">
+
   <defs>
     <clipPath id="card">
       <rect x="8" y="8" width="1008" height="756" rx="64" />
     </clipPath>
     <linearGradient id="paint-1" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
-      <stop offset="0" stop-color="#5B9DD8" />
-      <stop offset="0.82" stop-color="#3271AB" />
-      <stop offset="1" stop-color="#3271AB" />
-    </linearGradient>
+      <stop offset="0" stop-color="#64CEFF" /><stop offset=".18" stop-color="#55BFFF" /><stop offset=".65" stop-color="#087FC2" /><stop offset="1" stop-color="#00619E" /></linearGradient>
     <linearGradient id="paint-2" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(1.058201058 -0 -0 1.058201058 59.2010582 -8.465608466)">
-      <stop offset="0" stop-color="#FFFFFF" />
-      <stop offset="0.34" stop-color="#FFFFFF" />
-      <stop offset="0.82" stop-color="#DEDEDE" />
-      <stop offset="1" stop-color="#DEDEDE" />
-    </linearGradient>
+      <stop offset="0" stop-color="#FFFFFF" /><stop offset=".28" stop-color="#FFFFFF" /><stop offset=".75" stop-color="#E4E7EB" /><stop offset="1" stop-color="#D4DAE0" /></linearGradient>
     <linearGradient id="paint-3" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-1.058201058 0 0 1.058201058 1142.998942 -8.465608466)">
-      <stop offset="0" stop-color="#FFFFFF" />
-      <stop offset="0.34" stop-color="#FFFFFF" />
-      <stop offset="0.82" stop-color="#DEDEDE" />
-      <stop offset="1" stop-color="#DEDEDE" />
-    </linearGradient>
+      <stop offset="0" stop-color="#FFFFFF" /><stop offset=".28" stop-color="#FFFFFF" /><stop offset=".75" stop-color="#E4E7EB" /><stop offset="1" stop-color="#D4DAE0" /></linearGradient>
     <linearGradient id="paint-4" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
-      <stop offset="0" stop-color="#FFFFFF" />
-      <stop offset="0.34" stop-color="#FFFFFF" />
-      <stop offset="0.82" stop-color="#DEDEDE" />
-      <stop offset="1" stop-color="#DEDEDE" />
-    </linearGradient>
+      <stop offset="0" stop-color="#FFFFFF" /><stop offset=".28" stop-color="#FFFFFF" /><stop offset=".75" stop-color="#E4E7EB" /><stop offset="1" stop-color="#D4DAE0" /></linearGradient>
   </defs>
   <g clip-path="url(#card)">
     <g transform="translate(8 8) scale(1.575)">

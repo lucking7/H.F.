@@ -1,6 +1,6 @@
 {
   "name": "LUCK's 国旗图标集",
-  "description": "One flag per location. Rounded 1024 × 772 cards using USA-1 inspired coral red, indigo blue and white-to-gray gradients. Decorative proportions and colors.",
+  "description": "Selected rounded flags, plus the preserved classic UN flag and institution icon. Decorative proportions and colors.",
   "icons": [
     {
       "name": "BEL-rectangle-1",
@@ -59,12 +59,20 @@
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/TWN00001.png"
     },
     {
-      "name": "UNO-rectangle-1",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/UNO00001.png"
+      "name": "UN",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/UN.png"
     },
     {
       "name": "USA-rectangle-1",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/USA00001.png"
+    },
+    {
+      "name": "UN-classic",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/UN-classic.png"
+    },
+    {
+      "name": "Institution",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle/INSTITUTION.png"
     }
   ]
 }

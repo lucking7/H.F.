@@ -1,0 +1,28 @@
+{
+  "selection": {
+    "BEL": "current-BEL00001.png",
+    "DEU": "current-DEU00001.png",
+    "ENG": "current-ENG00001.png",
+    "EUR": "current-EUR00001.png",
+    "FRA": "current-FRA00001.png",
+    "GBR": "current-GBR00001.png",
+    "HKG": "current-HKG00001.png",
+    "IRL": "current-IRL00001.png",
+    "ITA": "current-ITA00001.png",
+    "JPN": "JPN-edge.png",
+    "KOR": "current-KOR00001.png",
+    "NLD": "current-NLD00001.png",
+    "SGP": "SGP-edge.png",
+    "TWN": "current-TWN00001.png",
+    "UNO": "current-UNO00001.png",
+    "USA": "current-USA00001.png"
+  },
+  "refinements": [
+    "UN: saturated cyan-to-blue gradient",
+    "DEU: brighter stripe-local gradients"
+  ],
+  "preserved": {
+    "UN-classic.png": "50dd75c:flags/rectangle/UNO00003.png",
+    "INSTITUTION.png": "50dd75c:flags/rectangle/UNO00001.png"
+  }
+}
