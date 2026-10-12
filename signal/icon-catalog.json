@@ -1,0 +1,98 @@
+{
+  "shield": {
+    "name": "Protection",
+    "color": "teal"
+  },
+  "key": {
+    "name": "Credentials",
+    "color": "gold"
+  },
+  "link": {
+    "name": "Link",
+    "color": "blue"
+  },
+  "route": {
+    "name": "Routing",
+    "color": "teal"
+  },
+  "server": {
+    "name": "Server",
+    "color": "blue"
+  },
+  "cloud-sync": {
+    "name": "Cloud sync",
+    "color": "blue"
+  },
+  "search": {
+    "name": "Search",
+    "color": "blue"
+  },
+  "bookmark": {
+    "name": "Bookmark",
+    "color": "rose"
+  },
+  "notification": {
+    "name": "Notifications",
+    "color": "gold"
+  },
+  "history": {
+    "name": "History",
+    "color": "violet"
+  },
+  "sliders": {
+    "name": "Adjust",
+    "color": "teal"
+  },
+  "folder": {
+    "name": "Folder",
+    "color": "gold"
+  },
+  "smart": {
+    "name": "Smart",
+    "color": "violet"
+  },
+  "star": {
+    "name": "Star",
+    "color": "gold"
+  },
+  "proxy": {
+    "name": "Proxy",
+    "color": "blue"
+  },
+  "ponte": {
+    "name": "Ponte bridge",
+    "color": "teal"
+  },
+  "direct": {
+    "name": "Direct",
+    "color": "teal"
+  },
+  "reject": {
+    "name": "Reject",
+    "color": "rose"
+  },
+  "fallback": {
+    "name": "Fallback",
+    "color": "gold"
+  },
+  "balance": {
+    "name": "Load balance",
+    "color": "teal"
+  },
+  "ai": {
+    "name": "AI",
+    "color": "violet"
+  },
+  "streaming": {
+    "name": "Streaming",
+    "color": "rose"
+  },
+  "game": {
+    "name": "Gaming",
+    "color": "violet"
+  },
+  "rocket": {
+    "name": "Launch",
+    "color": "rose"
+  }
+}
