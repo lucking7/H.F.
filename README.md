@@ -2,6 +2,8 @@
 
 ## Collections
 
+- [Prism strategy-group icons](Strategy.json): 24 layered designs, including Star and Smart. [Preview and sources](strategy/README.md).
+
 - [Flags](Flags.json): user-selected flags, with classic UN and institution artwork preserved.
 - [Flag style and editable sources](flags/README.md).
 - [App and brand icons](Apps.json): original App and brand icon collection.

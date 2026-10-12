@@ -1,0 +1,198 @@
+{
+  "title": "Prism · Strategy Icons",
+  "size": 1024,
+  "icons": [
+    {
+      "slug": "star",
+      "name": "Star",
+      "zh": "收藏",
+      "top": "#FFD65B",
+      "bottom": "#ED8B16",
+      "meaning": "五角星，收藏与优选"
+    },
+    {
+      "slug": "smart",
+      "name": "Smart",
+      "zh": "智能选择",
+      "top": "#52E6DD",
+      "bottom": "#008FAB",
+      "meaning": "四瓣感应器与中心星芒，智能选择"
+    },
+    {
+      "slug": "auto",
+      "name": "Auto",
+      "zh": "自动测速",
+      "top": "#6CBBFF",
+      "bottom": "#2359E9",
+      "meaning": "双向循环箭头，自动探测"
+    },
+    {
+      "slug": "select",
+      "name": "Select",
+      "zh": "手动选择",
+      "top": "#B9A3FF",
+      "bottom": "#6D42D7",
+      "meaning": "指针与选择面板，手动切换"
+    },
+    {
+      "slug": "fallback",
+      "name": "Fallback",
+      "zh": "故障转移",
+      "top": "#FFB96D",
+      "bottom": "#E56727",
+      "meaning": "转向备用路径的双折线箭头"
+    },
+    {
+      "slug": "load-balance",
+      "name": "Load Balance",
+      "zh": "负载均衡",
+      "top": "#6DDEBE",
+      "bottom": "#138D75",
+      "meaning": "一入三出，负载分配"
+    },
+    {
+      "slug": "direct",
+      "name": "Direct",
+      "zh": "直连",
+      "top": "#75DBA0",
+      "bottom": "#20924D",
+      "meaning": "直达箭头，直接连接"
+    },
+    {
+      "slug": "proxy",
+      "name": "Proxy",
+      "zh": "代理",
+      "top": "#75B1FF",
+      "bottom": "#3258CB",
+      "meaning": "相互覆盖的网络节点与穿越箭头"
+    },
+    {
+      "slug": "global",
+      "name": "Global",
+      "zh": "全局",
+      "top": "#58D7EF",
+      "bottom": "#087EA8",
+      "meaning": "球体与抽象大陆，全局路由"
+    },
+    {
+      "slug": "rules",
+      "name": "Rules",
+      "zh": "规则分流",
+      "top": "#ADB4FF",
+      "bottom": "#5962C7",
+      "meaning": "规则文档与完成标记"
+    },
+    {
+      "slug": "reject",
+      "name": "Reject",
+      "zh": "拦截",
+      "top": "#FF8D94",
+      "bottom": "#D73B4C",
+      "meaning": "八边形禁行标记"
+    },
+    {
+      "slug": "dns",
+      "name": "DNS",
+      "zh": "域名解析",
+      "top": "#7FDCDD",
+      "bottom": "#208D98",
+      "meaning": "双层解析服务器"
+    },
+    {
+      "slug": "speed",
+      "name": "Speed",
+      "zh": "速度优先",
+      "top": "#FFC267",
+      "bottom": "#E58816",
+      "meaning": "测速表盘与指针"
+    },
+    {
+      "slug": "privacy",
+      "name": "Privacy",
+      "zh": "隐私保护",
+      "top": "#82B9FF",
+      "bottom": "#3A5CCA",
+      "meaning": "盾牌与锁，隐私和安全"
+    },
+    {
+      "slug": "stream",
+      "name": "Stream",
+      "zh": "流媒体",
+      "top": "#FF9A7A",
+      "bottom": "#E75235",
+      "meaning": "视频播放卡片"
+    },
+    {
+      "slug": "ai",
+      "name": "AI",
+      "zh": "人工智能",
+      "top": "#C79CFF",
+      "bottom": "#8245CA",
+      "meaning": "芯片与计算星核，AI 服务"
+    },
+    {
+      "slug": "search",
+      "name": "Search",
+      "zh": "搜索",
+      "top": "#6AC8FF",
+      "bottom": "#247CB9",
+      "meaning": "放大镜，搜索服务"
+    },
+    {
+      "slug": "social",
+      "name": "Social",
+      "zh": "社交",
+      "top": "#FFA2CC",
+      "bottom": "#CB4585",
+      "meaning": "交叠对话气泡，社交服务"
+    },
+    {
+      "slug": "game",
+      "name": "Game",
+      "zh": "游戏",
+      "top": "#AE9AFF",
+      "bottom": "#7050C8",
+      "meaning": "游戏手柄，低延迟游戏"
+    },
+    {
+      "slug": "work",
+      "name": "Work",
+      "zh": "工作",
+      "top": "#83C2DD",
+      "bottom": "#3A799D",
+      "meaning": "公文包，工作服务"
+    },
+    {
+      "slug": "download",
+      "name": "Download",
+      "zh": "下载",
+      "top": "#6ACFDB",
+      "bottom": "#178B9B",
+      "meaning": "下载箭头与托盘"
+    },
+    {
+      "slug": "update",
+      "name": "Update",
+      "zh": "更新",
+      "top": "#91CEA3",
+      "bottom": "#388656",
+      "meaning": "双循环箭头与状态点，系统更新"
+    },
+    {
+      "slug": "cloud",
+      "name": "Cloud",
+      "zh": "云服务",
+      "top": "#8DCBFF",
+      "bottom": "#3C85C8",
+      "meaning": "云与上传箭头，云端同步"
+    },
+    {
+      "slug": "final",
+      "name": "Final",
+      "zh": "兜底",
+      "top": "#A6B8C9",
+      "bottom": "#546B84",
+      "meaning": "终点确认，默认兜底策略"
+    }
+  ]
+}
