@@ -7,8 +7,6 @@
 - [App and brand icons](Apps.json): original App and brand icon collection.
 - [App icons (144px)](Apps144px.json).
 - [UI icons](UI.json): original UI icon collection.
-- [Hand-drawn color UI](UI-Handdrawn.json) and [Minimal UI](UI-Minimal.json): 24 icons in each family.
-- [Icon design and Surge mapping](signal/DESIGN.md).
 
 ---
 

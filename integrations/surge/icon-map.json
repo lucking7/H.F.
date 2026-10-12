@@ -1,7 +1,0 @@
-{
-  "families": ["handdrawn-color", "minimal"],
-  "groups": {"Proxy":"proxy", "Star":"star", "Smart":"smart", "Ponte":"ponte"},
-  "flags": {"🇺🇸":"USA00001", "🇯🇵":"JPN00001", "🏴‍☠️":"TWN00001", "🇭🇰":"HKG00001", "🇸🇬":"SGP00001", "🇳🇱":"NLD00001", "🇺🇳":"UN"},
-  "asset_base": "https://raw.githubusercontent.com/lucking7/H.F./codex/signal-icon-families/signal",
-  "flag_base": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/rectangle"
-}
