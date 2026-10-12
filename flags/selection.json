@@ -24,7 +24,8 @@
     "BEL: brighter gold",
     "IRL: brighter green and orange",
     "ITA: brighter green",
-    "NLD: brighter stripe-local indigo"
+    "NLD: brighter stripe-local indigo",
+    "Unified material revision: card-space curved light, continuous gradients, symmetric inner bevel; replaces stripe-local lighting and one-sided lower rims"
   ],
   "preserved": {
     "UN-classic.png": "50dd75c:flags/rectangle/UNO00003.png",

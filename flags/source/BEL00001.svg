@@ -5,18 +5,12 @@
       <rect x="8" y="8" width="1008" height="756" rx="64" />
     </clipPath>
     <linearGradient id="paint-1" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
-      <stop offset="0" stop-color="#303030" />
-      <stop offset="0.82" stop-color="#111111" />
-      <stop offset="1" stop-color="#111111" />
-    </linearGradient>
+      <stop offset="0" stop-color="#303030" /><stop offset="0.18" stop-color="#2E2E2E" /><stop offset="0.55" stop-color="#252525" /><stop offset="0.86" stop-color="#181818" /><stop offset="1" stop-color="#111111" /></linearGradient>
     <linearGradient id="paint-2" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
-      <stop offset="0" stop-color="#FFE06A" /><stop offset="1" stop-color="#F1BF32" /></linearGradient>
+      <stop offset="0" stop-color="#FFE06A" /><stop offset="0.18" stop-color="#FEDE67" /><stop offset="0.55" stop-color="#FAD456" /><stop offset="0.86" stop-color="#F4C63E" /><stop offset="1" stop-color="#F1BF32" /></linearGradient>
     <linearGradient id="paint-3" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
-      <stop offset="0" stop-color="#FF6454" />
-      <stop offset="0.82" stop-color="#C52A1A" />
-      <stop offset="1" stop-color="#C52A1A" />
-    </linearGradient>
-  </defs>
+      <stop offset="0" stop-color="#FF6454" /><stop offset="0.18" stop-color="#FC6151" /><stop offset="0.55" stop-color="#EE5242" /><stop offset="0.86" stop-color="#DA3D2D" /><stop offset="1" stop-color="#CF3222" /></linearGradient>
+  <linearGradient id="surface-rim" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".8" /><stop offset=".18" stop-color="#FFFFFF" stop-opacity=".3" /><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".05" /><stop offset=".8" stop-color="#10203A" stop-opacity=".08" /><stop offset="1" stop-color="#10203A" stop-opacity=".38" /></linearGradient><linearGradient id="surface-lower" gradientUnits="userSpaceOnUse" x1="0" y1="690" x2="0" y2="762"><stop offset="0" stop-color="#10203A" stop-opacity="0" /><stop offset=".65" stop-color="#10203A" stop-opacity="0" /><stop offset="1" stop-color="#10203A" stop-opacity=".16" /></linearGradient><radialGradient id="surface-light" gradientUnits="userSpaceOnUse" cx="430" cy="40" r="900" gradientTransform="translate(0 -18) scale(1 0.82)"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".16" /><stop offset=".4" stop-color="#FFFFFF" stop-opacity=".07" /><stop offset="1" stop-color="#FFFFFF" stop-opacity="0" /></radialGradient><linearGradient id="surface-bevel" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".35" /><stop offset=".16" stop-color="#FFFFFF" stop-opacity=".1" /><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0" /><stop offset=".82" stop-color="#10203A" stop-opacity=".03" /><stop offset="1" stop-color="#10203A" stop-opacity=".24" /></linearGradient></defs>
   <g clip-path="url(#card)">
     <g transform="translate(8 8) scale(1.575)">
       <g fill-rule="evenodd" stroke-width="1pt">
@@ -26,4 +20,4 @@
       </g>
     </g>
   </g>
-</svg>
+<g clip-path="url(#card)" id="surface-material"><rect x="8" y="8" width="1008" height="756" rx="64" fill="url(#surface-light)" /><rect x="13" y="13" width="998" height="746" rx="59" fill="none" stroke="url(#surface-bevel)" stroke-width="10" /><rect x="9.5" y="9.5" width="1005" height="753" rx="62.5" fill="none" stroke="url(#surface-rim)" stroke-width="3" /><rect x="12" y="12" width="1000" height="748" rx="60" fill="none" stroke="url(#surface-lower)" stroke-width="4" /></g></svg>

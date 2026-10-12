@@ -1,26 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="772" viewBox="0 0 1024 772" role="img" aria-label="GBR">
-  <!--Geometry adapted from lipis/flag-icons 086f7e97d657358203916dbe84f61c2bccaa81eb (MIT); palette redrawn after USA00001.-->
+
   <defs>
     <clipPath id="card">
       <rect x="8" y="8" width="1008" height="756" rx="64" />
     </clipPath>
     <linearGradient id="paint-1" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
-      <stop offset="0" stop-color="#425FAD" />
-      <stop offset="0.82" stop-color="#072472" />
-      <stop offset="1" stop-color="#072472" />
-    </linearGradient>
+      <stop offset="0" stop-color="#425FAD" /><stop offset="0.18" stop-color="#3F5DAA" /><stop offset="0.55" stop-color="#325198" /><stop offset="0.86" stop-color="#204081" /><stop offset="1" stop-color="#163774" /></linearGradient>
     <linearGradient id="paint-2" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
-      <stop offset="0" stop-color="#FFFFFF" />
-      <stop offset="0.34" stop-color="#FFFFFF" />
-      <stop offset="0.82" stop-color="#DEDEDE" />
-      <stop offset="1" stop-color="#DEDEDE" />
-    </linearGradient>
+      <stop offset="0" stop-color="#FFFFFF" /><stop offset="0.18" stop-color="#FCFCFD" /><stop offset="0.55" stop-color="#EDEFF1" /><stop offset="0.86" stop-color="#D8DCE1" /><stop offset="1" stop-color="#CDD2D9" /></linearGradient>
     <linearGradient id="paint-3" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
-      <stop offset="0" stop-color="#FF6454" />
-      <stop offset="0.82" stop-color="#C52A1A" />
-      <stop offset="1" stop-color="#C52A1A" />
-    </linearGradient>
-  </defs>
+      <stop offset="0" stop-color="#FF6454" /><stop offset="0.18" stop-color="#FC6151" /><stop offset="0.55" stop-color="#EE5242" /><stop offset="0.86" stop-color="#DA3D2D" /><stop offset="1" stop-color="#CF3222" /></linearGradient>
+  <linearGradient id="surface-rim" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".8" /><stop offset=".18" stop-color="#FFFFFF" stop-opacity=".3" /><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".05" /><stop offset=".8" stop-color="#10203A" stop-opacity=".08" /><stop offset="1" stop-color="#10203A" stop-opacity=".38" /></linearGradient><linearGradient id="surface-lower" gradientUnits="userSpaceOnUse" x1="0" y1="690" x2="0" y2="762"><stop offset="0" stop-color="#10203A" stop-opacity="0" /><stop offset=".65" stop-color="#10203A" stop-opacity="0" /><stop offset="1" stop-color="#10203A" stop-opacity=".16" /></linearGradient><radialGradient id="surface-light" gradientUnits="userSpaceOnUse" cx="430" cy="40" r="900" gradientTransform="translate(0 -18) scale(1 0.82)"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".16" /><stop offset=".4" stop-color="#FFFFFF" stop-opacity=".07" /><stop offset="1" stop-color="#FFFFFF" stop-opacity="0" /></radialGradient><linearGradient id="surface-bevel" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".35" /><stop offset=".16" stop-color="#FFFFFF" stop-opacity=".1" /><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0" /><stop offset=".82" stop-color="#10203A" stop-opacity=".03" /><stop offset="1" stop-color="#10203A" stop-opacity=".24" /></linearGradient></defs>
   <g clip-path="url(#card)">
     <g transform="translate(8 8) scale(1.575)">
       <path fill="url(#paint-1)" d="M0 0h640v480H0z" />
@@ -30,4 +20,4 @@
       <path fill="url(#paint-3)" d="M0 193v96h640v-96zM273 0v480h96V0z" />
     </g>
   </g>
-</svg>
+<g clip-path="url(#card)" id="surface-material"><rect x="8" y="8" width="1008" height="756" rx="64" fill="url(#surface-light)" /><rect x="13" y="13" width="998" height="746" rx="59" fill="none" stroke="url(#surface-bevel)" stroke-width="10" /><rect x="9.5" y="9.5" width="1005" height="753" rx="62.5" fill="none" stroke="url(#surface-rim)" stroke-width="3" /><rect x="12" y="12" width="1000" height="748" rx="60" fill="none" stroke="url(#surface-lower)" stroke-width="4" /></g></svg>

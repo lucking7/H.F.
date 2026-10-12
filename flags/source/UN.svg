@@ -5,14 +5,14 @@
       <rect x="8" y="8" width="1008" height="756" rx="64" />
     </clipPath>
     <linearGradient id="paint-1" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
-      <stop offset="0" stop-color="#64CEFF" /><stop offset=".18" stop-color="#55BFFF" /><stop offset=".65" stop-color="#087FC2" /><stop offset="1" stop-color="#00619E" /></linearGradient>
+      <stop offset="0" stop-color="#64CEFF" /><stop offset="0.18" stop-color="#5EC7F9" /><stop offset="0.55" stop-color="#40A7DC" /><stop offset="0.86" stop-color="#1679B3" /><stop offset="1" stop-color="#00619E" /></linearGradient>
     <linearGradient id="paint-2" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(1.058201058 -0 -0 1.058201058 59.2010582 -8.465608466)">
-      <stop offset="0" stop-color="#FFFFFF" /><stop offset=".28" stop-color="#FFFFFF" /><stop offset=".75" stop-color="#E4E7EB" /><stop offset="1" stop-color="#D4DAE0" /></linearGradient>
+      <stop offset="0" stop-color="#FFFFFF" /><stop offset="0.18" stop-color="#FCFCFD" /><stop offset="0.55" stop-color="#EDEFF1" /><stop offset="0.86" stop-color="#D8DCE1" /><stop offset="1" stop-color="#CDD2D9" /></linearGradient>
     <linearGradient id="paint-3" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(-1.058201058 0 0 1.058201058 1142.998942 -8.465608466)">
-      <stop offset="0" stop-color="#FFFFFF" /><stop offset=".28" stop-color="#FFFFFF" /><stop offset=".75" stop-color="#E4E7EB" /><stop offset="1" stop-color="#D4DAE0" /></linearGradient>
+      <stop offset="0" stop-color="#FFFFFF" /><stop offset="0.18" stop-color="#FCFCFD" /><stop offset="0.55" stop-color="#EDEFF1" /><stop offset="0.86" stop-color="#D8DCE1" /><stop offset="1" stop-color="#CDD2D9" /></linearGradient>
     <linearGradient id="paint-4" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764" gradientTransform="matrix(0.6349206349 -0 -0 0.6349206349 -5.079365079 -5.079365079)">
-      <stop offset="0" stop-color="#FFFFFF" /><stop offset=".28" stop-color="#FFFFFF" /><stop offset=".75" stop-color="#E4E7EB" /><stop offset="1" stop-color="#D4DAE0" /></linearGradient>
-  </defs>
+      <stop offset="0" stop-color="#FFFFFF" /><stop offset="0.18" stop-color="#FCFCFD" /><stop offset="0.55" stop-color="#EDEFF1" /><stop offset="0.86" stop-color="#D8DCE1" /><stop offset="1" stop-color="#CDD2D9" /></linearGradient>
+  <linearGradient id="surface-rim" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".8" /><stop offset=".18" stop-color="#FFFFFF" stop-opacity=".3" /><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".05" /><stop offset=".8" stop-color="#10203A" stop-opacity=".08" /><stop offset="1" stop-color="#10203A" stop-opacity=".38" /></linearGradient><linearGradient id="surface-lower" gradientUnits="userSpaceOnUse" x1="0" y1="690" x2="0" y2="762"><stop offset="0" stop-color="#10203A" stop-opacity="0" /><stop offset=".65" stop-color="#10203A" stop-opacity="0" /><stop offset="1" stop-color="#10203A" stop-opacity=".16" /></linearGradient><radialGradient id="surface-light" gradientUnits="userSpaceOnUse" cx="430" cy="40" r="900" gradientTransform="translate(0 -18) scale(1 0.82)"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".16" /><stop offset=".4" stop-color="#FFFFFF" stop-opacity=".07" /><stop offset="1" stop-color="#FFFFFF" stop-opacity="0" /></radialGradient><linearGradient id="surface-bevel" gradientUnits="userSpaceOnUse" x1="0" y1="8" x2="0" y2="764"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".35" /><stop offset=".16" stop-color="#FFFFFF" stop-opacity=".1" /><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0" /><stop offset=".82" stop-color="#10203A" stop-opacity=".03" /><stop offset="1" stop-color="#10203A" stop-opacity=".24" /></linearGradient></defs>
   <g clip-path="url(#card)">
     <g transform="translate(8 8) scale(1.575)">
       <path fill="url(#paint-1)" fill-rule="evenodd" d="M0 0h640v480H0z" />
@@ -33,4 +33,4 @@
       <path fill="url(#paint-4)" d="M320 242c.1 0 .3.5.6.4s.5.6.1.6q-.2.1-.2.5 0 .3-.3.8-.3.2-.7-.1-.4-.2-.9-.2c-.3 0 0 .6 0 .6s-1.6 0-1.3-.3q.6-.3.4-.4t0-.6c.1-.4.7-.2.5-.4s0-1.1.4-.6l.2-.5c-.2-.3 0-.3-.5-.5s-.1-1-.1-1v-.7c.2-.7 1.7-.8 1.8-.1v1.1l.5.2s-.1.4-.5.4 0 .2-.2.5l.2.4zm-5 .8c.3-.4.8-2.4 1.4-1.8s1 0 1 0 .3.3.1 1q-.2.9-.6 1.2l-1.2.4c-.4 0-.6-.8-.6-.8z" />
     </g>
   </g>
-</svg>
+<g clip-path="url(#card)" id="surface-material"><rect x="8" y="8" width="1008" height="756" rx="64" fill="url(#surface-light)" /><rect x="13" y="13" width="998" height="746" rx="59" fill="none" stroke="url(#surface-bevel)" stroke-width="10" /><rect x="9.5" y="9.5" width="1005" height="753" rx="62.5" fill="none" stroke="url(#surface-rim)" stroke-width="3" /><rect x="12" y="12" width="1000" height="748" rx="60" fill="none" stroke="url(#surface-lower)" stroke-width="4" /></g></svg>
