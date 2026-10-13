@@ -1,0 +1,150 @@
+{
+  "name": "LUCK's 极简 UI",
+  "description": "Restored original 24 black line icons plus 12 matching extensions. 128px RGBA assets; editable source and 512px exports included.",
+  "icons": [
+    {
+      "name": "Protection",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/shield.png"
+    },
+    {
+      "name": "Credentials",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/key.png"
+    },
+    {
+      "name": "Link",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/link.png"
+    },
+    {
+      "name": "Routing",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/route.png"
+    },
+    {
+      "name": "Server",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/server.png"
+    },
+    {
+      "name": "Cloud sync",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/cloud-sync.png"
+    },
+    {
+      "name": "Search",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/search.png"
+    },
+    {
+      "name": "Bookmark",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/bookmark.png"
+    },
+    {
+      "name": "Notifications",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/notification.png"
+    },
+    {
+      "name": "History",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/history.png"
+    },
+    {
+      "name": "Adjust",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/sliders.png"
+    },
+    {
+      "name": "Folder",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/folder.png"
+    },
+    {
+      "name": "Smart",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/smart.png"
+    },
+    {
+      "name": "Star",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/star.png"
+    },
+    {
+      "name": "Proxy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/proxy.png"
+    },
+    {
+      "name": "Ponte bridge",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/ponte.png"
+    },
+    {
+      "name": "Direct",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/direct.png"
+    },
+    {
+      "name": "Reject",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/reject.png"
+    },
+    {
+      "name": "Fallback",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/fallback.png"
+    },
+    {
+      "name": "Load balance",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/balance.png"
+    },
+    {
+      "name": "AI",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/ai.png"
+    },
+    {
+      "name": "Streaming",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/streaming.png"
+    },
+    {
+      "name": "Gaming",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/game.png"
+    },
+    {
+      "name": "Launch",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/rocket.png"
+    },
+    {
+      "name": "Auto",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/auto.png"
+    },
+    {
+      "name": "Select",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/select.png"
+    },
+    {
+      "name": "Speed",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/speed.png"
+    },
+    {
+      "name": "Download",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/download.png"
+    },
+    {
+      "name": "Upload",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/upload.png"
+    },
+    {
+      "name": "Filter",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/filter.png"
+    },
+    {
+      "name": "Terminal",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/terminal.png"
+    },
+    {
+      "name": "Wi-Fi",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/wifi.png"
+    },
+    {
+      "name": "Pause",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/pause.png"
+    },
+    {
+      "name": "Stop",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/stop.png"
+    },
+    {
+      "name": "Check",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/check.png"
+    },
+    {
+      "name": "Trash",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/trash.png"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "restored_from": "16021cf",
+  "original_slugs": [
+    "ai",
+    "balance",
+    "bookmark",
+    "cloud-sync",
+    "direct",
+    "fallback",
+    "folder",
+    "game",
+    "history",
+    "key",
+    "link",
+    "notification",
+    "ponte",
+    "proxy",
+    "reject",
+    "rocket",
+    "route",
+    "search",
+    "server",
+    "shield",
+    "sliders",
+    "smart",
+    "star",
+    "streaming"
+  ],
+  "extensions": [
+    "auto",
+    "select",
+    "speed",
+    "download",
+    "upload",
+    "filter",
+    "terminal",
+    "wifi",
+    "pause",
+    "stop",
+    "check",
+    "trash"
+  ]
+}

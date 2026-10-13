@@ -1,0 +1,46 @@
+{
+  "name": "LUCK's 黑色手绘图标",
+  "description": "Original decorative ink artwork, collected into a dedicated index without altering the original PNGs.",
+  "icons": [
+    {
+      "name": "astrology",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/astrology.png"
+    },
+    {
+      "name": "astronomy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/astronomy.png"
+    },
+    {
+      "name": "brightstar1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/brightstar1.png"
+    },
+    {
+      "name": "brightstar2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/brightstar2.png"
+    },
+    {
+      "name": "crystal",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/crystal.png"
+    },
+    {
+      "name": "magic",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magic.png"
+    },
+    {
+      "name": "magiccard",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magiccard.png"
+    },
+    {
+      "name": "magicsun",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magicsun.png"
+    },
+    {
+      "name": "star",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/star.png"
+    },
+    {
+      "name": "stars",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/stars.png"
+    }
+  ]
+}

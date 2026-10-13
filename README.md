@@ -2,6 +2,9 @@
 
 ## Collections
 
+- [Black line UI icons](UI-Minimal.json): 24 restored designs plus 12 matching extensions. [Preview](signal/minimal/README.md).
+- [Decorative ink icons](UI-Handdrawn-Ink.json): the original black stars, magic and astronomy collection.
+
 - [Relief strategy-group icons](Strategy.json): 24 large relief symbols in two appearances, including Star and Smart. [Preview and sources](strategy/README.md).
 
 - [Flags](Flags.json): user-selected flags, with classic UN and institution artwork preserved.

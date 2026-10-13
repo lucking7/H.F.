@@ -26,7 +26,8 @@
     "ITA: brighter green",
     "NLD: brighter stripe-local indigo",
     "Unified material revision: card-space curved light, continuous gradients, symmetric inner bevel; replaces stripe-local lighting and one-sided lower rims",
-    "SGP: continuous convex barrel shading, recessed top/bottom and illuminated middle, unchanged emblem geometry"
+    "SGP: continuous convex barrel shading, recessed top/bottom and illuminated middle, unchanged emblem geometry",
+    "SGP v3: match USA/HKG/JPN top lighting and rounded bevel; keep white field bright until middle then curve into lower shadow"
   ],
   "preserved": {
     "UN-classic.png": "50dd75c:flags/rectangle/UNO00003.png",
