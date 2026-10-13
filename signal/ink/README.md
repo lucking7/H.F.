@@ -6,9 +6,11 @@
 
 The original `astrology`, `astronomy`, `brightstar1`, `brightstar2`, `crystal`, `magic`, `magiccard`, `magicsun`, `star` and `stars` PNGs remain byte-identical at `signal/`. They are existing repository assets; no new authorship or vector source is claimed for them.
 
+[本轮复核与前后对照](REVIEW.md)
+
 ## Extensions
 
-New drawings use fluid curves, tapered filled ink accents, alternating solid/hollow starbursts, asymmetric small marks and sparse compositions. The hand and astronomy motifs continue the visual vocabulary of the original images. The new scenes are original SVG artwork, rather than traced copies of the supplied photographs or regular geometric line icons.
+Refined drawings use pure black ink, slightly heavier hollow outlines, a consistent paper surface, and clearer upload/download directions. New drawings use fluid curves, tapered filled ink accents, alternating solid/hollow starbursts, asymmetric small marks and sparse compositions. The hand and astronomy motifs continue the visual vocabulary of the original images. The new scenes are original SVG artwork, rather than traced copies of the supplied photographs or regular geometric line icons.
 
 Subjects: Smart, Auto, Direct, Proxy, Fallback, Load Balance, Protection, Speed, Search, Download, Upload, Cloud, AI and Game. New exports are 1024px and 128px with transparent outer corners. The ten old files retain their original sizes and URLs.
 
