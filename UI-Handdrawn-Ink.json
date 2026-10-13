@@ -1,6 +1,6 @@
 {
-  "name": "LUCK's 黑色手绘图标",
-  "description": "Original decorative ink artwork, collected into a dedicated index without altering the original PNGs.",
+  "name": "LUCK's 墨线手绘图标",
+  "description": "10 preserved original ink drawings plus 14 new organic ink-style drawings. Original PNGs are unchanged.",
   "icons": [
     {
       "name": "astrology",
@@ -41,6 +41,62 @@
     {
       "name": "stars",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/stars.png"
+    },
+    {
+      "name": "Smart",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/smart.png"
+    },
+    {
+      "name": "Auto",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/auto.png"
+    },
+    {
+      "name": "Direct",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/direct.png"
+    },
+    {
+      "name": "Proxy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/proxy.png"
+    },
+    {
+      "name": "Fallback",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/fallback.png"
+    },
+    {
+      "name": "Load Balance",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/balance.png"
+    },
+    {
+      "name": "Protection",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/shield.png"
+    },
+    {
+      "name": "Speed",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/speed.png"
+    },
+    {
+      "name": "Search",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/search.png"
+    },
+    {
+      "name": "Download",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/download.png"
+    },
+    {
+      "name": "Upload",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/upload.png"
+    },
+    {
+      "name": "Cloud",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/cloud.png"
+    },
+    {
+      "name": "AI",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/ai.png"
+    },
+    {
+      "name": "Game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/game.png"
     }
   ]
 }

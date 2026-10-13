@@ -1,0 +1,86 @@
+{
+  "originals": [
+    "astrology",
+    "astronomy",
+    "brightstar1",
+    "brightstar2",
+    "crystal",
+    "magic",
+    "magiccard",
+    "magicsun",
+    "star",
+    "stars"
+  ],
+  "extensions": [
+    {
+      "slug": "smart",
+      "name": "Smart",
+      "meaning": "灵感"
+    },
+    {
+      "slug": "auto",
+      "name": "Auto",
+      "meaning": "自动循环"
+    },
+    {
+      "slug": "direct",
+      "name": "Direct",
+      "meaning": "直达"
+    },
+    {
+      "slug": "proxy",
+      "name": "Proxy",
+      "meaning": "穿梭"
+    },
+    {
+      "slug": "fallback",
+      "name": "Fallback",
+      "meaning": "备用路径"
+    },
+    {
+      "slug": "balance",
+      "name": "Load Balance",
+      "meaning": "平衡"
+    },
+    {
+      "slug": "shield",
+      "name": "Protection",
+      "meaning": "守护"
+    },
+    {
+      "slug": "speed",
+      "name": "Speed",
+      "meaning": "疾行"
+    },
+    {
+      "slug": "search",
+      "name": "Search",
+      "meaning": "探寻"
+    },
+    {
+      "slug": "download",
+      "name": "Download",
+      "meaning": "接收"
+    },
+    {
+      "slug": "upload",
+      "name": "Upload",
+      "meaning": "发送"
+    },
+    {
+      "slug": "cloud",
+      "name": "Cloud",
+      "meaning": "云端"
+    },
+    {
+      "slug": "ai",
+      "name": "AI",
+      "meaning": "智能洞察"
+    },
+    {
+      "slug": "game",
+      "name": "Game",
+      "meaning": "游玩"
+    }
+  ]
+}
