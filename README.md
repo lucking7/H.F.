@@ -11,7 +11,9 @@
 - [Flag style and editable sources](flags/README.md).
 - [App and brand icons](Apps.json): original App and brand icon collection.
 - [App icons (144px)](Apps144px.json).
-- [UI icons](UI.json): original UI icon collection.
+- [All UI icons](UI.json): 138 unique images combining the original UI, ink, black line and Relief collections.
+
+Refresh the combined index with `python3 tools/update-ui-index.py`. Individual collection indexes remain available above.
 
 ---
 

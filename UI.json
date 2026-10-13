@@ -1,166 +1,558 @@
 {
-    "name": "LUCK's UI图标集",
-    "description": "A diverse set of icons featuring multiple styles and themes for various design needs.",
-    "icons": [
-      {
-        "name": "FingerAction",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/FingerAction.png"
-      },
-      {
-        "name": "HandsGun",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/HandsGun.png"
-      },
-      {
-        "name": "acceptable",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/acceptable.png"
-      },
-      {
-        "name": "age",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/age.png"
-      },
-      {
-        "name": "antenna",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/antenna.png"
-      },
-      {
-        "name": "anticlockwise",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/anticlockwise.png"
-      },
-      {
-        "name": "application",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/application.png"
-      },
-      {
-        "name": "astrology",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/astrology.png"
-      },
-      {
-        "name": "astronomy",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/astronomy.png"
-      },
-      {
-        "name": "branching",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/branching.png"
-      },
-      {
-        "name": "brightstar1",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/brightstar1.png"
-      },
-      {
-        "name": "brightstar2",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/brightstar2.png"
-      },
-      {
-        "name": "crystal",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/crystal.png"
-      },
-      {
-        "name": "data00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/data00001.png"
-      },
-      {
-        "name": "data00002",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/data00002.png"
-      },
-      {
-        "name": "equalizer",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/equalizer.png"
-      },
-      {
-        "name": "film",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/film.png"
-      },
-      {
-        "name": "film00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/film00001.png"
-      },
-      {
-        "name": "flash00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/flash00001.png"
-      },
-      {
-        "name": "flash00002",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/flash00002.png"
-      },
-      {
-        "name": "globe00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/globe00001.png"
-      },
-      {
-        "name": "globe00002",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/globe00002.png"
-      },
-      {
-        "name": "globe00003",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/globe00003.png"
-      },
-      {
-        "name": "internet00002",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/internet00002.png"
-      },
-      {
-        "name": "internet00003",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/internet00003.png"
-      },
-      {
-        "name": "magic",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magic.png"
-      },
-      {
-        "name": "magiccard",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magiccard.png"
-      },
-      {
-        "name": "magicsun",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magicsun.png"
-      },
-      {
-        "name": "radar00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/radar00001.png"
-      },
-      {
-        "name": "radar00002",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/radar00002.png"
-      },
-      {
-        "name": "rocket00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/rocket00001.png"
-      },
-      {
-        "name": "satellite00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/satellite00001.png"
-      },
-      {
-        "name": "scissor00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/scissor00001.png"
-      },
-      {
-        "name": "star",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/star.png"
-      },
-      {
-        "name": "stars",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/stars.png"
-      },
-      {
-        "name": "streaming00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/streaming00001.png"
-      },
-      {
-        "name": "streaming00002",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/streaming00002.png"
-      },
-      {
-        "name": "swirl00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/swirl00001.png"
-      },
-      {
-        "name": "switch00001",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/switch00001.png"
-      },
-      {
-        "name": "switch00002",
-        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/switch00002.png"
-      }
-    ]
-  }
+  "name": "LUCK's UI图标集",
+  "description": "Combined UI collection: original icons, decorative ink drawings, black line icons, and both Relief appearances. Unique image URLs; family prefixes distinguish new icon names.",
+  "icons": [
+    {
+      "name": "FingerAction",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/FingerAction.png"
+    },
+    {
+      "name": "HandsGun",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/HandsGun.png"
+    },
+    {
+      "name": "acceptable",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/acceptable.png"
+    },
+    {
+      "name": "age",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/age.png"
+    },
+    {
+      "name": "antenna",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/antenna.png"
+    },
+    {
+      "name": "anticlockwise",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/anticlockwise.png"
+    },
+    {
+      "name": "application",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/application.png"
+    },
+    {
+      "name": "astrology",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/astrology.png"
+    },
+    {
+      "name": "astronomy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/astronomy.png"
+    },
+    {
+      "name": "branching",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/branching.png"
+    },
+    {
+      "name": "brightstar1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/brightstar1.png"
+    },
+    {
+      "name": "brightstar2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/brightstar2.png"
+    },
+    {
+      "name": "crystal",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/crystal.png"
+    },
+    {
+      "name": "data00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/data00001.png"
+    },
+    {
+      "name": "data00002",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/data00002.png"
+    },
+    {
+      "name": "equalizer",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/equalizer.png"
+    },
+    {
+      "name": "film",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/film.png"
+    },
+    {
+      "name": "film00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/film00001.png"
+    },
+    {
+      "name": "flash00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/flash00001.png"
+    },
+    {
+      "name": "flash00002",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/flash00002.png"
+    },
+    {
+      "name": "globe00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/globe00001.png"
+    },
+    {
+      "name": "globe00002",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/globe00002.png"
+    },
+    {
+      "name": "globe00003",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/globe00003.png"
+    },
+    {
+      "name": "internet00002",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/internet00002.png"
+    },
+    {
+      "name": "internet00003",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/internet00003.png"
+    },
+    {
+      "name": "magic",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magic.png"
+    },
+    {
+      "name": "magiccard",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magiccard.png"
+    },
+    {
+      "name": "magicsun",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/magicsun.png"
+    },
+    {
+      "name": "radar00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/radar00001.png"
+    },
+    {
+      "name": "radar00002",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/radar00002.png"
+    },
+    {
+      "name": "rocket00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/rocket00001.png"
+    },
+    {
+      "name": "satellite00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/satellite00001.png"
+    },
+    {
+      "name": "scissor00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/scissor00001.png"
+    },
+    {
+      "name": "star",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/star.png"
+    },
+    {
+      "name": "stars",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/stars.png"
+    },
+    {
+      "name": "streaming00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/streaming00001.png"
+    },
+    {
+      "name": "streaming00002",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/streaming00002.png"
+    },
+    {
+      "name": "swirl00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/swirl00001.png"
+    },
+    {
+      "name": "switch00001",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/switch00001.png"
+    },
+    {
+      "name": "switch00002",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/switch00002.png"
+    },
+    {
+      "name": "Ink - Smart",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/smart.png"
+    },
+    {
+      "name": "Ink - Auto",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/auto.png"
+    },
+    {
+      "name": "Ink - Direct",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/direct.png"
+    },
+    {
+      "name": "Ink - Proxy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/proxy.png"
+    },
+    {
+      "name": "Ink - Fallback",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/fallback.png"
+    },
+    {
+      "name": "Ink - Load Balance",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/balance.png"
+    },
+    {
+      "name": "Ink - Protection",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/shield.png"
+    },
+    {
+      "name": "Ink - Speed",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/speed.png"
+    },
+    {
+      "name": "Ink - Search",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/search.png"
+    },
+    {
+      "name": "Ink - Download",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/download.png"
+    },
+    {
+      "name": "Ink - Upload",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/upload.png"
+    },
+    {
+      "name": "Ink - Cloud",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/cloud.png"
+    },
+    {
+      "name": "Ink - AI",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/ai.png"
+    },
+    {
+      "name": "Ink - Game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/game.png"
+    },
+    {
+      "name": "Minimal - Protection",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/shield.png"
+    },
+    {
+      "name": "Minimal - Credentials",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/key.png"
+    },
+    {
+      "name": "Minimal - Link",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/link.png"
+    },
+    {
+      "name": "Minimal - Routing",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/route.png"
+    },
+    {
+      "name": "Minimal - Server",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/server.png"
+    },
+    {
+      "name": "Minimal - Cloud sync",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/cloud-sync.png"
+    },
+    {
+      "name": "Minimal - Search",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/search.png"
+    },
+    {
+      "name": "Minimal - Bookmark",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/bookmark.png"
+    },
+    {
+      "name": "Minimal - Notifications",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/notification.png"
+    },
+    {
+      "name": "Minimal - History",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/history.png"
+    },
+    {
+      "name": "Minimal - Adjust",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/sliders.png"
+    },
+    {
+      "name": "Minimal - Folder",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/folder.png"
+    },
+    {
+      "name": "Minimal - Smart",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/smart.png"
+    },
+    {
+      "name": "Minimal - Star",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/star.png"
+    },
+    {
+      "name": "Minimal - Proxy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/proxy.png"
+    },
+    {
+      "name": "Minimal - Ponte bridge",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/ponte.png"
+    },
+    {
+      "name": "Minimal - Direct",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/direct.png"
+    },
+    {
+      "name": "Minimal - Reject",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/reject.png"
+    },
+    {
+      "name": "Minimal - Fallback",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/fallback.png"
+    },
+    {
+      "name": "Minimal - Load balance",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/balance.png"
+    },
+    {
+      "name": "Minimal - AI",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/ai.png"
+    },
+    {
+      "name": "Minimal - Streaming",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/streaming.png"
+    },
+    {
+      "name": "Minimal - Gaming",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/game.png"
+    },
+    {
+      "name": "Minimal - Launch",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/rocket.png"
+    },
+    {
+      "name": "Minimal - Auto",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/auto.png"
+    },
+    {
+      "name": "Minimal - Select",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/select.png"
+    },
+    {
+      "name": "Minimal - Speed",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/speed.png"
+    },
+    {
+      "name": "Minimal - Download",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/download.png"
+    },
+    {
+      "name": "Minimal - Upload",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/upload.png"
+    },
+    {
+      "name": "Minimal - Filter",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/filter.png"
+    },
+    {
+      "name": "Minimal - Terminal",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/terminal.png"
+    },
+    {
+      "name": "Minimal - Wi-Fi",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/wifi.png"
+    },
+    {
+      "name": "Minimal - Pause",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/pause.png"
+    },
+    {
+      "name": "Minimal - Stop",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/stop.png"
+    },
+    {
+      "name": "Minimal - Check",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/check.png"
+    },
+    {
+      "name": "Minimal - Trash",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/minimal/128/trash.png"
+    },
+    {
+      "name": "Relief - Star",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/star.png"
+    },
+    {
+      "name": "Relief - Smart",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/smart.png"
+    },
+    {
+      "name": "Relief - Auto",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/auto.png"
+    },
+    {
+      "name": "Relief - Select",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/select.png"
+    },
+    {
+      "name": "Relief - Fallback",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/fallback.png"
+    },
+    {
+      "name": "Relief - Load Balance",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/load-balance.png"
+    },
+    {
+      "name": "Relief - Direct",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/direct.png"
+    },
+    {
+      "name": "Relief - Proxy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/proxy.png"
+    },
+    {
+      "name": "Relief - Global",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/global.png"
+    },
+    {
+      "name": "Relief - Rules",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/rules.png"
+    },
+    {
+      "name": "Relief - Reject",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/reject.png"
+    },
+    {
+      "name": "Relief - DNS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/dns.png"
+    },
+    {
+      "name": "Relief - Speed",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/speed.png"
+    },
+    {
+      "name": "Relief - Privacy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/privacy.png"
+    },
+    {
+      "name": "Relief - Stream",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/stream.png"
+    },
+    {
+      "name": "Relief - AI",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/ai.png"
+    },
+    {
+      "name": "Relief - Search",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/search.png"
+    },
+    {
+      "name": "Relief - Social",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/social.png"
+    },
+    {
+      "name": "Relief - Game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/game.png"
+    },
+    {
+      "name": "Relief - Work",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/work.png"
+    },
+    {
+      "name": "Relief - Download",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/download.png"
+    },
+    {
+      "name": "Relief - Update",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/update.png"
+    },
+    {
+      "name": "Relief - Cloud",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/cloud.png"
+    },
+    {
+      "name": "Relief - Final",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/png/final.png"
+    },
+    {
+      "name": "Relief Color - Star",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/star.png"
+    },
+    {
+      "name": "Relief Color - Smart",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/smart.png"
+    },
+    {
+      "name": "Relief Color - Auto",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/auto.png"
+    },
+    {
+      "name": "Relief Color - Select",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/select.png"
+    },
+    {
+      "name": "Relief Color - Fallback",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/fallback.png"
+    },
+    {
+      "name": "Relief Color - Load Balance",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/load-balance.png"
+    },
+    {
+      "name": "Relief Color - Direct",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/direct.png"
+    },
+    {
+      "name": "Relief Color - Proxy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/proxy.png"
+    },
+    {
+      "name": "Relief Color - Global",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/global.png"
+    },
+    {
+      "name": "Relief Color - Rules",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/rules.png"
+    },
+    {
+      "name": "Relief Color - Reject",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/reject.png"
+    },
+    {
+      "name": "Relief Color - DNS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/dns.png"
+    },
+    {
+      "name": "Relief Color - Speed",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/speed.png"
+    },
+    {
+      "name": "Relief Color - Privacy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/privacy.png"
+    },
+    {
+      "name": "Relief Color - Stream",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/stream.png"
+    },
+    {
+      "name": "Relief Color - AI",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/ai.png"
+    },
+    {
+      "name": "Relief Color - Search",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/search.png"
+    },
+    {
+      "name": "Relief Color - Social",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/social.png"
+    },
+    {
+      "name": "Relief Color - Game",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/game.png"
+    },
+    {
+      "name": "Relief Color - Work",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/work.png"
+    },
+    {
+      "name": "Relief Color - Download",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/download.png"
+    },
+    {
+      "name": "Relief Color - Update",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/update.png"
+    },
+    {
+      "name": "Relief Color - Cloud",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/cloud.png"
+    },
+    {
+      "name": "Relief Color - Final",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/strategy/color/final.png"
+    }
+  ]
+}
