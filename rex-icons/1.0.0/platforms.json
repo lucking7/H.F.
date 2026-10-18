@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "source": "REX 1.0.0 build 10",
+  "repoId": "lucking7/H.F.",
+  "repoType": "github",
+  "prefix": "rex-icons/1.0.0",
+  "count": 10,
+  "icons": [
+    {
+      "id": "provider-netflix",
+      "name": "Netflix",
+      "group": "Provider",
+      "path": "rex-icons/1.0.0/platforms/png/netflix.png",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/netflix.png",
+      "width": 513,
+      "height": 192,
+      "alpha": true,
+      "sha256": "85920b7927024883c674dab52c2dec3582fc6ac04c1a7a86fc8715f6cab2ab01",
+      "rexURL": "rex-badge://default/netflix.webp",
+      "original": {
+        "path": "rex-icons/1.0.0/platforms/webp/netflix.webp",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/webp/netflix.webp",
+        "sha256": "ecadf96418c70f09c9e5b75f63f337248331edf13177cb52484719d955a61ebd"
+      }
+    },
+    {
+      "id": "provider-prime-video",
+      "name": "Prime Video",
+      "group": "Provider",
+      "path": "rex-icons/1.0.0/platforms/png/prime-video.png",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/prime-video.png",
+      "width": 450,
+      "height": 194,
+      "alpha": true,
+      "sha256": "d4bc0cfb0371dacf7917b4f4942ac19b6465617378727fcf576a5b2d3d99f26d",
+      "rexURL": "rex-badge://default/prime-video.webp",
+      "original": {
+        "path": "rex-icons/1.0.0/platforms/webp/prime-video.webp",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/webp/prime-video.webp",
+        "sha256": "fb96604b32334384c344520a30057af4d674bbd6a80df9e139b36e6fa8629c4d"
+      }
+    },
+    {
+      "id": "provider-apple-tv-plus",
+      "name": "Apple TV+",
+      "group": "Provider",
+      "path": "rex-icons/1.0.0/platforms/png/apple-tv.png",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/apple-tv.png",
+      "width": 390,
+      "height": 196,
+      "alpha": true,
+      "sha256": "bf77c29b7f9668161cbd9063c6a6fddf1399835792d046079d7fc04f5d4d7fbc",
+      "rexURL": "rex-badge://default/apple-tv.webp",
+      "original": {
+        "path": "rex-icons/1.0.0/platforms/webp/apple-tv.webp",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/webp/apple-tv.webp",
+        "sha256": "a0e04e3dca0c3297fbd7c89923293fde8efbaa3543bb0a6d394ff6a5eae1e7a7"
+      }
+    },
+    {
+      "id": "provider-disney-plus",
+      "name": "Disney+",
+      "group": "Provider",
+      "path": "rex-icons/1.0.0/platforms/png/disney.png",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/disney.png",
+      "width": 327,
+      "height": 194,
+      "alpha": true,
+      "sha256": "5e00fe19f356ea5dcd1a4b3273e251aaed623a64ad91e4e93f082777c045e243",
+      "rexURL": "rex-badge://default/disney.webp",
+      "original": {
+        "path": "rex-icons/1.0.0/platforms/webp/disney.webp",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/webp/disney.webp",
+        "sha256": "7cfca720253b2b9f37f69b6b2003647a8e1211497b2099e4fffdaf83201b39dd"
+      }
+    },
+    {
+      "id": "provider-hbo-max",
+      "name": "HBO Max",
+      "group": "Provider",
+      "path": "rex-icons/1.0.0/platforms/png/hbo-max.png",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/hbo-max.png",
+      "width": 798,
+      "height": 193,
+      "alpha": true,
+      "sha256": "4552fe120885b87a0ab92cfe5b6cb029f31726a15987a38e787e7328fe5977d2",
+      "rexURL": "rex-badge://default/hbo-max.webp",
+      "original": {
+        "path": "rex-icons/1.0.0/platforms/webp/hbo-max.webp",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/webp/hbo-max.webp",
+        "sha256": "d315124fd04c3254bedea156f27cdd28c49a67dc40421c0bffa880ef1f873b5b"
+      }
+    },
+    {
+      "id": "provider-hulu",
+      "name": "Hulu",
+      "group": "Provider",
+      "path": "rex-icons/1.0.0/platforms/png/hulu.png",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/hulu.png",
+      "width": 423,
+      "height": 193,
+      "alpha": true,
+      "sha256": "2affed9bfb6475fdf187295c547b33b1be3238961fed1a956c6bb9e3efb2c945",
+      "rexURL": "rex-badge://default/hulu.webp",
+      "original": {
+        "path": "rex-icons/1.0.0/platforms/webp/hulu.webp",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/webp/hulu.webp",
+        "sha256": "23b8d105b0aa83631e54939a234b0c1b9cd42d93869caffe7a85b768946e722f"
+      }
+    },
+    {
+      "id": "provider-peacock",
+      "name": "Peacock",
+      "group": "Provider",
+      "path": "rex-icons/1.0.0/platforms/png/peacock.png",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/peacock.png",
+      "width": 450,
+      "height": 193,
+      "alpha": true,
+      "sha256": "76639e12d4ffe27fd5ac3777e836eb2c3baef6dcaddd0c6ea270ff6ea9070990",
+      "rexURL": "rex-badge://default/peacock.webp",
+      "original": {
+        "path": "rex-icons/1.0.0/platforms/webp/peacock.webp",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/webp/peacock.webp",
+        "sha256": "3d02796882da69f44313abb1bd523c75f5d5cc8925c2e591b988858795278beb"
+      }
+    },
+    {
+      "id": "provider-paramount-plus",
+      "name": "Paramount+",
+      "group": "Provider",
+      "path": "rex-icons/1.0.0/platforms/png/paramount-plus.png",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/paramount-plus.png",
+      "width": 222,
+      "height": 194,
+      "alpha": true,
+      "sha256": "611e42385ab0f3a3ac0ee91c66cd782bb7f4c9593fe2e0a332bf1fc7c2097bf8",
+      "rexURL": "rex-badge://default/paramount-plus.webp",
+      "original": {
+        "path": "rex-icons/1.0.0/platforms/webp/paramount-plus.webp",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/webp/paramount-plus.webp",
+        "sha256": "39e964420f231b8e31c52cc1de5098b8ca7ac5ee042adaf158d487cbfc6ce871"
+      }
+    },
+    {
+      "id": "provider-crave",
+      "name": "Crave",
+      "group": "Provider",
+      "path": "rex-icons/1.0.0/platforms/png/crave.png",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/crave.png",
+      "width": 780,
+      "height": 194,
+      "alpha": true,
+      "sha256": "c7df371f61e6fa48a9301e8e401a94caee47295b5a615a71f695a9be8694fb2b",
+      "rexURL": "rex-badge://default/crave.webp",
+      "original": {
+        "path": "rex-icons/1.0.0/platforms/webp/crave.webp",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/webp/crave.webp",
+        "sha256": "f14e8785ef2d84461d90f685856f6af1fe45655d6a66eabd7110f55daf3f22d6"
+      }
+    },
+    {
+      "id": "provider-crunchyroll",
+      "name": "Crunchyroll",
+      "group": "Provider",
+      "path": "rex-icons/1.0.0/platforms/png/crunchyroll.png",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/crunchyroll.png",
+      "width": 735,
+      "height": 194,
+      "alpha": true,
+      "sha256": "0fabbb548d237eb385cc23ff42f6daae0196c8d89f4c6d853b6cdcee6c630fcd",
+      "rexURL": "rex-badge://default/crunchyroll.webp",
+      "original": {
+        "path": "rex-icons/1.0.0/platforms/webp/crunchyroll.webp",
+        "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/webp/crunchyroll.webp",
+        "sha256": "5d2f92cb1373077aa15e4400a8f374c57e65adc88923e175dc493790dd1534a8"
+      }
+    }
+  ]
+}

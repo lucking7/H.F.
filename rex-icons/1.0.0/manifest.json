@@ -1,0 +1,918 @@
+{
+  "schemaVersion": 1,
+  "source": "REX 1.0.0 build 10",
+  "repoId": "lucking7/H.F.",
+  "repoType": "github",
+  "prefix": "rex-icons/1.0.0",
+  "indexedIcons": 138,
+  "platformIcons": 10,
+  "runtimeLogos": 26,
+  "assetFiles": 181,
+  "files": [
+    {
+      "path": "rex-icons/1.0.0/app-icons/original/AppIcon60x60@2x.png",
+      "bytes": 23133,
+      "sha256": "a02d6f31d00ac38d0bfb8299b226022c04d9e16471edea182d5c4e0cbf9e36a7"
+    },
+    {
+      "path": "rex-icons/1.0.0/app-icons/original/AppIcon76x76@2x~ipad.png",
+      "bytes": 34552,
+      "sha256": "de97358f832d411073a00d5450f60d3041c6ad2bbe9a6fde9c3446cc33ee9136"
+    },
+    {
+      "path": "rex-icons/1.0.0/app-icons/png/AppIcon60x60@2x.png",
+      "bytes": 17365,
+      "sha256": "368ca71623fd156cca5ffbf341d548e49e048819cda00262f9bf00a93b843dde"
+    },
+    {
+      "path": "rex-icons/1.0.0/app-icons/png/AppIcon76x76@2x~ipad.png",
+      "bytes": 26008,
+      "sha256": "8f55d4e74da50b0efc5008555e12d8d8d30c79fd6ab5c08c29e1a5308294c59e"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/1080p.png",
+      "bytes": 8512,
+      "sha256": "6188f1ed255c71bab26b79c66858b7f1a4564537f8119f2d50bdaafe6078cbd3"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/4k.png",
+      "bytes": 3694,
+      "sha256": "0000389b534eb66cf9f8582d7050e7c06a7e156d957dae6f0d0dd76349c21ee2"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/5-1.png",
+      "bytes": 2541,
+      "sha256": "8e73909c94c1aa6514e9a46c27ca287cddaeb2399674700a39ddbc1b8064ac6b"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/7-1.png",
+      "bytes": 2096,
+      "sha256": "4120f040f3fb553b42fc0c56dc7db2a8215998b1818aded4c3de0cc45d38a363"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/720p.png",
+      "bytes": 5804,
+      "sha256": "4ccf7a1d891c7875e72fdc7d1f5ede5ed56d88279e89b87b053ae219f3dd5fd7"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/av1.png",
+      "bytes": 5438,
+      "sha256": "bb77204ca12eaa2ed012efff8f6a62658c5d2404c234ab2789848e5d7e49dc99"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/avc.png",
+      "bytes": 6992,
+      "sha256": "d717821b8a86b593c471a5a79137eda6839442a7cf1f3eda7314b70f51c8deb9"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/bluray.png",
+      "bytes": 11278,
+      "sha256": "c0bfd1a5df3f594bce6e8d26cf018b345b517a6fe177d8eeb3a81198832aa2b4"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dolby-atmos-vision.png",
+      "bytes": 13567,
+      "sha256": "bc4992654bf40fec2eeb6e0f82b0deb96920fd393894fa8a52426afbec2a6402"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dolby-atmos.png",
+      "bytes": 11158,
+      "sha256": "68bf52bda6189598e67f86306d5056b9a93a1f7f7a6f52eb4f8cae15f0d992f6"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dolby-digital-plus.png",
+      "bytes": 10325,
+      "sha256": "2ec281d29cc595e08eab7f7fce9d890e365a60eb7476e8520714b03de305cee3"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dolby-digital-vision.png",
+      "bytes": 13472,
+      "sha256": "a962d928160468059ae38e9f613b9d758800569974088ee7158152a64b334fc3"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dolby-digital.png",
+      "bytes": 10125,
+      "sha256": "5187179a24eaec42b6bd77f6c678f812f2c4f357de8c5bb8d5b8f29d56f888bb"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dolby-truehd-vision.png",
+      "bytes": 12375,
+      "sha256": "faa1c2a9fc1c0efd304b0c607ddfb23dc0ecd5eaeb72d8ac067673b8d1de7f3d"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dolby-truehd.png",
+      "bytes": 9474,
+      "sha256": "c0da3965118ed0c3d840afb4f6672b7ca3dc6e1f2162cca6d24a5b1bbe265aec"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dolby-vision.png",
+      "bytes": 10807,
+      "sha256": "9eab45310f1be3a1c9724297b5caf437ccae85f5a4636a99bb752e7e68012aec"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dts-hd-ma.png",
+      "bytes": 15451,
+      "sha256": "10eafd5d0d762ce37d8a709b871f4336d064c8420de243dd5ac8c030de937573"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dts-hd.png",
+      "bytes": 22364,
+      "sha256": "23603c823966248bd7c177743f66f340c51380d27ee49639a1caa2fd0a4bf4c7"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dts-x.png",
+      "bytes": 6200,
+      "sha256": "aec316f4e2fd5dd497c56e5f9f6af9c3d895b920626f933df162242e3922e77a"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/dts.png",
+      "bytes": 5378,
+      "sha256": "decaf9bf2b3704ca058e671d96b7399fe8729dbffcfe2d90ef2fe5c6b44a7a6c"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/hdr.png",
+      "bytes": 6022,
+      "sha256": "0327fbf1c24304150ee82951e0879f112224f736370eb7279fce29c04c4d01ea"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/hdr10.png",
+      "bytes": 6552,
+      "sha256": "411d9ec2fa3ad2096e7c4066c3df294110cfbd76fde82ea2af83226404842e8d"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/hdr10plus.png",
+      "bytes": 7417,
+      "sha256": "417280375ec797b897f29a055410c5ba4d2cd9572680601e8acf0e40870daccd"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/hevc.png",
+      "bytes": 6748,
+      "sha256": "2536ca90658845b3bf8b05cf4f079a6933162879a557bfd03a439ddf3c5cdf35"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/imax-enhanced.png",
+      "bytes": 13377,
+      "sha256": "d6a5e5638256a6b116e26e98c9fc21062c9392417729c7d58aad0874db03e252"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/imax.png",
+      "bytes": 8621,
+      "sha256": "f2a0f2c0d067a74b472e13d1665648a7e8de25fb0afe87ec8ea254940c926cbc"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/remux.png",
+      "bytes": 10644,
+      "sha256": "995700926bebe03e8b79ae220a404a75756c0264aaa8da8929e4ae945b6bc00c"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/sdr.png",
+      "bytes": 6615,
+      "sha256": "9cecf0e4d7a9a6deb7b7ced84cc4fb7fbde69d4ff5ba71fc1cb6441edc4a7785"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/seadex.png",
+      "bytes": 11619,
+      "sha256": "cab5a57e724714104a15727fda158ce552e7ec0e7b3d39e57922df719b7bfb23"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/web-dl.png",
+      "bytes": 10383,
+      "sha256": "e6a71172c3b29227c17848f81030c30e60cd6f387216ef4fa2e9b1b18c124506"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/png/webrip.png",
+      "bytes": 11914,
+      "sha256": "9587c4a0f5374f07c7de1e4a0c2205b81ae3876802246c345d15aa5799c2e873"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/1080p.webp",
+      "bytes": 4744,
+      "sha256": "fac3e6a2a380fa780012d759561fbf363fa57aafb89f0b662728be84047351b3"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/4k.webp",
+      "bytes": 2170,
+      "sha256": "a0893c80cf943cb75a5de5fbadb6046da65c88e9e08499d96c58975df0138aec"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/5-1.webp",
+      "bytes": 1220,
+      "sha256": "bac8fcdd6a60ea3ea29004db36b43f6d532596b810bcb54b493fe28f47db5b4d"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/7-1.webp",
+      "bytes": 1074,
+      "sha256": "8f68fa797cb29e44dc13f729d38f312f23ecb4d7a73e7201fcca6703f13a7e5c"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/720p.webp",
+      "bytes": 3134,
+      "sha256": "7f764a7f5a9f1da4d0635c77e9cfb031bdaae30cacdf8b467f4bc90ecc3ec426"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/av1.webp",
+      "bytes": 3194,
+      "sha256": "748e36cf6d84f91baece93ec7d79a938eb7566a9f67dac2c6a4a6f145c7a0e07"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/avc.webp",
+      "bytes": 3984,
+      "sha256": "a3d563890aa88a8a42ed92d657e93a960928ab417565446c17acf2f2506c347d"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/bluray.webp",
+      "bytes": 6298,
+      "sha256": "6a678e620cc1ecd21ab431a576e793b183446eaa568b57a44a3fd40ff54518d9"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dolby-atmos-vision.webp",
+      "bytes": 7454,
+      "sha256": "bc172f70288f4b9f641cd0171abdd00202fca34459f635571820e5905f75ebbc"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dolby-atmos.webp",
+      "bytes": 6152,
+      "sha256": "e88d12dd738c80450a90a8409c86b2c092180026f616877a283c8fef72269d51"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dolby-digital-plus.webp",
+      "bytes": 5880,
+      "sha256": "c67d7e5fe73f58e07c5885e8f1fea9733fef2e1412631291de6af2bb9af90435"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dolby-digital-vision.webp",
+      "bytes": 7348,
+      "sha256": "4b26efd1daed4f3f7946ca2ca157264a9e505a8f35f3fa7cf1666b8ab22e3569"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dolby-digital.webp",
+      "bytes": 5718,
+      "sha256": "a2f51ce26c1cb1a54ddc9a9206ca68fc23a83ac673e8852e2903ef398c688ac0"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dolby-truehd-vision.webp",
+      "bytes": 6740,
+      "sha256": "dc57cec41c5a09cb75d377dfb4c323f69d3c5478ff5ea27c8d2f54f464d02e1e"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dolby-truehd.webp",
+      "bytes": 5450,
+      "sha256": "409753a906b4632fcf23bd077ac25c16ca030595b5067bdeda1e4d1281401095"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dolby-vision.webp",
+      "bytes": 6042,
+      "sha256": "c73d10d4eee8d615ec73eb1b4664accb009e9fca255cd4bdcdf409e2c4c841db"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dts-hd-ma.webp",
+      "bytes": 8552,
+      "sha256": "fe97712a494961fff1aad91a93e2dbca2e68b211c0441182ba81675fad144382"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dts-hd.webp",
+      "bytes": 12530,
+      "sha256": "74896709256b9630ae7133ed55c7c4130d64cfb6a4d1a3d222d729eaa6dbe341"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dts-x.webp",
+      "bytes": 3262,
+      "sha256": "8cf4496394f578f0f54b49b6a582e4decc9b0c3607f195f072a4974f722bfea5"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/dts.webp",
+      "bytes": 3024,
+      "sha256": "380ac88d495cdb587746a7d8ed07f414026f607a541a30afe689ccbfe65a299c"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/hdr.webp",
+      "bytes": 3216,
+      "sha256": "4940c8740508918cbcd6d718b2c2ee9983bad0481b2daa6041d03cd832be6738"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/hdr10.webp",
+      "bytes": 3402,
+      "sha256": "4ab02381542cb4a7215c36bc79fa190c16241b92cddd27b66306d9a582649cdb"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/hdr10plus.webp",
+      "bytes": 4026,
+      "sha256": "ff31e210fdb3d4b548c4a351400238d2c94055d3aab66bb61c2fb12ae3738812"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/hevc.webp",
+      "bytes": 3892,
+      "sha256": "99d8f70e26c3c36db74b471112b27ed43be1f08a9715a0404ca8e6d1e788dc6f"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/imax-enhanced.webp",
+      "bytes": 7894,
+      "sha256": "5d8f33fa73ff60e73028c5411a380d419631c54304900d398b2d4837a22516bf"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/imax.webp",
+      "bytes": 4750,
+      "sha256": "2e2e83165d11e9fba2485767818e595ad633e478cd566b5060b0694a9b0eb733"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/remux.webp",
+      "bytes": 6438,
+      "sha256": "ec697cc745130b61dccdc479dba2209d02e13f1f187ea8d12e28cd09997bd3a5"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/sdr.webp",
+      "bytes": 3922,
+      "sha256": "e968dd42c5d697c153a970e24f84ae41a4199aedc1beda1ebffce7abf4cca504"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/seadex.webp",
+      "bytes": 6600,
+      "sha256": "f8fc3ba17237c6a308099994cb34fd4c78d469ddb93641e6f1e87b977db001f6"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/web-dl.webp",
+      "bytes": 6264,
+      "sha256": "11d4bbf2a6fa0de3c7170d3116821c06b82e7ab1354ee222dcf12e52a84b0c9e"
+    },
+    {
+      "path": "rex-icons/1.0.0/badges/webp/webrip.webp",
+      "bytes": 7164,
+      "sha256": "244cccaefcc4bfdc1eea53b9a7b978827873838106cd47cac91731ff0ba90d2a"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/AppIcon--ISAppearanceTintable--1x--3.png",
+      "bytes": 600914,
+      "sha256": "beb586e3758dbc190faf6d187ee395085fe74baa669e7bab8e020c0d20812826"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/AppIcon--UIAppearanceAny--1x--1.png",
+      "bytes": 1197568,
+      "sha256": "92f7ab04ce5fdf9a7babd24190b71527584880c9945d1e3f2c2367ef6dbe289a"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/AppIcon--UIAppearanceDark--1x--2.png",
+      "bytes": 1118113,
+      "sha256": "64bb11fdad01b08ea9dc22c6a55cf617ce60ebd7994ea66f511593ac0103de9a"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/AppIcon_Assets_rexIconBackdrop--UIAppearanceAny--1x--1.png",
+      "bytes": 345001,
+      "sha256": "6697e873f7a975e09845e460435beea35942ca7e32617750273fcb662a75a678"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/AppIcon_Assets_rexIconBadge--UIAppearanceAny--1x--1.png",
+      "bytes": 1065877,
+      "sha256": "7c0d57626a5a036434d90d5584247f202f46e1a0fdee51de37e88e01dedde104"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/AppIcon_Assets_rexIconMark--UIAppearanceAny--1x--1.png",
+      "bytes": 22832,
+      "sha256": "0444a5dd1d4d337f5437a2021763d8f6477494784684b4ad28a756f3342e165b"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/RexHomeSharePackage--UIAppearanceAny--3x--1.png",
+      "bytes": 134188,
+      "sha256": "69230d3828b7ce927838b1ce41e3fb5a9f11770f0028a8ec115c2d9217b9f607"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/RexLaunchLogo--UIAppearanceAny--1x--1.png",
+      "bytes": 5063,
+      "sha256": "12609c503de3fb10b0e0a94b3175dea8935600eaa88209c38e14dd4ca07bd5a1"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/RexLaunchLogo--UIAppearanceAny--2x--2.png",
+      "bytes": 7075,
+      "sha256": "5a625bf17a485187f5a07efdfd6a1962b1744c56752599e519ced98c894b2cc8"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/RexSettingsAboutSprite--UIAppearanceAny--1x--1.png",
+      "bytes": 1017432,
+      "sha256": "2e8b0da78c6b268f7aa5b34ef5a007182767d2128b9f5762f6e2c2bfeb215a2c"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/RexSettingsOrderSprite--UIAppearanceAny--1x--1.png",
+      "bytes": 8709,
+      "sha256": "99d2443ab82479416cbfb95b7475bc73513c6451f8ed48a5e8734ab95a4cbb1f"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/libraryFileDocument--UIAppearanceAny--3x--1.png",
+      "bytes": 5892,
+      "sha256": "cec96ef905ab98e705e180388ba87b493a8611d1ef631472112664a6a7a0d335"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/libraryFileImage--UIAppearanceAny--3x--1.png",
+      "bytes": 8091,
+      "sha256": "98f3185fa90ad1279fa7a6b4b28dad03ddd3af6a1a6625938b03d5438bddaef5"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/libraryFileVideo--UIAppearanceAny--3x--1.png",
+      "bytes": 7850,
+      "sha256": "128bb410b789158ec6ceca6585a70f720ba45a0f60e8b6ecbc349e71571b34e5"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/libraryFolder--UIAppearanceAny--3x--1.png",
+      "bytes": 63953,
+      "sha256": "93946e6ecf435b6d222532e2049fb7a148106ab01287a797c2bd3a4f3a53193e"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/traktMark--UIAppearanceAny--1x--1.png",
+      "bytes": 1820,
+      "sha256": "f628d7ae0f027742527e8d8cc5bcd497454367d342dc6d2607b011942538fe20"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/Rex/traktMark--UIAppearanceAny--2x--2.png",
+      "bytes": 3544,
+      "sha256": "f946178885324397b062387234da031a60867dc88c8df5f89f65b6e3ada96b23"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/certified--UIAppearanceAny--2x--1.png",
+      "bytes": 3901,
+      "sha256": "3fef7c8802d638874945c64541f595192f5b6a1ef1471c09864ccd202f475f1b"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/douban--UIAppearanceAny--3x--1.png",
+      "bytes": 875,
+      "sha256": "590685be6948bd2eb36c879843aeb68346f47a47cb8f7bd579b32efc4a41931c"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/fresh--UIAppearanceAny--2x--1.png",
+      "bytes": 1450,
+      "sha256": "00c31d05510c80a5ffb53c730b44bca54d0405fcfb4e66c7e98a20503f55e7c6"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/imdb--UIAppearanceAny--2x--1.png",
+      "bytes": 1191,
+      "sha256": "4d63426845ae8b169a2b24b60d7b3a53dd03d691706440a2748a55093412e94e"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/popcornEmptry--UIAppearanceAny--2x--1.png",
+      "bytes": 1982,
+      "sha256": "70c484f970bae73ca8c8dc4f97fd4aa87d1913d9deee3a06b0fb783a7dd86fa1"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/rating.tmdb--UIAppearanceAny--2x--1.png",
+      "bytes": 3691,
+      "sha256": "490eeb1a82b9e2d2e6562a8920a4096ffffb598c4525ba36ccf63bc35aeba829"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/rotten--UIAppearanceAny--2x--1.png",
+      "bytes": 1786,
+      "sha256": "5793f3ac049f99dca021f016043cae8ad5594017849f3e3ecd9d472d65a3762a"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/spilled--UIAppearanceAny--2x--1.png",
+      "bytes": 2013,
+      "sha256": "c96fa2a90b241521a7ed8343c6dc690af0de4ce087b152e23b0d25a9b7153aa1"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/tmdb--UIAppearanceAny--2x--1.png",
+      "bytes": 65140,
+      "sha256": "31a886ba39a31c0bc497798aa953a0ef4089db51ea8f98cb3deb17cc000ce93c"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/tomatoEmpty--UIAppearanceAny--2x--1.png",
+      "bytes": 1422,
+      "sha256": "f5f130f962ed464f487e61e976d15876257f41f2898c0e03aa28cb1ae50170c0"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/trakt--UIAppearanceAny--2x--1.png",
+      "bytes": 3780,
+      "sha256": "d9d498ece5ccda47ff3756f6e41e7d4a32bd7fec786c223a4c25b93309f260a3"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/upright--UIAppearanceAny--2x--1.png",
+      "bytes": 2203,
+      "sha256": "18f0ec1db59b0a18f1e5f77c94d537a973f7b320d0cfbe066d5076ccb7527d09"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/verified--UIAppearanceAny--2x--1.png",
+      "bytes": 3510,
+      "sha256": "d05954c3fd2e67ecb417635f5f281c770db181b79c49bf9b3c399de3a91c7489"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchList--UIAppearanceAny--1x--1.png",
+      "bytes": 719698,
+      "sha256": "a1887e9ceee471bcd5929588772673bf16ebebfb8a438c97c2abc141df6de172"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistPrinterOutletShadow--UIAppearanceAny--1x--1.png",
+      "bytes": 6575,
+      "sha256": "b8db3da54ffdfe1919853669cb34d4f9f4d9b6d7ac4d037667b3aee359df0d6a"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistPrinterOutletSurface--UIAppearanceAny--1x--1.png",
+      "bytes": 4246,
+      "sha256": "97c354a16485b517fb9065811a5997d76e8d2d807aa01c86a46d7f43fb471a16"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistTicketBackground--UIAppearanceAny--1x--1.png",
+      "bytes": 49179,
+      "sha256": "723fd7ebcb07eae6b522602a488bebb052825310ef77d9f8ba0439b21283f3ea"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistTicketBackground--UIAppearanceAny--2x--2.png",
+      "bytes": 177888,
+      "sha256": "69ba360d6a102cda8886ce94b176b497f505e6cecebbad2c13e8a6b877f4a9a7"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistTicketBarcode--UIAppearanceAny--1x--1.png",
+      "bytes": 3821,
+      "sha256": "33ccb58808667525d37726bf71495b195e2059d577ca9756736045ed37510e17"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistTicketBarcode--UIAppearanceAny--2x--2.png",
+      "bytes": 4067,
+      "sha256": "7bda0240537fce9a9b83d55d8dff8c15daa853d2e8a2fa667c5d0472e4942c28"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-1--UIAppearanceAny--1x--1.png",
+      "bytes": 71230,
+      "sha256": "ea6bf78a47f4c976cd3ba2a51071f1480fe0ada2f1bf143826a9f1fc585034e2"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-10--UIAppearanceAny--1x--1.png",
+      "bytes": 80133,
+      "sha256": "3c31b0712f23af44ed3f03193cb8a8b8c69bc34df0d2cece542cc13e28dbb21e"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-11--UIAppearanceAny--1x--1.png",
+      "bytes": 67818,
+      "sha256": "974c491a213bcb62ac56fdaa18234be19a4f2be2cd9ee236a6c36fd25ec7bff8"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-12--UIAppearanceAny--1x--1.png",
+      "bytes": 75926,
+      "sha256": "91f7e4ac972b5a6f798c29b3dee3b3d46c10fe4fafe1061c8022f107da4fdc59"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-13--UIAppearanceAny--1x--1.png",
+      "bytes": 74661,
+      "sha256": "c1c65c8ec1b0f72e9aee3cbee1aefa151f654c9355c4808364484cade8975ac7"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-14--UIAppearanceAny--1x--1.png",
+      "bytes": 82430,
+      "sha256": "e95460e4b8498d724b41ea04644b28bbee9fbfdf8bec73d67b2bb3caeca9823a"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-15--UIAppearanceAny--1x--1.png",
+      "bytes": 74665,
+      "sha256": "098866af823609b713b86fa619f4c81a61ce80e657f696a411bd94730bd0d107"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-16--UIAppearanceAny--1x--1.png",
+      "bytes": 81060,
+      "sha256": "f46d2fbf26d9cb658bfb935cd65b7dd74991176c431ffc60d643737ea7745305"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-17--UIAppearanceAny--1x--1.png",
+      "bytes": 74651,
+      "sha256": "a377acbf416352254e2b0dd05c9857253aca4c1fc1ec1cf1bf5ee587fe5dd33c"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-18--UIAppearanceAny--1x--1.png",
+      "bytes": 80732,
+      "sha256": "4558afa0ce6e05f090fe5de7d71da04bcf0005de75570e288d07c3f7ff1dfe94"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-19--UIAppearanceAny--1x--1.png",
+      "bytes": 67176,
+      "sha256": "aae4aea57c46f67d75f9cdf287202f61adafcc30226e8f02db59f74a62ab0f1d"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-2--UIAppearanceAny--1x--1.png",
+      "bytes": 77617,
+      "sha256": "ed7d3961e2fdd7892cea59ad1c397661f8e7c1c40f85aacb1590b9cc69e86143"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-20--UIAppearanceAny--1x--1.png",
+      "bytes": 63627,
+      "sha256": "9bc311cea85f3acee2ff5c54b0bb41f705f79d666b1361f9de19ed68ba2f8dbc"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-21--UIAppearanceAny--1x--1.png",
+      "bytes": 74213,
+      "sha256": "f248422180ac353f3edff1bc01ad9134e127d3cb2fbf558f5fa9a432e506f407"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-22--UIAppearanceAny--1x--1.png",
+      "bytes": 89112,
+      "sha256": "5a97e885e8c5897a015ac0e4c4ebe2e31075519738eceb1a5871dc2f4a8f67c0"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-23--UIAppearanceAny--1x--1.png",
+      "bytes": 77537,
+      "sha256": "575f4ad2e772166e4827f145a025f42c54208af1f6ecf88509d04faedb7ed459"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-24--UIAppearanceAny--1x--1.png",
+      "bytes": 75694,
+      "sha256": "3b5f31569286e507834192517a3c4f2544e6345d563c8cbbae8b43fff789f4fd"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-3--UIAppearanceAny--1x--1.png",
+      "bytes": 77520,
+      "sha256": "f87fe5171861738407d6c61095c00fce835312248e60d74b1d9b02e52e245f84"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-4--UIAppearanceAny--1x--1.png",
+      "bytes": 77267,
+      "sha256": "b647c1120338e6a5273d67abb8ce12238b2673f20d5e0d1ad06bf02b649dd0dd"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-5--UIAppearanceAny--1x--1.png",
+      "bytes": 80729,
+      "sha256": "20dace81e0c1c6ee472dcdf6780ebfb6160e0990b00f07a0aca0b63cbf6e0456"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-6--UIAppearanceAny--1x--1.png",
+      "bytes": 69732,
+      "sha256": "72aa34752dd5207397fec30b4ab3776accc20397d3128fd48446ad52ec948a36"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-7--UIAppearanceAny--1x--1.png",
+      "bytes": 80098,
+      "sha256": "196e824410bfac39f751fa7d36b4acd0bb3177a96aee90e0c3a761c45b84504b"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-8--UIAppearanceAny--1x--1.png",
+      "bytes": 75606,
+      "sha256": "a48031236150a6618ee2e8bcf7d9b519e0ea8a9e2eb841b111292291520f40b8"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-9--UIAppearanceAny--1x--1.png",
+      "bytes": 75226,
+      "sha256": "e3a59a7c3fa192988f70b6bf62bcce59e4eda20a76396add413d305ff75dd9ea"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/rexNotificationIcon--UIAppearanceAny--1x--1.png",
+      "bytes": 76585,
+      "sha256": "549d69517aa6a50605d76a2577f7247dbd75bd479c29c043807af83ce000e3b1"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/rexNotificationIcon--UIAppearanceDark--1x--2.png",
+      "bytes": 39627,
+      "sha256": "7a9d80d86dc9f5704836ee7bf9be7f985706cf2f9182c7497e0cb9b8a8047299"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/rexOrbitAppEmby--UIAppearanceAny--1x--1.png",
+      "bytes": 13461,
+      "sha256": "d11db505d551e2e1dca5e211cb8b85af1c3098280ea213b9b60fc67ffb2322c6"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/rexOrbitAppFolder--UIAppearanceAny--1x--1.png",
+      "bytes": 45030,
+      "sha256": "71fa978d003e0f312365e0c7aabdfaf0a7e65b95d70f48c8f15a3b81a8afefac"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/rexOrbitAppJellyfin--UIAppearanceAny--1x--1.png",
+      "bytes": 30628,
+      "sha256": "0e1591685ba8dda47284f38b9ba49ebc89bc31d00abc435325e286b5ece4dcee"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexHome_RexHome/rexOrbitAppPlex--UIAppearanceAny--1x--1.png",
+      "bytes": 22832,
+      "sha256": "c574641ed320b7e0cf85640da37c3e3361719b5298caa8c42423ed8b6ef9dcc4"
+    },
+    {
+      "path": "rex-icons/1.0.0/catalog/RexPlayer_RexPlayerUIKit/danmu--UIAppearanceAny--2x--1.png",
+      "bytes": 4510,
+      "sha256": "e00c4f2aa1995f15adcb6d28c7146f1d59524c07afc72d1eea0b36a4596f1d99"
+    },
+    {
+      "path": "rex-icons/1.0.0/decorations/dayUnderline.png",
+      "bytes": 17729,
+      "sha256": "7fe39e57a6ef09f4a32c4ed12f440c0dd7f831e4836ffaf9d318fdff8ea655b8"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/png/apple-tv.png",
+      "bytes": 7101,
+      "sha256": "bf77c29b7f9668161cbd9063c6a6fddf1399835792d046079d7fc04f5d4d7fbc"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/png/crave.png",
+      "bytes": 18690,
+      "sha256": "c7df371f61e6fa48a9301e8e401a94caee47295b5a615a71f695a9be8694fb2b"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/png/crunchyroll.png",
+      "bytes": 15025,
+      "sha256": "0fabbb548d237eb385cc23ff42f6daae0196c8d89f4c6d853b6cdcee6c630fcd"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/png/disney.png",
+      "bytes": 12052,
+      "sha256": "5e00fe19f356ea5dcd1a4b3273e251aaed623a64ad91e4e93f082777c045e243"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/png/hbo-max.png",
+      "bytes": 13405,
+      "sha256": "4552fe120885b87a0ab92cfe5b6cb029f31726a15987a38e787e7328fe5977d2"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/png/hulu.png",
+      "bytes": 3002,
+      "sha256": "2affed9bfb6475fdf187295c547b33b1be3238961fed1a956c6bb9e3efb2c945"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/png/netflix.png",
+      "bytes": 5746,
+      "sha256": "85920b7927024883c674dab52c2dec3582fc6ac04c1a7a86fc8715f6cab2ab01"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/png/paramount-plus.png",
+      "bytes": 9312,
+      "sha256": "611e42385ab0f3a3ac0ee91c66cd782bb7f4c9593fe2e0a332bf1fc7c2097bf8"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/png/peacock.png",
+      "bytes": 10244,
+      "sha256": "76639e12d4ffe27fd5ac3777e836eb2c3baef6dcaddd0c6ea270ff6ea9070990"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/png/prime-video.png",
+      "bytes": 11093,
+      "sha256": "d4bc0cfb0371dacf7917b4f4942ac19b6465617378727fcf576a5b2d3d99f26d"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/webp/apple-tv.webp",
+      "bytes": 3924,
+      "sha256": "a0e04e3dca0c3297fbd7c89923293fde8efbaa3543bb0a6d394ff6a5eae1e7a7"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/webp/crave.webp",
+      "bytes": 11234,
+      "sha256": "f14e8785ef2d84461d90f685856f6af1fe45655d6a66eabd7110f55daf3f22d6"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/webp/crunchyroll.webp",
+      "bytes": 8374,
+      "sha256": "5d2f92cb1373077aa15e4400a8f374c57e65adc88923e175dc493790dd1534a8"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/webp/disney.webp",
+      "bytes": 6788,
+      "sha256": "7cfca720253b2b9f37f69b6b2003647a8e1211497b2099e4fffdaf83201b39dd"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/webp/hbo-max.webp",
+      "bytes": 7114,
+      "sha256": "d315124fd04c3254bedea156f27cdd28c49a67dc40421c0bffa880ef1f873b5b"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/webp/hulu.webp",
+      "bytes": 1504,
+      "sha256": "23b8d105b0aa83631e54939a234b0c1b9cd42d93869caffe7a85b768946e722f"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/webp/netflix.webp",
+      "bytes": 3152,
+      "sha256": "ecadf96418c70f09c9e5b75f63f337248331edf13177cb52484719d955a61ebd"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/webp/paramount-plus.webp",
+      "bytes": 5420,
+      "sha256": "39e964420f231b8e31c52cc1de5098b8ca7ac5ee042adaf158d487cbfc6ce871"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/webp/peacock.webp",
+      "bytes": 5544,
+      "sha256": "3d02796882da69f44313abb1bd523c75f5d5cc8925c2e591b988858795278beb"
+    },
+    {
+      "path": "rex-icons/1.0.0/platforms/webp/prime-video.webp",
+      "bytes": 5948,
+      "sha256": "fb96604b32334384c344520a30057af4d674bbd6a80df9e139b36e6fa8629c4d"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/netflix.png",
+      "bytes": 12940,
+      "sha256": "ad7491ba0955fa12890301de526d849fd91a38228874c352999733d7e7622715"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/disney-plus.png",
+      "bytes": 53559,
+      "sha256": "67669c30bd0111c60d56849c222481fe28eed5f7af173219f1d7309373032200"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/apple-tv-plus.png",
+      "bytes": 10302,
+      "sha256": "f4f43f94db18f9b4e6ec33c31762097a89df3a3384769eec7d111e3747e0ab0f"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/hbo-max.png",
+      "bytes": 28118,
+      "sha256": "a26663e890edf775905f4997d902eceed20741e52093d01a8b97043c89e4aed0"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/hulu.png",
+      "bytes": 8488,
+      "sha256": "c41e9cbdf23ec51e1e665d9d99dd1d1f349e786f2b74226a294eb6c207a1914c"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/walt-disney-pictures.png",
+      "bytes": 25374,
+      "sha256": "69451e6d398ed2dc798815d63cba486a5bb5c63fc87afa1dcd0aa627ff2085df"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/warner-bros.png",
+      "bytes": 35022,
+      "sha256": "a6742f3f1fd1f9691829407079d1f469eb0189e28eabadc67d1276d70d5f8df3"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/sony-pictures.png",
+      "bytes": 52712,
+      "sha256": "af6f79d6a3399bbaf56e99928f990f05e551bd4f62e193e3153c3513c375a0db"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/universal-pictures.png",
+      "bytes": 21876,
+      "sha256": "6a5ab4712e4d4e4c4a4761795362be98c2ae014640c8a254fc524d7d23e93a01"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/paramount-pictures.png",
+      "bytes": 41753,
+      "sha256": "d46550a57c2ee19eb833ab714e9519266e91845f90c6f2790daf9266b1a897b1"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/paramount-plus.png",
+      "bytes": 20063,
+      "sha256": "d5124b52f2cc60042b8083c37fc33dd82dcf06edaf6ca73efb6f981b68f63f8c"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/20th-century-fox.png",
+      "bytes": 37008,
+      "sha256": "e7c7fdca7e519f77e297a461476eee351e77f1abad60019a65cf15c1515ee0eb"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/marvel-studios.png",
+      "bytes": 19580,
+      "sha256": "2a92915cdeee3cf33c9f211ae588d70effa5e0a29e7b1dcdbf6b84bd99731855"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/columbia-pictures.png",
+      "bytes": 16370,
+      "sha256": "9055570c27a5e59ad9faae1bbde4ae2ccf337e3f4072421907e21ad75f34640e"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/hbo.png",
+      "bytes": 13310,
+      "sha256": "5eba9e5658da0840c4554e7a630c828c57e75ded0104b322f81efd76d851d937"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/prime-video.png",
+      "bytes": 26305,
+      "sha256": "b289623a7b2b17b9c3a53b3df2fd73b07aab3e81622be38dc506707ea2e7db67"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/toho.png",
+      "bytes": 28388,
+      "sha256": "e6a135b6bebf829ab48338bd9177c006b0b97a869b8cc096c10966fe281f10f6"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/tv-tokyo.png",
+      "bytes": 10472,
+      "sha256": "45728a6b5c8ce6e2e4e7e45016c1db6c550fb13b79b69637cf56a369942d93d4"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/bbc.png",
+      "bytes": 7426,
+      "sha256": "1648d7f9c0b3474ef2dee08d3e3d95814084073e494154a6d70bf0bf54c95e87"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/nbc.png",
+      "bytes": 18070,
+      "sha256": "3e6f1fee3ca27f80bf631ab5683a983a329627927a86b1e1aec0f4f36822b07b"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/amc.png",
+      "bytes": 12973,
+      "sha256": "7a36c8ec004c52a17d7682e25a980865e162971a0f0fc61eb26e1dae8435b0b5"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/youku.png",
+      "bytes": 18808,
+      "sha256": "d38a78e0a968d1f0e6f6d74c0a35f6c7d9845c358f7d8ca3a2bf86f0944ffe1a"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/mango-tv.png",
+      "bytes": 18789,
+      "sha256": "db24061ebe7ec45bccd24b86bef9de8cde95af720d8c98d71c1bafa823bd12b3"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/iqiyi.png",
+      "bytes": 15374,
+      "sha256": "792c60e22cd5fa27d4c600be32cea08b2286ed8a3281cd19f339ca62c2e6d11c"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/tencent-video.png",
+      "bytes": 52514,
+      "sha256": "7145afdc6bad7961d5d905da8d078cb1be8f800145c5c333fad49edd97fb176e"
+    },
+    {
+      "path": "rex-icons/1.0.0/runtime-logos/bilibili.png",
+      "bytes": 52428,
+      "sha256": "dae28dc859300f8775251280601bbaf9f67e21a1443d923ff8826648b44c9a98"
+    }
+  ]
+}

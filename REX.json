@@ -1,0 +1,558 @@
+{
+  "name": "REX 图标集",
+  "description": "REX 1.0.0 build 10：应用内资源与运行时平台 Logo，保留尺寸及外观变体。",
+  "icons": [
+    {
+      "name": "resolution-4k",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/4k.png"
+    },
+    {
+      "name": "resolution-1080p",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/1080p.png"
+    },
+    {
+      "name": "resolution-720p",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/720p.png"
+    },
+    {
+      "name": "quality-remux",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/remux.png"
+    },
+    {
+      "name": "quality-bluray",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/bluray.png"
+    },
+    {
+      "name": "quality-web-dl",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/web-dl.png"
+    },
+    {
+      "name": "quality-webrip",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/webrip.png"
+    },
+    {
+      "name": "quality-seadex",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/seadex.png"
+    },
+    {
+      "name": "visual-dolby-vision",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dolby-vision.png"
+    },
+    {
+      "name": "visual-hdr10-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/hdr10plus.png"
+    },
+    {
+      "name": "visual-hdr10",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/hdr10.png"
+    },
+    {
+      "name": "visual-hdr",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/hdr.png"
+    },
+    {
+      "name": "visual-imax-enhanced",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/imax-enhanced.png"
+    },
+    {
+      "name": "visual-imax",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/imax.png"
+    },
+    {
+      "name": "visual-sdr",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/sdr.png"
+    },
+    {
+      "name": "audio-atmos-plus-vision",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dolby-atmos-vision.png"
+    },
+    {
+      "name": "audio-atmos",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dolby-atmos.png"
+    },
+    {
+      "name": "audio-truehd-plus-vision",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dolby-truehd-vision.png"
+    },
+    {
+      "name": "audio-truehd",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dolby-truehd.png"
+    },
+    {
+      "name": "audio-dts-x",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dts-x.png"
+    },
+    {
+      "name": "audio-dts-hd-ma",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dts-hd-ma.png"
+    },
+    {
+      "name": "audio-dts-hd",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dts-hd.png"
+    },
+    {
+      "name": "audio-dts",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dts.png"
+    },
+    {
+      "name": "audio-digital-plus-vision",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dolby-digital-vision.png"
+    },
+    {
+      "name": "audio-dd-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dolby-digital-plus.png"
+    },
+    {
+      "name": "audio-dd",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/dolby-digital.png"
+    },
+    {
+      "name": "channels-7-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/7-1.png"
+    },
+    {
+      "name": "channels-5-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/5-1.png"
+    },
+    {
+      "name": "codec-x265",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/hevc.png"
+    },
+    {
+      "name": "codec-x264",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/avc.png"
+    },
+    {
+      "name": "codec-av1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/badges/png/av1.png"
+    },
+    {
+      "name": "provider-netflix",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/netflix.png"
+    },
+    {
+      "name": "provider-prime-video",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/prime-video.png"
+    },
+    {
+      "name": "provider-apple-tv-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/apple-tv.png"
+    },
+    {
+      "name": "provider-disney-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/disney.png"
+    },
+    {
+      "name": "provider-hbo-max",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/hbo-max.png"
+    },
+    {
+      "name": "provider-hulu",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/hulu.png"
+    },
+    {
+      "name": "provider-peacock",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/peacock.png"
+    },
+    {
+      "name": "provider-paramount-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/paramount-plus.png"
+    },
+    {
+      "name": "provider-crave",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/crave.png"
+    },
+    {
+      "name": "provider-crunchyroll",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/crunchyroll.png"
+    },
+    {
+      "name": "catalog-rex-appicon",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/AppIcon--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rex-appicon-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/AppIcon--UIAppearanceDark--1x--2.png"
+    },
+    {
+      "name": "catalog-rex-appicon-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/AppIcon--ISAppearanceTintable--1x--3.png"
+    },
+    {
+      "name": "catalog-rex-appicon-assets-rexiconbackdrop",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/AppIcon_Assets_rexIconBackdrop--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rex-appicon-assets-rexiconbadge",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/AppIcon_Assets_rexIconBadge--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rex-appicon-assets-rexiconmark",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/AppIcon_Assets_rexIconMark--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rex-rexhomesharepackage",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/RexHomeSharePackage--UIAppearanceAny--3x--1.png"
+    },
+    {
+      "name": "catalog-rex-rexlaunchlogo",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/RexLaunchLogo--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rex-rexlaunchlogo-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/RexLaunchLogo--UIAppearanceAny--2x--2.png"
+    },
+    {
+      "name": "catalog-rex-rexsettingsaboutsprite",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/RexSettingsAboutSprite--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rex-rexsettingsordersprite",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/RexSettingsOrderSprite--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rex-libraryfiledocument",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/libraryFileDocument--UIAppearanceAny--3x--1.png"
+    },
+    {
+      "name": "catalog-rex-libraryfileimage",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/libraryFileImage--UIAppearanceAny--3x--1.png"
+    },
+    {
+      "name": "catalog-rex-libraryfilevideo",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/libraryFileVideo--UIAppearanceAny--3x--1.png"
+    },
+    {
+      "name": "catalog-rex-libraryfolder",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/libraryFolder--UIAppearanceAny--3x--1.png"
+    },
+    {
+      "name": "catalog-rex-traktmark",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/traktMark--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rex-traktmark-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/Rex/traktMark--UIAppearanceAny--2x--2.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-certified",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/certified--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-douban",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/douban--UIAppearanceAny--3x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-fresh",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/fresh--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-imdb",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/imdb--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-popcornemptry",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/popcornEmptry--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-rating-tmdb",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/rating.tmdb--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-rotten",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/rotten--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-spilled",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/spilled--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-tmdb",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/tmdb--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-tomatoempty",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/tomatoEmpty--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-trakt",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/trakt--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-upright",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/upright--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-verified",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/verified--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-watchlist",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchList--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-watchlistprinteroutletshadow",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistPrinterOutletShadow--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-watchlistprinteroutletsurface",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistPrinterOutletSurface--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-watchlistticketbackground",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistTicketBackground--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-watchlistticketbackground-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistTicketBackground--UIAppearanceAny--2x--2.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-watchlistticketbarcode",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistTicketBarcode--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexdesign-rexdesign-watchlistticketbarcode-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexDesign_RexDesign/watchlistTicketBarcode--UIAppearanceAny--2x--2.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-1",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-1--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-10",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-10--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-11",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-11--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-12",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-12--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-13",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-13--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-14",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-14--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-15",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-15--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-16",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-16--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-17",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-17--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-18",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-18--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-19",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-19--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-2--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-20",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-20--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-21",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-21--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-22",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-22--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-23",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-23--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-24",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-24--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-3",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-3--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-4",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-4--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-5",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-5--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-6",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-6--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-7",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-7--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-8",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-8--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-avatar-9",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/avatar-9--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-rexnotificationicon",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/rexNotificationIcon--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-rexnotificationicon-2",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/rexNotificationIcon--UIAppearanceDark--1x--2.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-rexorbitappemby",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/rexOrbitAppEmby--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-rexorbitappfolder",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/rexOrbitAppFolder--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-rexorbitappjellyfin",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/rexOrbitAppJellyfin--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexhome-rexhome-rexorbitappplex",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexHome_RexHome/rexOrbitAppPlex--UIAppearanceAny--1x--1.png"
+    },
+    {
+      "name": "catalog-rexplayer-rexplayeruikit-danmu",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/catalog/RexPlayer_RexPlayerUIKit/danmu--UIAppearanceAny--2x--1.png"
+    },
+    {
+      "name": "app-icon-appicon60x60-2x",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/app-icons/png/AppIcon60x60%402x.png"
+    },
+    {
+      "name": "app-icon-appicon76x76-2x-ipad",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/app-icons/png/AppIcon76x76%402x~ipad.png"
+    },
+    {
+      "name": "decoration-dayunderline",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/decorations/dayUnderline.png"
+    },
+    {
+      "name": "runtime-netflix",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/netflix.png"
+    },
+    {
+      "name": "runtime-disney-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/disney-plus.png"
+    },
+    {
+      "name": "runtime-apple-tv-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/apple-tv-plus.png"
+    },
+    {
+      "name": "runtime-hbo-max",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/hbo-max.png"
+    },
+    {
+      "name": "runtime-hulu",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/hulu.png"
+    },
+    {
+      "name": "runtime-walt-disney-pictures",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/walt-disney-pictures.png"
+    },
+    {
+      "name": "runtime-warner-bros",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/warner-bros.png"
+    },
+    {
+      "name": "runtime-sony-pictures",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/sony-pictures.png"
+    },
+    {
+      "name": "runtime-universal-pictures",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/universal-pictures.png"
+    },
+    {
+      "name": "runtime-paramount-pictures",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/paramount-pictures.png"
+    },
+    {
+      "name": "runtime-paramount-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/paramount-plus.png"
+    },
+    {
+      "name": "runtime-20th-century-fox",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/20th-century-fox.png"
+    },
+    {
+      "name": "runtime-marvel-studios",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/marvel-studios.png"
+    },
+    {
+      "name": "runtime-columbia-pictures",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/columbia-pictures.png"
+    },
+    {
+      "name": "runtime-hbo",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/hbo.png"
+    },
+    {
+      "name": "runtime-prime-video",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/prime-video.png"
+    },
+    {
+      "name": "runtime-toho",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/toho.png"
+    },
+    {
+      "name": "runtime-tv-tokyo",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/tv-tokyo.png"
+    },
+    {
+      "name": "runtime-bbc",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/bbc.png"
+    },
+    {
+      "name": "runtime-nbc",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/nbc.png"
+    },
+    {
+      "name": "runtime-amc",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/amc.png"
+    },
+    {
+      "name": "runtime-youku",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/youku.png"
+    },
+    {
+      "name": "runtime-mango-tv",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/mango-tv.png"
+    },
+    {
+      "name": "runtime-iqiyi",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/iqiyi.png"
+    },
+    {
+      "name": "runtime-tencent-video",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/tencent-video.png"
+    },
+    {
+      "name": "runtime-bilibili",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/bilibili.png"
+    }
+  ]
+}

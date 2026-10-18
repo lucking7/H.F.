@@ -1,0 +1,110 @@
+{
+  "name": "REX 运行时平台 Logo",
+  "description": "26 个运行时引用的 TMDB Logo，14 个彩色、12 个黑白，保持原色。",
+  "icons": [
+    {
+      "name": "runtime-netflix",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/netflix.png"
+    },
+    {
+      "name": "runtime-disney-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/disney-plus.png"
+    },
+    {
+      "name": "runtime-apple-tv-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/apple-tv-plus.png"
+    },
+    {
+      "name": "runtime-hbo-max",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/hbo-max.png"
+    },
+    {
+      "name": "runtime-hulu",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/hulu.png"
+    },
+    {
+      "name": "runtime-walt-disney-pictures",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/walt-disney-pictures.png"
+    },
+    {
+      "name": "runtime-warner-bros",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/warner-bros.png"
+    },
+    {
+      "name": "runtime-sony-pictures",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/sony-pictures.png"
+    },
+    {
+      "name": "runtime-universal-pictures",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/universal-pictures.png"
+    },
+    {
+      "name": "runtime-paramount-pictures",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/paramount-pictures.png"
+    },
+    {
+      "name": "runtime-paramount-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/paramount-plus.png"
+    },
+    {
+      "name": "runtime-20th-century-fox",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/20th-century-fox.png"
+    },
+    {
+      "name": "runtime-marvel-studios",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/marvel-studios.png"
+    },
+    {
+      "name": "runtime-columbia-pictures",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/columbia-pictures.png"
+    },
+    {
+      "name": "runtime-hbo",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/hbo.png"
+    },
+    {
+      "name": "runtime-prime-video",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/prime-video.png"
+    },
+    {
+      "name": "runtime-toho",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/toho.png"
+    },
+    {
+      "name": "runtime-tv-tokyo",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/tv-tokyo.png"
+    },
+    {
+      "name": "runtime-bbc",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/bbc.png"
+    },
+    {
+      "name": "runtime-nbc",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/nbc.png"
+    },
+    {
+      "name": "runtime-amc",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/amc.png"
+    },
+    {
+      "name": "runtime-youku",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/youku.png"
+    },
+    {
+      "name": "runtime-mango-tv",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/mango-tv.png"
+    },
+    {
+      "name": "runtime-iqiyi",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/iqiyi.png"
+    },
+    {
+      "name": "runtime-tencent-video",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/tencent-video.png"
+    },
+    {
+      "name": "runtime-bilibili",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/runtime-logos/bilibili.png"
+    }
+  ]
+}

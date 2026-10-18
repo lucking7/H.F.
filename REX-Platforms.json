@@ -1,0 +1,46 @@
+{
+  "name": "REX 白色平台徽标",
+  "description": "10 个原始白色透明平台徽标，PNG 与原始 WebP 均保留。",
+  "icons": [
+    {
+      "name": "provider-netflix",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/netflix.png"
+    },
+    {
+      "name": "provider-prime-video",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/prime-video.png"
+    },
+    {
+      "name": "provider-apple-tv-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/apple-tv.png"
+    },
+    {
+      "name": "provider-disney-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/disney.png"
+    },
+    {
+      "name": "provider-hbo-max",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/hbo-max.png"
+    },
+    {
+      "name": "provider-hulu",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/hulu.png"
+    },
+    {
+      "name": "provider-peacock",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/peacock.png"
+    },
+    {
+      "name": "provider-paramount-plus",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/paramount-plus.png"
+    },
+    {
+      "name": "provider-crave",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/crave.png"
+    },
+    {
+      "name": "provider-crunchyroll",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/rex-icons/1.0.0/platforms/png/crunchyroll.png"
+    }
+  ]
+}

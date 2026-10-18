@@ -11,6 +11,9 @@
 - [Flag style and editable sources](flags/README.md).
 - [App and brand icons](Apps.json): original App and brand icon collection.
 - [App icons (144px)](Apps144px.json).
+- [REX icons](REX.json): 138 indexed entries with original variants preserved in [181 image files](rex-icons/1.0.0/manifest.json). [Sources and details](rex-icons/1.0.0/README.md).
+- [REX white platform badges](REX-Platforms.json): 10 white transparent logos, with PNG and original WebP files.
+- [REX runtime platform logos](REX-Runtime.json): 26 original-color logos, including 14 colored and 12 monochrome.
 - [All UI icons](UI.json): 138 unique images combining the original UI, ink, black line and Relief collections.
 
 Refresh the combined index with `python3 tools/update-ui-index.py`. Individual collection indexes remain available above.
