@@ -3,10 +3,6 @@
   "description": "App and brand icons in full size and 144px.",
   "icons": [
     {
-      "name": "clash00002-144px",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/clash00002.png"
-    },
-    {
       "name": "claude00001-144px",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/claude00001.png"
     },

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 256 256" role="img" aria-labelledby="title description">
 <title id="title">AI</title>
-<desc id="description">A hand-inked neuron gathers signals and passes them along a rising axon on lavender glass.</desc>
+<desc id="description">An ink-brush conversation bubble with a split-quill tail on lavender glass.</desc>
 <defs>
 <path id="pane" d="M76 17H180C201 17 215 22 225 33C235 44 239 58 239 78V178C239 201 234 215 223 225C213 235 198 239 178 239H77C55 239 41 235 30 224C20 213 16 198 16 178V78C16 54 21 40 32 30C43 21 57 17 76 17Z"/>
 <clipPath id="cut"><use xlink:href="#pane" /></clipPath>
@@ -89,33 +89,20 @@
 <path d="M211.00 6.00C219.00 14.00 225.00 20.00 229.00 24.00C231.00 26.00 235.00 31.00 237.00 33.00C239.00 36.00 242.00 39.00 244.00 43.00C247.00 49.00 248.00 54.00 247.00 59.00L260 -4H110Z" fill="#eeebf8"/>
 </g>
 <g id="ink" fill="currentColor">
-  <!-- The three left-hand dendrites carry the brush into the body. -->
-  <path d="M105 114C95 104 86 96 83 83C80 72 83 66 79 57
-           C88 63 89 70 90 80C92 90 102 98 114 104Z"/>
-  <path d="M86 80C79 69 68 70 53 61C65 62 74 65 82 70Z"/>
-  <path d="M86 90C81 85 75 85 70 83C77 82 83 83 88 86Z"/>
-  <path d="M99 133C86 130 78 132 71 127C65 124 61 119 56 115
-           C49 110 42 111 34 112C44 107 52 106 61 111C69 116 74 122 80 122
-           C86 124 92 123 99 121Z"/>
-  <path d="M65 115C60 111 54 108 52 100C51 95 50 91 46 87
-           C54 91 56 96 58 102C61 107 63 108 68 111Z"/>
-  <path d="M78 124C69 124 61 127 54 136C62 132 69 131 77 131Z"/>
-  <path d="M111 145C105 156 100 164 86 170C76 175 72 185 68 203
-           C65 192 67 178 75 170C83 163 94 161 98 146Z"/>
-  <path d="M86 168C73 176 61 174 47 168C56 168 68 170 76 166Z"/>
-  <path d="M76 180C76 187 81 192 85 197C78 195 73 190 73 185Z"/>
-  <!-- The tapered axon turns upwards into a small directional tip. -->
-  <path d="M136 121C150 119 161 124 175 119C188 115 199 103 207 90
-           C202 94 196 95 188 94C197 93 206 85 216 75
-           C214 88 216 95 219 103C214 101 211 97 211 94
-           C204 109 192 121 177 127C166 132 151 130 141 135Z"/>
-  <!-- The body, with a pale aperture for its nucleus. -->
+  <!-- The counterforms keep the face and split-quill tail open at small sizes. -->
   <path fill-rule="evenodd"
-        d="M107 95C114 97 119 99 128 100C139 101 144 108 148 116
-           C153 127 147 141 138 149C128 157 118 154 107 151
-           C95 147 89 137 91 126C92 115 98 111 98 102C99 97 102 94 107 95Z
-           M117 113C111 114 107 120 108 126C108 132 113 136 120 136
-           C127 135 132 132 132 126C132 118 126 113 117 113Z"/>
+        d="M52 117C50 94 68 73 100 65C140 54 184 63 199 87
+           C211 106 205 127 189 141C176 152 184 174 215 191
+           C190 191 170 183 154 166C144 155 136 157 122 159
+           C89 162 63 148 55 132C53 128 52 122 52 117Z
+           M90 111C90 105 95 101 101 101C108 101 112 105 112 111
+           C112 117 107 121 101 121C95 121 90 117 90 111Z
+           M139 109C139 103 144 99 150 99C157 99 161 103 161 109
+           C161 115 156 119 150 119C144 119 139 115 139 109Z
+           M169 150C169 159 175 169 187 176C179 167 175 157 177 146
+           C174 148 172 149 169 150Z"/>
+  <path opacity=".7"
+        d="M51 126C59 141 69 148 84 154C69 152 54 146 49 133C48 130 48 126 48 124Z"/>
 </g>
 </defs>
 <g id="contact-shadow" transform="translate(0 2.5)" filter="url(#shadow)" opacity=".27"><use xlink:href="#pane" fill="#263544"/></g>

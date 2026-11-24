@@ -12,4 +12,4 @@ Five network groups drawn in tapered ink on pale glass. Opposite corners carry t
 | Star | One hollow four-point star with a filled satellite | [1024px](1024/star.png) · [144px](144/star.png) | [SVG](source/star.svg) |
 | Smart | A brushstroke forking into an open terminal and a heavier arrow | [1024px](1024/smart.png) · [144px](144/smart.png) | [SVG](source/smart.svg) |
 | Ponte | A stone arch with sparse railings and two strokes of water | [1024px](1024/ponte.png) · [144px](144/ponte.png) | [SVG](source/ponte.svg) |
-| AI | An ink-drawn neuron gathering signals into a single rising axon on lavender glass | [1024px](1024/ai.png) · [144px](144/ai.png) | [SVG](source/ai.svg) |
+| AI | An ink-brush conversation bubble with two open eyes and a tapered quill tail on lavender glass | [1024px](1024/ai.png) · [144px](144/ai.png) | [SVG](source/ai.svg) |
