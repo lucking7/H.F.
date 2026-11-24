@@ -2,7 +2,7 @@
 
 ## Collections
 
-The JSON files at the repository root are the public icon indexes. Each entry pairs an icon name with its image URL.
+Use the [combined subscription](https://raw.githubusercontent.com/lucking7/H.F./main/All.json) to import the full library. [All.json](All.json) lists each image path once and keeps different sizes and styles. To subscribe to a single collection, use one of the indexes below.
 
 | Collection | Indexes | Artwork and sources |
 | --- | --- | --- |
@@ -16,11 +16,15 @@ The JSON files at the repository root are the public icon indexes. Each entry pa
 
 Run `python3 -m http.server 8741 --bind 127.0.0.1` from the repository root and open [the local review page](http://127.0.0.1:8741/review/). It opens on the AI glass icons. Use the collection menu to browse the full library or open the [network policy group gallery](http://127.0.0.1:8741/review/?collection=Routing-Policy.json) directly. Review marks are saved in the current browser and can be exported as JSON.
 
+The [full-library view](http://127.0.0.1:8741/review/?collection=all) shows the names in `All.json`. Search also accepts names from the individual indexes.
+
 Four legacy files have a `.png` extension and contain Photoshop documents. The review page displays their merged images from `review/previews/` and offers the original PSDs for download.
 
 ## Rebuilding collections
 
 Follow the [ink collection guide](signal/ink/README.md) to render its images and update its index. Then run `python3 tools/update-ui-index.py` from the repository root to add new ink images to the combined UI index.
+
+After changing a collection index, run `python3 tools/update-all-index.py` to refresh `All.json`. The generator checks that every URL resolves to an image file in the working tree before replacing the combined index.
 
 ---
 

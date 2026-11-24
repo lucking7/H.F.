@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 256 256" role="img" aria-labelledby="title description">
 <title id="title">AI</title>
-<desc id="description">An ink-brush conversation bubble with a split-quill tail on lavender glass.</desc>
+<desc id="description">A feed-forward neural network with two inputs, three hidden units and one output, drawn in ink on lavender glass.</desc>
 <defs>
 <path id="pane" d="M76 17H180C201 17 215 22 225 33C235 44 239 58 239 78V178C239 201 234 215 223 225C213 235 198 239 178 239H77C55 239 41 235 30 224C20 213 16 198 16 178V78C16 54 21 40 32 30C43 21 57 17 76 17Z"/>
 <clipPath id="cut"><use xlink:href="#pane" /></clipPath>
@@ -88,21 +88,41 @@
 <path d="M210.17 6.03C218.30 14.01 224.76 19.98 228.60 24.08C230.71 26.08 234.55 31.10 236.55 33.13C238.55 36.20 241.59 38.99 243.66 42.96C246.81 48.92 247.86 54.05 246.97 59.27L260 -4H110Z" fill="#e5e1f3"/>
 <path d="M211.00 6.00C219.00 14.00 225.00 20.00 229.00 24.00C231.00 26.00 235.00 31.00 237.00 33.00C239.00 36.00 242.00 39.00 244.00 43.00C247.00 49.00 248.00 54.00 247.00 59.00L260 -4H110Z" fill="#eeebf8"/>
 </g>
+<g id="input-node">
+    <path d="M-1-12C6-13 12-8 13-2C15 6 9 12 2 13C-5 14-12 10-13 3C-15-4-10-11-1-12Z"/>
+    <path fill="#faf7f5" d="M0-5C3-6 6-3 6 0C6 4 3 6 0 6C-4 6-6 4-6 0C-6-3-4-5 0-5Z"/>
+  </g>
+<g id="hidden-node">
+    <path d="M-1-15C8-16 15-9 15-1C16 7 10 14 2 15C-7 16-14 10-15 2C-16-6-10-14-1-15Z"/>
+  </g>
+<g id="output-node">
+    <path d="M-1-19C10-20 18-12 19-2C21 9 12 18 2 19C-8 21-18 14-20 3C-21-8-14-18-1-19Z"/>
+    <path fill="#faf7f5" d="M0-8C5-8 8-5 8-1C9 4 6 8 1 8C-4 9-8 6-8 1C-9-4-5-8 0-8Z"/>
+  </g>
 <g id="ink" fill="currentColor">
-  <!-- The counterforms keep the face and split-quill tail open at small sizes. -->
-  <path fill-rule="evenodd"
-        d="M52 117C50 94 68 73 100 65C140 54 184 63 199 87
-           C211 106 205 127 189 141C176 152 184 174 215 191
-           C190 191 170 183 154 166C144 155 136 157 122 159
-           C89 162 63 148 55 132C53 128 52 122 52 117Z
-           M90 111C90 105 95 101 101 101C108 101 112 105 112 111
-           C112 117 107 121 101 121C95 121 90 117 90 111Z
-           M139 109C139 103 144 99 150 99C157 99 161 103 161 109
-           C161 115 156 119 150 119C144 119 139 115 139 109Z
-           M169 150C169 159 175 169 187 176C179 167 175 157 177 146
-           C174 148 172 149 169 150Z"/>
-  <path opacity=".7"
-        d="M51 126C59 141 69 148 84 154C69 152 54 146 49 133C48 130 48 126 48 124Z"/>
+  <g id="connections">
+    <path id="input-1-hidden-1" d="M61 94 Q92 76 128 61 Q97 82 61 99 Z"/>
+    <path id="input-1-hidden-2" d="M60 91 Q91 107 129 126 L128 131 Q93 117 60 98 Z"/>
+    <path id="input-1-hidden-3" opacity=".58" d="M62 94 Q93 143 127 189 L125 192 Q90 149 59 98 Z"/>
+    <path id="input-2-hidden-1" opacity=".58" d="M59 159 Q93 115 127 61 L129 63 Q97 121 63 165 Z"/>
+    <path id="input-2-hidden-2" d="M59 158 Q94 143 128 125 L130 130 Q95 150 62 165 Z"/>
+    <path id="input-2-hidden-3" d="M60 157 Q92 175 128 189 L127 194 Q91 182 59 165 Z"/>
+    <path id="hidden-1-output" d="M126 59 Q160 88 204 125 L202 131 Q161 99 123 65 Z"/>
+    <path id="hidden-2-output" d="M128 124 Q170 126 204 125 L204 130 Q166 131 128 132 Z"/>
+    <path id="hidden-3-output" d="M124 187 Q165 157 202 125 L206 129 Q171 161 129 194 Z"/>
+  </g>
+  <g id="input-layer">
+    <use xlink:href="#input-node" x="61" y="95"/>
+    <use xlink:href="#input-node" x="61" y="161"/>
+  </g>
+  <g id="hidden-layer">
+    <use xlink:href="#hidden-node" x="127" y="62"/>
+    <use xlink:href="#hidden-node" x="127" y="128"/>
+    <use xlink:href="#hidden-node" x="127" y="191"/>
+  </g>
+  <g id="output-layer" transform="translate(201 128)">
+    <use xlink:href="#output-node"/>
+  </g>
 </g>
 </defs>
 <g id="contact-shadow" transform="translate(0 2.5)" filter="url(#shadow)" opacity=".27"><use xlink:href="#pane" fill="#263544"/></g>

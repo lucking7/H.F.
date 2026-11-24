@@ -95,7 +95,7 @@ async function loadIndex([filename, title]) {
       thumbnail,
     };
   });
-  return [filename, { title, info: filename, items }];
+  return { filename, title, items };
 }
 
 function setText(id, text) {
@@ -291,7 +291,16 @@ function updateResults({ retain = false } = {}) {
   selected ||= matches[Math.min(retain ? Math.max(oldPosition, 0) : 0, Math.max(matches.length - 1, 0))] || null;
   page = selected ? Math.floor(matches.indexOf(selected) / pageSize) : 0;
   setText("collection-title", collection.title);
-  setText("collection-info", collection.info);
+  if (collection.filename === "All.json") {
+    const link = document.createElement("a");
+    link.href = assetUrl(collection.filename);
+    link.textContent = collection.filename;
+    link.target = "_blank";
+    link.rel = "noopener";
+    ui["collection-info"].replaceChildren(link);
+  } else {
+    setText("collection-info", collection.filename || collection.info);
+  }
   if (["Routing-Policy.json", "Routing-Policy144px.json"].includes(ui.collection.value)) {
     const comparison = document.createElement("a");
     comparison.href = assetUrl("signal/routing-policy/comparison.png");
@@ -388,10 +397,15 @@ async function start() {
   const controls = [ui.collection, ui.search, ui.filter];
   for (const control of controls) control.disabled = true;
   try {
-    const loaded = await Promise.all(indexes.map(loadIndex));
-    const unique = new Map();
-    for (const [, index] of loaded) {
-      for (const item of index.items) if (!unique.has(item.path)) unique.set(item.path, item);
+    const catalogs = [["All.json", "全部图标"], ...indexes];
+    const [combined, ...loaded] = await Promise.all(catalogs.map(loadIndex));
+    const unique = new Map(combined.items.map(item => [item.path, item]));
+    for (const index of loaded) {
+      for (const item of index.items) {
+        const canonical = unique.get(item.path);
+        if (!canonical) unique.set(item.path, item);
+        else if (canonical.name !== item.name) canonical.keywords += ` ${item.name}`;
+      }
     }
     const featured = [];
     for (const [slug, [name, subtitle]] of glass) {
@@ -400,11 +414,12 @@ async function start() {
     }
     assets = unique;
     collections.set("glass", { title: "AI 玻璃", info: "1024 px · 144 px · macOS ICNS", items: featured });
-    collections.set("all", { title: "全部图标", info: "当前仓库 · 按文件路径去重", items: [...unique.values()] });
-    for (const [key, index] of loaded) collections.set(key, index);
+    collections.set("all", combined);
+    for (const index of loaded) collections.set(index.filename, index);
     ui.collection.replaceChildren(...[...collections].map(([key, { title }]) => new Option(title, key)));
     const requestedCollection = new URLSearchParams(location.search).get("collection");
-    ui.collection.value = collections.has(requestedCollection) ? requestedCollection : "glass";
+    const key = requestedCollection === "All.json" ? "all" : requestedCollection;
+    ui.collection.value = collections.has(key) ? key : "glass";
     for (const control of controls) control.disabled = false;
     reviewed = readReviews() || reviewed;
     updateProgress();
