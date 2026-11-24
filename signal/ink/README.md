@@ -1,6 +1,6 @@
 # Ink hand-drawn collection
 
-[UI-Handdrawn-Ink.json](../../UI-Handdrawn-Ink.json) contains 24 images: ten original decorative black-ink images and fourteen new drawings. This is separate from the regular black line family at `signal/minimal/`.
+[UI-Handdrawn-Ink.json](../../UI-Handdrawn-Ink.json) contains ten original decorative black-ink images and fourteen new drawings.
 
 ## Preserved originals
 
@@ -16,4 +16,4 @@ Subjects: Smart, Auto, Direct, Proxy, Fallback, Load Balance, Protection, Speed,
 
 ![24 ink-style icons](preview.png)
 
-Run `python3 signal/ink/build.py` to regenerate new SVGs and the index. Install `sharp`, then run `node signal/ink/render.cjs` and `node signal/ink/preview.cjs`. Only the fourteen new drawings are regenerated; the original ten raster files are never overwritten by these scripts.
+Run `python3 signal/ink/scripts/build.py` to regenerate new SVGs and the index. Install `sharp`, then run `node signal/ink/scripts/render.cjs` and `node signal/ink/scripts/preview.cjs`. Only the fourteen new drawings are regenerated; the original ten raster files are never overwritten by these scripts.

@@ -1,6 +1,6 @@
 {
     "name": "LUCK's APP图标集(144px)",
-    "description": "A collection of flat design app icons for Quantumult X, all in 144px format",
+    "description": "App and brand icons for Quantumult X, all in 144px format",
     "icons": [
     {
       "name": "Arc Browser",
@@ -77,6 +77,30 @@
     {
       "name": "Telegram 2",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/telegram00002.png"
+    },
+    {
+      "name": "Claude Code Liquid Glass Light",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/claude-code-light.png"
+    },
+    {
+      "name": "Claude Code Liquid Glass White",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/claude-code-white.png"
+    },
+    {
+      "name": "Claude Amber Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/claude.png"
+    },
+    {
+      "name": "OpenAI Nacre Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/openai.png"
+    },
+    {
+      "name": "Codex Cobalt Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/codex.png"
+    },
+    {
+      "name": "AI Silicon",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/ai-silicon.png"
     }
   ]
 }

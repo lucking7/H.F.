@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>图标审核台 · H.F.</title>
+  <link rel="icon" href="../logo/ai-glass/144px/claude.png">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <svg class="symbols" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="i-export" viewBox="0 0 24 24"><path d="M12 3v12m-4-4 4 4 4-4M5 15v4a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-4"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></symbol>
+    <symbol id="i-down" viewBox="0 0 24 24"><path d="m7 10 5 5 5-5"/></symbol>
+    <symbol id="i-prev" viewBox="0 0 24 24"><path d="m14.5 5.5-6 6.5 6 6.5"/></symbol>
+    <symbol id="i-next" viewBox="0 0 24 24"><path d="m9.5 5.5 6 6.5-6 6.5"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.6"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M4.9 4.9l1.5 1.5m11.2 11.2 1.5 1.5m0-14.2-1.5 1.5M6.4 17.6l-1.5 1.5"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 15.3A8.6 8.6 0 0 1 8.7 4a8.6 8.6 0 1 0 11.3 11.3Z"/></symbol>
+    <symbol id="i-out" viewBox="0 0 24 24"><path d="M14 4h6v6m0-6L10 14m1-9H6a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2v-5"/></symbol>
+    <symbol id="i-tick" viewBox="0 0 24 24"><path d="m4.5 12.5 5 5 10-11"/></symbol>
+    <symbol id="i-flag" viewBox="0 0 24 24"><path d="M5 21V4m0 1c5-4 9 3 14-1v10c-5 4-9-3-14 1"/></symbol>
+    <symbol id="i-gallery" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></symbol>
+  </svg>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="identity"><span class="wordmark">H.F.</span><span class="identity-line"></span><span>图标档案</span></div>
+      <div class="toolbar"><span class="local"><i></i>本地工作区</span><button id="export" class="outline-button" type="button"><svg><use href="#i-export"/></svg>导出审核记录</button></div>
+    </div>
+  </header>
+
+  <main>
+    <div class="heading">
+      <h1>图标审核台</h1>
+      <div class="progress-block"><div><span>全库审核进度</span><strong id="reviewed-count">载入中</strong></div><div class="track"><div id="progress-fill"></div></div></div>
+    </div>
+    <div id="notice" role="status" aria-live="polite" hidden></div>
+    <noscript>请启用 JavaScript 以浏览本地索引和记录审核结果。</noscript>
+    <div class="workspace">
+      <section class="inspection" aria-label="选中图标">
+        <div id="inspector" hidden>
+          <div id="stage" data-tone="dark" data-size="fit">
+            <div class="stage-header"><span class="stage-label">预览画布</span><div class="tone-switch" role="group" aria-label="画布底色">
+              <button id="tone-light" type="button" aria-label="浅色底" title="浅色底"><svg><use href="#i-sun"/></svg></button>
+              <button id="tone-dark" type="button" aria-label="深色底" title="深色底" aria-pressed="true"><svg><use href="#i-moon"/></svg></button>
+            </div></div>
+            <button class="stage-nav" id="prev-item" type="button" aria-label="上一枚图标" title="上一枚"><svg><use href="#i-prev"/></svg></button>
+            <div class="artwell"><img id="stage-img" alt=""></div>
+            <button class="stage-nav" id="next-item" type="button" aria-label="下一枚图标" title="下一枚"><svg><use href="#i-next"/></svg></button>
+            <div class="stage-footer"><div class="sizes" role="group" aria-label="预览尺寸">
+              <button type="button" id="size-fit" aria-pressed="true">适应</button><button type="button" id="size-144">144px</button><button type="button" id="size-32">32px</button>
+            </div><span id="item-count"></span></div>
+          </div>
+          <div class="detail-heading"><div><h2 id="item-title"></h2><p id="item-subtitle"></p></div><span id="mark-summary"></span></div>
+          <div class="file-details"><div class="file-spec"><span id="item-format"></span><span id="item-dims"></span></div><code id="item-path"></code></div>
+          <div class="decisions"><div class="decision-buttons"><button id="mark-pass" class="pass" type="button"><svg><use href="#i-tick"/></svg>通过</button><button id="mark-revise" class="revise" type="button"><svg><use href="#i-flag"/></svg>需调整</button></div>
+            <div class="file-links"><a id="open-png" target="_blank" rel="noopener">原图<svg><use href="#i-out"/></svg></a><a id="open-icns" download hidden>ICNS<svg><use href="#i-export"/></svg></a><a id="open-psd" download hidden>PSD<svg><use href="#i-export"/></svg></a></div>
+          </div>
+        </div>
+        <div id="empty" hidden><svg><use href="#i-gallery"/></svg><p id="empty-message">当前没有可预览的图标。</p></div>
+      </section>
+      <section class="library" aria-label="图集浏览">
+        <div class="library-heading"><h2 id="collection-title">图集</h2><label class="collection-picker"><svg><use href="#i-gallery"/></svg>切换图集<svg class="chevron"><use href="#i-down"/></svg><select id="collection" aria-label="切换图集"></select></label></div>
+        <p id="collection-info"></p>
+        <div class="filters">
+          <label class="search"><svg><use href="#i-search"/></svg><input id="search" type="search" placeholder="搜索当前图集" aria-label="搜索当前图集" autocomplete="off"></label>
+          <label class="status-filter"><select id="filter" aria-label="审核状态"><option value="all">全部状态</option><option value="unreviewed">未审核</option><option value="pass">已通过</option><option value="revise">需调整</option></select><svg><use href="#i-down"/></svg></label>
+        </div>
+        <div id="grid" aria-label="图标列表"></div>
+        <div class="grid-footer"><span id="results-count"></span><nav class="pager" aria-label="图集分页"><button id="page-prev" type="button" aria-label="上一页"><svg><use href="#i-prev"/></svg></button><span id="page-position"></span><button id="page-next" type="button" aria-label="下一页"><svg><use href="#i-next"/></svg></button></nav></div>
+      </section>
+    </div>
+  </main>
+</body>
+</html>

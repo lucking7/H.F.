@@ -1,22 +1,25 @@
-### Hchi's Icon Repository
+# Hchi's Icon Repository
 
 ## Collections
 
-- [Black line UI icons](UI-Minimal.json): 24 restored designs plus 12 matching extensions. [Preview](signal/minimal/README.md).
-- [Ink hand-drawn icons](UI-Handdrawn-Ink.json): 10 preserved originals and 14 new drawings. [Preview](signal/ink/README.md).
+The JSON files at the repository root are the public icon indexes. Each entry pairs an icon name with its image URL.
 
-- [Relief strategy-group icons](Strategy.json): 24 large relief symbols in two appearances, including Star and Smart. [Preview and sources](strategy/README.md).
+| Collection | Indexes | Artwork and sources |
+| --- | --- | --- |
+| Apps and brands | [All apps](Apps.json) · [144px](Apps144px.json) | [App and brand artwork](logo/) · [AI glass icons and macOS downloads](logo/ai-glass/README.md) |
+| Flags | [Selected flags](Flags.json) | [Flag previews, editable sources and historical artwork](flags/README.md) |
+| UI | [Combined UI](UI.json) · [Ink](UI-Handdrawn-Ink.json) | The combined index includes 54 images. The [ink collection](signal/ink/README.md) includes 10 originals and 14 new drawings. |
+| REX | [All 138 entries](REX.json) · [10 white platform badges](REX-Platforms.json) · [26 runtime logos](REX-Runtime.json) | [Collection guide](rex-icons/1.0.0/README.md) and [manifest of 181 image files](rex-icons/1.0.0/manifest.json), including original variants. |
 
-- [Flags](Flags.json): user-selected flags, with classic UN and institution artwork preserved.
-- [Flag style and editable sources](flags/README.md).
-- [App and brand icons](Apps.json): original App and brand icon collection.
-- [App icons (144px)](Apps144px.json).
-- [REX icons](REX.json): 138 indexed entries with original variants preserved in [181 image files](rex-icons/1.0.0/manifest.json). [Sources and details](rex-icons/1.0.0/README.md).
-- [REX white platform badges](REX-Platforms.json): 10 white transparent logos, with PNG and original WebP files.
-- [REX runtime platform logos](REX-Runtime.json): 26 original-color logos, including 14 colored and 12 monochrome.
-- [All UI icons](UI.json): 138 unique images combining the original UI, ink, black line and Relief collections.
+## Local review
 
-Refresh the combined index with `python3 tools/update-ui-index.py`. Individual collection indexes remain available above.
+Run `python3 -m http.server 8741 --bind 127.0.0.1` from the repository root and open [the local review page](http://127.0.0.1:8741/review/). It opens on the six AI glass icons. Use the collection menu to browse the full library. Review marks are saved in the current browser and can be exported as JSON.
+
+Four legacy files have a `.png` extension and contain Photoshop documents. The review page displays their merged images from `review/previews/` and offers the original PSDs for download.
+
+## Rebuilding collections
+
+Follow the [ink collection guide](signal/ink/README.md) to render its images and update its index. Then run `python3 tools/update-ui-index.py` from the repository root to add new ink images to the combined UI index.
 
 ---
 

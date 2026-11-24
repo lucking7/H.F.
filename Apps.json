@@ -1,6 +1,6 @@
 {
   "name": "LUCK's APP图标集",
-  "description": "Comprehensive flat design icon collection.",
+  "description": "App and brand icons in full size and 144px.",
   "icons": [
     {
       "name": "arc00001-144px",
@@ -881,6 +881,54 @@
     {
       "name": "tiktok-2",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/tiktok/tiktok00002.png"
+    },
+    {
+      "name": "Claude Code Liquid Glass Light",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/claude-code-light.png"
+    },
+    {
+      "name": "Claude Code Liquid Glass White",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/claude-code-white.png"
+    },
+    {
+      "name": "Claude Amber Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/claude.png"
+    },
+    {
+      "name": "OpenAI Nacre Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/openai.png"
+    },
+    {
+      "name": "Codex Cobalt Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/codex.png"
+    },
+    {
+      "name": "AI Silicon",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/ai-silicon.png"
+    },
+    {
+      "name": "Claude Code Liquid Glass Light (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/claude-code-light.png"
+    },
+    {
+      "name": "Claude Code Liquid Glass White (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/claude-code-white.png"
+    },
+    {
+      "name": "Claude Amber Glass (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/claude.png"
+    },
+    {
+      "name": "OpenAI Nacre Glass (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/openai.png"
+    },
+    {
+      "name": "Codex Cobalt Glass (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/codex.png"
+    },
+    {
+      "name": "AI Silicon (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/ai-silicon.png"
     }
   ]
 }
