@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">Mistral · Ember Glass</title>
+  <desc id="description">A pixel M in hot glass on a smoked oxblood tile.</desc>
+  <!-- Brand motif reference: https://mistral.ai/brand/. Glass composition drawn for this collection. -->
+  <defs>
+    <path id="tile" d="M327 100H697C776 100 816 108 850 131C882 152 903 184 914 224C923 257 924 289 924 327V697C924 776 916 816 893 850C872 882 840 903 800 914C767 923 735 924 697 924H327C248 924 208 916 174 893C142 872 121 840 110 800C101 767 100 735 100 697V327C100 248 108 208 131 174C152 142 184 121 224 110C257 101 289 100 327 100Z"/>
+    <clipPath id="tile-edge"><use href="#tile"/></clipPath>
+    <filter id="tile-shadow" x="-.12" y="-.12" width="1.24" height="1.24"><feGaussianBlur stdDeviation="13"/></filter>
+    <filter id="mark-shadow" x="-.16" y="-.24" width="1.32" height="1.48"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="blur" x="-.18" y="-.3" width="1.36" height="1.6"><feGaussianBlur stdDeviation="12"/></filter>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#563039"/>
+      <stop offset=".24" stop-color="#38212b"/>
+      <stop offset=".55" stop-color="#25161e"/>
+      <stop offset=".83" stop-color="#401c25"/>
+      <stop offset="1" stop-color="#4a2631"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd9c1"/>
+      <stop offset=".22" stop-color="#a66569"/>
+      <stop offset=".5" stop-color="#4b303a"/>
+      <stop offset=".8" stop-color="#c7998c"/>
+      <stop offset="1" stop-color="#8c5b66"/>
+    </linearGradient>
+    <linearGradient id="reflection" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffc394" stop-opacity="0"/>
+      <stop offset=".26" stop-color="#ffc194" stop-opacity=".6"/>
+      <stop offset=".46" stop-color="#ff9768" stop-opacity=".56"/>
+      <stop offset=".69" stop-color="#f97573" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#de6974" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rim-glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffcfb7" stop-opacity="0"/>
+      <stop offset=".27" stop-color="#ffc27a" stop-opacity=".72"/>
+      <stop offset=".47" stop-color="#fff0ad" stop-opacity=".96"/>
+      <stop offset=".67" stop-color="#ff8f6b" stop-opacity=".68"/>
+      <stop offset="1" stop-color="#fa654e" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="top-light" cx=".19" cy="-.02" r=".8">
+      <stop offset="0" stop-color="#b27170" stop-opacity="0.49"/>
+      <stop offset=".56" stop-color="#b27170" stop-opacity="0.078"/>
+      <stop offset="1" stop-color="#b27170" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bottom-light" cx=".72" cy="1.12" r=".65">
+      <stop offset="0" stop-color="#bc555f" stop-opacity="0.6"/>
+      <stop offset=".56" stop-color="#bc555f" stop-opacity="0.096"/>
+      <stop offset="1" stop-color="#bc555f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".53"/>
+      <stop offset=".23" stop-color="#ffffff" stop-opacity=".11"/>
+      <stop offset=".51" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".75" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".38"/>
+    </linearGradient>
+    <linearGradient id="ember" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe28a"/>
+      <stop offset=".22" stop-color="#ffb72a"/>
+      <stop offset=".49" stop-color="#ff8626"/>
+      <stop offset=".77" stop-color="#ff5738"/>
+      <stop offset="1" stop-color="#d23053"/>
+    </linearGradient>
+    <linearGradient id="pixel-shine" x1="0.28" y1="0" x2="0.74" y2="1">
+      <stop offset="0" stop-color="#fff2c6"/>
+      <stop offset=".25" stop-color="#ffe2a1"/>
+      <stop offset=".67" stop-color="#ffa465"/>
+      <stop offset=".91" stop-color="#ff7d7a"/>
+      <stop offset="1" stop-color="#f17a8e"/>
+    </linearGradient>
+    <path id="pixel-cat" d="M267 294H365V392H463V490H561V392H659V294H757V686H855V784H561V686H659V588H561V686H463V588H365V686H463V784H169V686H267Z"/>
+    <clipPath id="pixel-edge"><use href="#pixel-cat"/></clipPath>
+  </defs>
+  <use href="#tile" fill="#080915" opacity=".33" filter="url(#tile-shadow)" transform="translate(0 15)"/>
+  <g clip-path="url(#tile-edge)" id="glass">
+    <use href="#tile" fill="url(#body)"/>
+    <use href="#tile" fill="url(#top-light)"/>
+    <use href="#tile" fill="url(#bottom-light)"/>
+    <path d="M561 84C672 121 767 128 768 182C768 215 729 236 747 255C766 276 818 244 849 251C908 263 911 344 940 377L948 70Z" fill="url(#reflection)" filter="url(#blur)"/>
+    <path d="M613 101C700 115 808 119 808 174C808 203 770 231 775 239C785 255 831 222 868 243C910 269 913 318 934 350" fill="none" stroke="url(#rim-glow)" stroke-width="8" opacity=".55"/>
+    <path d="M672 105C757 122 829 139 827 180C826 203 798 227 803 233C809 243 844 222 875 245C899 267 910 311 931 321" fill="none" stroke="url(#rim-glow)" stroke-width="26" opacity=".49" filter="url(#blur)"/>
+    <path d="M92 717C117 767 153 816 211 815C249 814 256 782 290 784C311 788 309 803 297 825C274 867 330 891 486 927L79 951Z" fill="url(#reflection)" filter="url(#blur)" transform="rotate(180 282 828) translate(-14 -52)" opacity=".38"/>
+    <path d="M92 749C116 795 143 841 186 845C220 848 232 807 262 813C285 817 256 853 282 879C312 910 395 915 458 930" fill="none" stroke="url(#rim-glow)" stroke-width="10" opacity=".71"/>
+    <path d="M92 756C120 811 150 849 195 853C227 855 236 833 257 832C273 831 257 866 282 886C306 905 390 922 450 930" fill="none" stroke="url(#rim-glow)" stroke-width="27" filter="url(#blur)" opacity=".60"/>
+    <use href="#tile" fill="none" stroke="url(#rim)" stroke-width="21"/>
+    <use href="#tile" fill="none" stroke="url(#sheen)" stroke-width="7"/>
+    <use href="#tile" fill="none" stroke="url(#sheen)" transform="translate(11.26 11.26) scale(.978)" stroke-width="2.5"/>
+  </g>
+  <g id="emblem" transform="translate(52 37) scale(.90)">
+    <use href="#pixel-cat" fill="#1a0411" opacity=".86" transform="translate(0 22)" filter="url(#mark-shadow)"/>
+    <use href="#pixel-cat" fill="#8f253f" transform="translate(0 12)"/>
+    <use href="#pixel-cat" fill="url(#ember)"/>
+    <g clip-path="url(#pixel-edge)">
+      <path d="M169 390H855V396H169ZM169 488H855V494H169ZM169 586H855V592H169ZM169 684H855V690H169Z" fill="#ffdf9a" opacity=".38"/>
+      <path d="M267 294H280V690H267ZM365 392H377V590H365ZM463 490H475V690H463ZM561 392H573V590H561ZM659 294H672V690H659ZM169 686H183V784H169ZM561 686H576V784H561Z" fill="#ffe5b9" opacity=".24"/>
+      <path d="M351 294H365V784H351ZM742 294H757V784H742ZM841 686H855V784H841Z" fill="#ab2547" opacity=".21"/>
+      <path d="M267 274H757V421C634 380 531 441 393 419C345 411 297 393 267 378Z" fill="#fff7d6" opacity=".15"/>
+    </g>
+    <use href="#pixel-cat" fill="none" stroke="url(#pixel-shine)" stroke-width="5.2" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,4 +1,6 @@
 const indexes = [
+  ["Routing-Policy.json", "网络策略组"],
+  ["Routing-Policy144px.json", "网络策略组 · 144 px"],
   ["Apps.json", "应用与品牌"],
   ["Apps144px.json", "应用 · 144 px"],
   ["Flags.json", "旗帜"],
@@ -10,12 +12,17 @@ const indexes = [
 ];
 
 const glass = new Map([
+  ["ai", ["AI", "青瓷色玻璃上的深玉色 AI 字标", "通用 AI 人工智能 总览 全部模型 青玉 Jade Glass"]],
+  ["ai-symbol", ["AI 符号", "靛蓝玻璃上的双脑叶浮雕", "通用 AI 人工智能 符号 大脑 脑纹 蛋白石 AI Symbol Opal Glass"]],
   ["claude", ["Claude", "铜色星芒与暖瓷玻璃", "琥珀橙 星芒 铜 暖瓷"]],
   ["openai", ["OpenAI", "珍珠色绳结与烟熏石墨玻璃", "珍珠 绳结 烟熏石墨 ChatGPT"]],
   ["codex", ["Codex", "钴蓝终端云与折射玻璃", "钴蓝 终端 云 命令行"]],
   ["ai-silicon", ["AI Silicon", "裸露计算晶粒、堆叠显存和金色走线", "真实 AI 实体芯片 硅片 显存 加速器"]],
   ["claude-code-light", ["Claude Code Light", "导入原图 · 浅色底与橙色徽标", "浅色 白底 Claude Code 原图"]],
   ["claude-code-white", ["Claude Code White", "导入原图 · 橙色底与浅色徽标", "白色 橙底 Claude Code 原图"]],
+  ["gemini", ["Gemini", "棱镜玻璃中的四芒星", "Google 谷歌 双子座 光谱 棱镜 Prism"]],
+  ["deepseek", ["DeepSeek", "潮汐玻璃中的鲸鱼", "深度求索 深蓝 潮汐 鲸鱼 Tidal"]],
+  ["mistral", ["Mistral", "余烬玻璃中的像素 M", "暖橙 余烬 像素 Ember Le Chat"]],
 ]);
 
 const assetDirectories = new Set(["flags", "logo", "rex-icons", "signal"]);
@@ -74,6 +81,9 @@ async function loadIndex([filename, title]) {
     const psd = psdPaths.has(path);
     const basename = path.slice(path.lastIndexOf("/") + 1);
     const preview = psd ? `review/previews/${basename}` : path;
+    const thumbnail = detail
+      ? `logo/ai-glass/144px/${glassFile[2]}.png`
+      : preview.replace(/^signal\/routing-policy\/1024\//, "signal/routing-policy/144/");
     return {
       name,
       path,
@@ -82,7 +92,7 @@ async function loadIndex([filename, title]) {
       icns: detail ? `logo/ai-glass/icns/${glassFile[2]}.icns` : null,
       psdFilename: psd ? basename.replace(/\.png$/, ".psd") : null,
       preview,
-      thumbnail: detail ? `logo/ai-glass/144px/${glassFile[2]}.png` : preview,
+      thumbnail,
     };
   });
   return [filename, { title, info: filename, items }];
@@ -282,6 +292,14 @@ function updateResults({ retain = false } = {}) {
   page = selected ? Math.floor(matches.indexOf(selected) / pageSize) : 0;
   setText("collection-title", collection.title);
   setText("collection-info", collection.info);
+  if (["Routing-Policy.json", "Routing-Policy144px.json"].includes(ui.collection.value)) {
+    const comparison = document.createElement("a");
+    comparison.href = assetUrl("signal/routing-policy/comparison.png");
+    comparison.target = "_blank";
+    comparison.rel = "noopener";
+    comparison.textContent = "新旧对照";
+    ui["collection-info"].append(" · ", comparison);
+  }
   setText("empty-message", query ? "没有匹配的图标。试试其他名称或文件路径。" : "当前筛选下没有图标。");
   renderGrid();
   renderInspector();
@@ -381,11 +399,12 @@ async function start() {
       if (item) featured.push({ ...item, name, subtitle });
     }
     assets = unique;
-    collections.set("glass", { title: "AI 玻璃", info: "四款新设计 · 两款导入原图", items: featured });
+    collections.set("glass", { title: "AI 玻璃", info: "1024 px · 144 px · macOS ICNS", items: featured });
     collections.set("all", { title: "全部图标", info: "当前仓库 · 按文件路径去重", items: [...unique.values()] });
     for (const [key, index] of loaded) collections.set(key, index);
     ui.collection.replaceChildren(...[...collections].map(([key, { title }]) => new Option(title, key)));
-    ui.collection.value = "glass";
+    const requestedCollection = new URLSearchParams(location.search).get("collection");
+    ui.collection.value = collections.has(requestedCollection) ? requestedCollection : "glass";
     for (const control of controls) control.disabled = false;
     reviewed = readReviews() || reviewed;
     updateProgress();

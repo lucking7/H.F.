@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">AI Symbol · Opal Glass</title>
+  <desc id="description">Two sculpted brain lobes in opalescent glass, separated by dark folds on a midnight indigo tile.</desc>
+  <defs>
+    <path id="tile" d="M327 100H697C776 100 816 108 850 131C882 152 903 184 914 224C923 257 924 289 924 327V697C924 776 916 816 893 850C872 882 840 903 800 914C767 923 735 924 697 924H327C248 924 208 916 174 893C142 872 121 840 110 800C101 767 100 735 100 697V327C100 248 108 208 131 174C152 142 184 121 224 110C257 101 289 100 327 100Z"/>
+    <clipPath id="tile-edge"><use href="#tile"/></clipPath>
+    <filter id="tile-shadow" x="-.12" y="-.12" width="1.24" height="1.24"><feGaussianBlur stdDeviation="13"/></filter>
+    <filter id="corner-diffusion" x="-.27" y="-.27" width="1.54" height="1.54"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="symbol-shadow" x="-.15" y="-.2" width="1.3" height="1.4"><feGaussianBlur stdDeviation="15"/></filter>
+    <linearGradient id="midnight" x1=".03" y1="0" x2=".93" y2="1">
+      <stop offset="0" stop-color="#434267"/>
+      <stop offset=".32" stop-color="#262848"/>
+      <stop offset=".69" stop-color="#171831"/>
+      <stop offset="1" stop-color="#303955"/>
+    </linearGradient>
+    <radialGradient id="corner-fill" cx=".62" cy="1" r=".8">
+      <stop offset="0" stop-color="#4c7e9f" stop-opacity=".54"/>
+      <stop offset=".6" stop-color="#34638b" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#34638b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bevel" x1="0" y1="0" x2=".96" y2="1">
+      <stop offset="0" stop-color="#c6cde5"/>
+      <stop offset=".23" stop-color="#6f81a0"/>
+      <stop offset=".48" stop-color="#3c3b5d"/>
+      <stop offset=".8" stop-color="#617f98"/>
+      <stop offset="1" stop-color="#1c2841"/>
+    </linearGradient>
+    <linearGradient id="edge-light" x1="0" y1="0" x2=".96" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".73"/>
+      <stop offset=".28" stop-color="#f8daed" stop-opacity=".17"/>
+      <stop offset=".55" stop-color="#a8dbea" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#c7ecec" stop-opacity=".57"/>
+    </linearGradient>
+    <linearGradient id="corner-spectrum" gradientUnits="userSpaceOnUse" x1="660" y1="98" x2="929" y2="312">
+      <stop offset="0" stop-color="#85b6dc" stop-opacity="0"/>
+      <stop offset=".29" stop-color="#8eb4f5" stop-opacity=".5"/>
+      <stop offset=".46" stop-color="#fcb6bc" stop-opacity=".93"/>
+      <stop offset=".53" stop-color="#ffd5bd"/>
+      <stop offset=".63" stop-color="#d9f8ee"/>
+      <stop offset=".76" stop-color="#73e3e6" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#4baabe" stop-opacity="0"/>
+    </linearGradient>
+    <path id="refraction" d="M619 103C707 118 785 119 809 157C832 193 782 213 789 232C796 248 828 224 853 235C890 252 900 300 929 343"/>
+    <path id="left-lobe" d="M498 355C498 308 466 278 425 276C385 274 349 296 335 330C290 332 260 369 265 411C234 428 215 463 220 500C222 522 232 541 244 552C224 591 242 639 281 660C293 667 308 670 323 671C334 710 369 732 409 728C458 723 498 684 498 634Z"/>
+    <path id="right-lobe" d="M526 355C526 308 558 278 599 276C639 274 675 296 689 330C734 332 764 369 759 411C790 428 809 463 804 500C802 522 792 541 780 552C800 591 782 639 743 660C731 667 716 670 701 671C690 710 655 732 615 728C566 723 526 684 526 634Z"/>
+    <path id="folds" d="M332 319C333 374 371 410 420 412M236 554C296 550 325 514 337 467M319 682C328 630 369 596 414 601M693 321C692 370 653 394 608 399M786 551C730 546 711 514 695 471M706 682C690 631 653 615 606 622"/>
+    <mask id="folds-cut" x="0" y="0" width="1024" height="1024" maskUnits="userSpaceOnUse">
+      <path d="M0 0H1024V1024H0Z" fill="white"/>
+      <use href="#folds" fill="none" stroke="black" stroke-width="33" stroke-linecap="round"/>
+    </mask>
+    <g id="brain" mask="url(#folds-cut)">
+      <use href="#left-lobe"/>
+      <use href="#right-lobe"/>
+    </g>
+    <clipPath id="lobes">
+      <use href="#left-lobe"/>
+      <use href="#right-lobe"/>
+    </clipPath>
+    <linearGradient id="opal" gradientUnits="userSpaceOnUse" x1="267" y1="266" x2="748" y2="770">
+      <stop offset="0" stop-color="#fff8ef"/>
+      <stop offset=".21" stop-color="#e9fcf4"/>
+      <stop offset=".44" stop-color="#a2dedf"/>
+      <stop offset=".62" stop-color="#c6e2ef"/>
+      <stop offset=".78" stop-color="#bdbae0"/>
+      <stop offset="1" stop-color="#899cbf"/>
+    </linearGradient>
+    <radialGradient id="opal-light" cx=".74" cy=".32" r=".7">
+      <stop offset="0" stop-color="#fff1df" stop-opacity=".79"/>
+      <stop offset=".65" stop-color="#eeeffb" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#f6f0ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="opal-edge" gradientUnits="userSpaceOnUse" x1="276" y1="300" x2="728" y2="730">
+      <stop offset="0" stop-color="#fffdf8"/>
+      <stop offset=".44" stop-color="#d8f8f4" stop-opacity=".5"/>
+      <stop offset=".74" stop-color="#576b9a" stop-opacity=".54"/>
+      <stop offset="1" stop-color="#efe7ff"/>
+    </linearGradient>
+  </defs>
+  <use href="#tile" fill="#0a1323" opacity=".34" filter="url(#tile-shadow)" transform="translate(0 15)"/>
+  <g id="glass" clip-path="url(#tile-edge)">
+    <use href="#tile" fill="url(#midnight)"/>
+    <use href="#tile" fill="url(#corner-fill)"/>
+    <g fill="none" stroke="url(#corner-spectrum)">
+      <use href="#refraction" stroke-width="34" opacity=".72" filter="url(#corner-diffusion)"/>
+      <use href="#refraction" stroke-width="8" opacity=".82"/>
+      <use href="#refraction" stroke-width="31" opacity=".67" filter="url(#corner-diffusion)" transform="rotate(180 512 512)"/>
+      <use href="#refraction" stroke-width="8" opacity=".74" transform="rotate(180 512 512)"/>
+    </g>
+    <use href="#tile" fill="none" stroke="url(#bevel)" stroke-width="21"/>
+    <use href="#tile" fill="none" stroke="url(#edge-light)" stroke-width="6"/>
+    <use href="#tile" fill="none" stroke="url(#edge-light)" stroke-width="2.5" transform="translate(11.26 11.26) scale(.978)" opacity=".72"/>
+  </g>
+  <g id="emblem">
+    <use href="#brain" fill="#090e22" opacity=".9" filter="url(#symbol-shadow)" transform="translate(0 22)"/>
+    <use href="#brain" fill="#465477" transform="translate(0 11)"/>
+    <use href="#brain" fill="url(#opal)"/>
+    <g mask="url(#folds-cut)">
+      <use href="#left-lobe" fill="none" stroke="url(#opal-edge)" stroke-width="5.5"/>
+      <use href="#right-lobe" fill="url(#opal-light)" stroke="url(#opal-edge)" stroke-width="5.5"/>
+      <use href="#folds" fill="none" stroke="#f2fffc" stroke-width="43" stroke-linecap="round" opacity=".28" clip-path="url(#lobes)"/>
+      <path d="M356 328C369 307 391 295 420 292C446 290 467 304 477 323M546 325C555 302 580 291 606 292C630 292 651 304 667 324" fill="none" stroke="#fffdf5" stroke-width="4.5" stroke-linecap="round" opacity=".49"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+{
+  "name": "LUCK's 网络策略组图标（144px）",
+  "description": "144px icons for Proxy, Star, Smart, Ponte, and AI.",
+  "icons": [
+    {
+      "name": "Proxy",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/routing-policy/144/proxy.png"
+    },
+    {
+      "name": "Star",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/routing-policy/144/star.png"
+    },
+    {
+      "name": "Smart",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/routing-policy/144/smart.png"
+    },
+    {
+      "name": "Ponte",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/routing-policy/144/ponte.png"
+    },
+    {
+      "name": "AI",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/routing-policy/144/ai.png"
+    }
+  ]
+}

@@ -3,24 +3,12 @@
   "description": "App and brand icons in full size and 144px.",
   "icons": [
     {
-      "name": "arc00001-144px",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/arc00001.png"
-    },
-    {
-      "name": "clash00001-144px",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/clash00001.png"
-    },
-    {
       "name": "clash00002-144px",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/clash00002.png"
     },
     {
       "name": "claude00001-144px",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/claude00001.png"
-    },
-    {
-      "name": "duck-144px",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/duck.png"
     },
     {
       "name": "huggingface-144px",
@@ -51,60 +39,12 @@
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/qx00004.png"
     },
     {
-      "name": "shadowrocket00001-144px",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/shadowrocket00001.png"
-    },
-    {
-      "name": "shadowrocket00002-144px",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/shadowrocket00002.png"
-    },
-    {
       "name": "singbox-144px",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/singbox.png"
     },
     {
-      "name": "surge00001-144px",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/surge00001.png"
-    },
-    {
-      "name": "surge00002-144px",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/surge00002.png"
-    },
-    {
-      "name": "telegram00001-144px",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/telegram00001.png"
-    },
-    {
-      "name": "telegram00002-144px",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/144px/telegram00002.png"
-    },
-    {
-      "name": "Arc-1",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/Arc/Arc00001.png"
-    },
-    {
-      "name": "Arc-2",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/Arc/Arc00002.png"
-    },
-    {
-      "name": "Arc-3",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/Arc/Arc00003.png"
-    },
-    {
-      "name": "Arc-4",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/Arc/Arc00004.png"
-    },
-    {
-      "name": "Arc-5",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/Arc/Arc00005.png"
-    },
-    {
       "name": "apple-1",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00001.png"
-    },
-    {
-      "name": "apple-2",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00002.png"
     },
     {
       "name": "apple-3",
@@ -113,14 +53,6 @@
     {
       "name": "apple-4",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00004.png"
-    },
-    {
-      "name": "apple-5",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00005.png"
-    },
-    {
-      "name": "apple-6",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple00006.png"
     },
     {
       "name": "apple-store-1",
@@ -141,10 +73,6 @@
     {
       "name": "apple-store-5",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00005.png"
-    },
-    {
-      "name": "apple-store-6",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/apple_store00006.png"
     },
     {
       "name": "apple-store-7",
@@ -173,10 +101,6 @@
     {
       "name": "apple-one-1",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/appleone00001.png"
-    },
-    {
-      "name": "apple-one-2",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/apple/appleone00002.png"
     },
     {
       "name": "apple-tv",
@@ -255,18 +179,6 @@
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Deprecated_Ryujinx_Logo_Recoloured.png"
     },
     {
-      "name": "Emu-developer",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Emu.png"
-    },
-    {
-      "name": "Shadowrocket00001-developer",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Shadowrocket00001.png"
-    },
-    {
-      "name": "Shadowrocket00002-developer",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Shadowrocket00002.png"
-    },
-    {
       "name": "Surge-developer",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Surge.png"
     },
@@ -293,14 +205,6 @@
     {
       "name": "Surge_Sapphire_Dark-developer",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Surge_Sapphire_Dark.png"
-    },
-    {
-      "name": "Suyu-developer",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Suyu.png"
-    },
-    {
-      "name": "Werecleaner-developer",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/Werecleaner.png"
     },
     {
       "name": "adguardvpn-developer",
@@ -345,10 +249,6 @@
     {
       "name": "dit00003-developer",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/dit00003.png"
-    },
-    {
-      "name": "dogecoin00001-developer",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/developer/dogecoin00001.png"
     },
     {
       "name": "folx-developer",
@@ -469,14 +369,6 @@
     {
       "name": "Crisis_Core_Final_Fantasy_VII_Reunion-game",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/Crisis_Core_Final_Fantasy_VII_Reunion.png"
-    },
-    {
-      "name": "OpenEmuiGBA00001-game",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/OpenEmuiGBA00001.png"
-    },
-    {
-      "name": "OpenEmuiGBA00002-game",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/game/OpenEmuiGBA00002.png"
     },
     {
       "name": "Persona_5_Royal00001-game",
@@ -675,54 +567,6 @@
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nasa/nasa00002.png"
     },
     {
-      "name": "netflix-1",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/netflix/netflix00001.png"
-    },
-    {
-      "name": "netflix-2",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/netflix/netflix00002.png"
-    },
-    {
-      "name": "netflix-3",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/netflix/netflix00003.png"
-    },
-    {
-      "name": "nintendo-switch-1",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00001.png"
-    },
-    {
-      "name": "nintendo-switch-2",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00002.png"
-    },
-    {
-      "name": "nintendo-switch-3",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00003.png"
-    },
-    {
-      "name": "nintendo-switch-4",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00004.png"
-    },
-    {
-      "name": "nintendo-switch-5",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/nintendo/nintendoswitch00005.png"
-    },
-    {
-      "name": "openai-1",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00001.png"
-    },
-    {
-      "name": "openai-2",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00002.png"
-    },
-    {
-      "name": "openai-3",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00003.png"
-    },
-    {
-      "name": "openai-4",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00004.png"
-    },
-    {
       "name": "openai-5",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/openai/openai00005.png"
     },
@@ -867,20 +711,12 @@
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00007.png"
     },
     {
-      "name": "telegram-8",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00008.png"
+      "name": "AI Jade Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/ai.png"
     },
     {
-      "name": "telegram-9",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/telegram/telegram00009.png"
-    },
-    {
-      "name": "tiktok-1",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/tiktok/tiktok00001.png"
-    },
-    {
-      "name": "tiktok-2",
-      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/tiktok/tiktok00002.png"
+      "name": "AI Symbol Opal Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/ai-symbol.png"
     },
     {
       "name": "Claude Code Liquid Glass Light",
@@ -907,6 +743,26 @@
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/ai-silicon.png"
     },
     {
+      "name": "Gemini Prism Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/gemini.png"
+    },
+    {
+      "name": "DeepSeek Tidal Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/deepseek.png"
+    },
+    {
+      "name": "Mistral Ember Glass",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/mistral.png"
+    },
+    {
+      "name": "AI Jade Glass (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/ai.png"
+    },
+    {
+      "name": "AI Symbol Opal Glass (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/ai-symbol.png"
+    },
+    {
       "name": "Claude Code Liquid Glass Light (144px)",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/claude-code-light.png"
     },
@@ -929,6 +785,18 @@
     {
       "name": "AI Silicon (144px)",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/ai-silicon.png"
+    },
+    {
+      "name": "Gemini Prism Glass (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/gemini.png"
+    },
+    {
+      "name": "DeepSeek Tidal Glass (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/deepseek.png"
+    },
+    {
+      "name": "Mistral Ember Glass (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/mistral.png"
     }
   ]
 }

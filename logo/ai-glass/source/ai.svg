@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">AI · Jade Glass</title>
+  <desc id="description">Raised jade letters A and I over a pale celadon glass tile with refracted corners.</desc>
+  <defs>
+    <path id="tile" d="M327 100H697C776 100 816 108 850 131C882 152 903 184 914 224C923 257 924 289 924 327V697C924 776 916 816 893 850C872 882 840 903 800 914C767 923 735 924 697 924H327C248 924 208 916 174 893C142 872 121 840 110 800C101 767 100 735 100 697V327C100 248 108 208 131 174C152 142 184 121 224 110C257 101 289 100 327 100Z"/>
+    <clipPath id="tile-edge"><use href="#tile"/></clipPath>
+    <filter id="tile-shadow" x="-.12" y="-.12" width="1.24" height="1.24"><feGaussianBlur stdDeviation="13"/></filter>
+    <filter id="light-spread" x="-.2" y="-.2" width="1.4" height="1.4"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="letter-shadow" x="-.14" y="-.2" width="1.28" height="1.4"><feGaussianBlur stdDeviation="10"/></filter>
+    <linearGradient id="glass-face" x1="0" y1="0" x2=".92" y2="1">
+      <stop offset="0" stop-color="#f4fff9"/>
+      <stop offset=".35" stop-color="#d5eee2"/>
+      <stop offset=".66" stop-color="#b8dcca"/>
+      <stop offset="1" stop-color="#82b8ac"/>
+    </linearGradient>
+    <radialGradient id="opal" cx=".62" cy=".35" r=".54">
+      <stop offset="0" stop-color="#fff9df" stop-opacity=".82"/>
+      <stop offset=".52" stop-color="#fff9df" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#fff9df" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="reflected-teal" cx=".36" cy="1.02" r=".77">
+      <stop offset="0" stop-color="#66c7c5" stop-opacity=".59"/>
+      <stop offset=".58" stop-color="#5fadaa" stop-opacity=".21"/>
+      <stop offset="1" stop-color="#6dc6be" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass-edge" x1="0" y1="0" x2=".84" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".29" stop-color="#e0f6e4"/>
+      <stop offset=".53" stop-color="#a1c2b6"/>
+      <stop offset=".72" stop-color="#508f87"/>
+      <stop offset=".91" stop-color="#bfebe1"/>
+      <stop offset="1" stop-color="#406d67"/>
+    </linearGradient>
+    <linearGradient id="edge-glint" x1=".08" y1="0" x2="1" y2=".94">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".97"/>
+      <stop offset=".43" stop-color="#ffffff" stop-opacity=".26"/>
+      <stop offset=".62" stop-color="#ffffff" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#f0fff3" stop-opacity=".82"/>
+    </linearGradient>
+    <linearGradient id="refraction" gradientUnits="userSpaceOnUse" x1="700" y1="102" x2="932" y2="300">
+      <stop offset="0" stop-color="#e5f4cf" stop-opacity="0"/>
+      <stop offset=".28" stop-color="#f8ce94"/>
+      <stop offset=".40" stop-color="#fff6bb"/>
+      <stop offset=".53" stop-color="#fefcf3"/>
+      <stop offset=".68" stop-color="#a2eff1"/>
+      <stop offset=".80" stop-color="#4e80b4"/>
+      <stop offset="1" stop-color="#66bbaf" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="jade" x1=".10" y1="0" x2=".82" y2="1">
+      <stop offset="0" stop-color="#377f6a"/>
+      <stop offset=".33" stop-color="#216858"/>
+      <stop offset=".72" stop-color="#0b5146"/>
+      <stop offset="1" stop-color="#123e36"/>
+    </linearGradient>
+    <linearGradient id="jade-edge" x1="0" y1="0" x2=".62" y2="1">
+      <stop offset="0" stop-color="#bdf6dc"/>
+      <stop offset=".23" stop-color="#6dad91"/>
+      <stop offset=".57" stop-color="#154940"/>
+      <stop offset=".88" stop-color="#1f6052"/>
+      <stop offset="1" stop-color="#60aa88"/>
+    </linearGradient>
+    <linearGradient id="jade-glint" gradientUnits="userSpaceOnUse" x1="320" y1="340" x2="576" y2="600">
+      <stop offset="0" stop-color="#d1f8de" stop-opacity=".27"/>
+      <stop offset="1" stop-color="#d1f8de" stop-opacity="0"/>
+    </linearGradient>
+    <path id="letter-a" fill-rule="evenodd" transform="translate(-7 0)" d="M241 665L369 343Q376 325 396 325H436Q456 325 463 343L591 665Q603 694 575 694H541Q525 694 519 677L495 613H335L312 677Q307 694 289 694H257Q230 694 241 665ZM362 541H469L415 394Z"/>
+    <path id="letter-i" transform="translate(6 0)" d="M643 325H767Q790 325 790 348V373Q790 396 767 396H741V623H767Q790 623 790 646V671Q790 694 767 694H643Q620 694 620 671V646Q620 623 643 623H669V396H643Q620 396 620 373V348Q620 325 643 325Z"/>
+    <path id="refraction-curve" d="M660 103C752 121 821 132 820 172C819 203 780 216 789 234C797 254 837 227 864 238C902 252 910 292 928 331"/>
+  </defs>
+  <use href="#tile" fill="#233c35" opacity=".29" filter="url(#tile-shadow)" transform="translate(0 15)"/>
+  <g id="glass" clip-path="url(#tile-edge)">
+    <use href="#tile" fill="url(#glass-face)"/>
+    <use href="#tile" fill="url(#opal)"/>
+    <use href="#tile" fill="url(#reflected-teal)"/>
+    <path d="M561 95C717 111 777 142 773 184C771 203 748 238 772 257C795 273 829 245 860 257C890 270 914 314 924 365L951 89Z" fill="#ffffed" opacity=".61" filter="url(#light-spread)"/>
+    <path d="M561 95C717 111 777 142 773 184C771 203 748 238 772 257C795 273 829 245 860 257C890 270 914 314 924 365L951 89Z" fill="#d1f9e9" opacity=".38" transform="rotate(180 512 512)" filter="url(#light-spread)"/>
+    <g fill="none" stroke="url(#refraction)">
+      <use href="#refraction-curve" stroke-width="34" opacity=".86" filter="url(#light-spread)"/>
+      <use href="#refraction-curve" stroke-width="9" opacity=".84"/>
+      <use href="#refraction-curve" stroke-width="30" opacity=".74" transform="rotate(180 512 512)" filter="url(#light-spread)"/>
+      <use href="#refraction-curve" stroke-width="8" opacity=".82" transform="rotate(180 512 512)"/>
+    </g>
+    <use href="#tile" fill="none" stroke="url(#glass-edge)" stroke-width="22"/>
+    <use href="#tile" fill="none" stroke="url(#edge-glint)" stroke-width="7"/>
+    <use href="#tile" fill="none" stroke="url(#edge-glint)" stroke-width="2.5" transform="translate(11.26 11.26) scale(.978)" opacity=".65"/>
+  </g>
+  <g id="letters" stroke-linejoin="round">
+    <g fill="#093a32" opacity=".36" filter="url(#letter-shadow)" transform="translate(0 19)">
+      <use href="#letter-a"/>
+      <use href="#letter-i"/>
+    </g>
+    <g fill="#203e36" transform="translate(0 11)">
+      <use href="#letter-a"/>
+      <use href="#letter-i"/>
+    </g>
+    <g fill="url(#jade)" stroke="url(#jade-edge)" stroke-width="5">
+      <use href="#letter-a"/>
+      <use href="#letter-i"/>
+    </g>
+    <g fill="none" stroke="url(#jade-glint)" stroke-width="5" stroke-linecap="round">
+      <path d="M249 665L377 346Q383 333 394 333H434Q449 333 455 344" transform="translate(-7 0)"/>
+      <path d="M630 350Q630 334 647 334H767Q780 334 781 347" transform="translate(6 0)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">DeepSeek · Tidal Glass</title>
+  <desc id="description">A raised, glacial blue whale with submerged teal glass and curved reflections.</desc>
+  <!-- Brand motif reference: https://www.deepseek.com/en/download/. Glass composition drawn for this collection. -->
+  <defs>
+    <path id="tile" d="M327 100H697C776 100 816 108 850 131C882 152 903 184 914 224C923 257 924 289 924 327V697C924 776 916 816 893 850C872 882 840 903 800 914C767 923 735 924 697 924H327C248 924 208 916 174 893C142 872 121 840 110 800C101 767 100 735 100 697V327C100 248 108 208 131 174C152 142 184 121 224 110C257 101 289 100 327 100Z"/>
+    <clipPath id="tile-edge"><use href="#tile"/></clipPath>
+    <filter id="tile-shadow" x="-.12" y="-.12" width="1.24" height="1.24"><feGaussianBlur stdDeviation="13"/></filter>
+    <filter id="mark-shadow" x="-.16" y="-.24" width="1.32" height="1.48"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="blur" x="-.18" y="-.3" width="1.36" height="1.6"><feGaussianBlur stdDeviation="12"/></filter>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a5662"/>
+      <stop offset=".27" stop-color="#123641"/>
+      <stop offset=".58" stop-color="#0a2029"/>
+      <stop offset=".82" stop-color="#103b47"/>
+      <stop offset="1" stop-color="#0b2735"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8fff9"/>
+      <stop offset=".23" stop-color="#74bcbf"/>
+      <stop offset=".54" stop-color="#274f5b"/>
+      <stop offset=".78" stop-color="#77c6c1"/>
+      <stop offset="1" stop-color="#427984"/>
+    </linearGradient>
+    <linearGradient id="reflection" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#83e1d9" stop-opacity="0"/>
+      <stop offset=".22" stop-color="#a8f2db" stop-opacity=".5"/>
+      <stop offset=".46" stop-color="#67dec9" stop-opacity=".66"/>
+      <stop offset=".62" stop-color="#43aaca" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#89d7e1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rim-glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#adf5e5" stop-opacity="0"/>
+      <stop offset=".3" stop-color="#c7fff0" stop-opacity=".84"/>
+      <stop offset=".46" stop-color="#9dffff" stop-opacity=".95"/>
+      <stop offset=".67" stop-color="#43d8d9" stop-opacity=".58"/>
+      <stop offset="1" stop-color="#56cfff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="top-light" cx=".16" cy=".05" r=".78">
+      <stop offset="0" stop-color="#71cac6" stop-opacity="0.45"/>
+      <stop offset=".56" stop-color="#71cac6" stop-opacity="0.072"/>
+      <stop offset="1" stop-color="#71cac6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bottom-light" cx=".78" cy="1.04" r=".69">
+      <stop offset="0" stop-color="#38b3ab" stop-opacity="0.51"/>
+      <stop offset=".56" stop-color="#38b3ab" stop-opacity="0.082"/>
+      <stop offset="1" stop-color="#38b3ab" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".53"/>
+      <stop offset=".23" stop-color="#ffffff" stop-opacity=".11"/>
+      <stop offset=".51" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".75" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".38"/>
+    </linearGradient>
+    <linearGradient id="glacier" x1="0.28" y1="0" x2="0.68" y2="1">
+      <stop offset="0" stop-color="#eaffff"/>
+      <stop offset=".22" stop-color="#b2f6fa"/>
+      <stop offset=".48" stop-color="#7ccef2"/>
+      <stop offset=".75" stop-color="#52a9df"/>
+      <stop offset="1" stop-color="#3c80c8"/>
+    </linearGradient>
+    <linearGradient id="whale-rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4ffff"/>
+      <stop offset=".28" stop-color="#d1fafa"/>
+      <stop offset=".55" stop-color="#8bc5e9"/>
+      <stop offset=".8" stop-color="#63b1e5"/>
+      <stop offset="1" stop-color="#b9f4ea"/>
+    </linearGradient>
+    <linearGradient id="wave-light" x1="0.2" y1="0" x2="0.86" y2="1">
+      <stop offset="0" stop-color="#f5ffff" stop-opacity=".85"/>
+      <stop offset=".46" stop-color="#ccf7f2" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#c2fefa" stop-opacity="0"/>
+    </linearGradient>
+    <path id="whale-shape" d="M26.5174 3.39471C26.235 3.2567 26.1137 3.52006 25.9487 3.65346C25.8923 3.69659 25.8446 3.75294 25.7969 3.80469C25.3846 4.24516 24.9027 4.53439 24.2737 4.49989C23.3536 4.44814 22.5682 4.73737 21.8735 5.44119C21.7258 4.57349 21.2353 4.0554 20.4889 3.72304C20.0985 3.55054 19.7034 3.37746 19.4297 3.00197C19.2388 2.73459 19.1865 2.43673 19.091 2.14289C19.0301 1.96579 18.9697 1.78466 18.7656 1.75418C18.5442 1.71968 18.4574 1.90541 18.3705 2.06067C18.0232 2.69549 17.8887 3.39471 17.9019 4.10313C17.9324 5.6965 18.6051 6.96556 19.9421 7.86834C20.0939 7.97184 20.133 8.07535 20.0852 8.22658C19.9938 8.53766 19.8857 8.83955 19.7903 9.15063C19.7293 9.34901 19.6384 9.39271 19.4257 9.30588C18.692 8.9994 18.0583 8.54571 17.4982 7.99772C16.5477 7.07827 15.6881 6.06336 14.6162 5.26869C14.3644 5.08296 14.1125 4.91045 13.8521 4.746C12.7584 3.68394 13.9952 2.81164 14.2816 2.70814C14.5812 2.60003 14.3857 2.22857 13.4179 2.23317C12.4502 2.2372 11.5646 2.56151 10.4359 2.99335C10.2708 3.05832 10.0972 3.10547 9.91951 3.14457C8.8954 2.95022 7.83162 2.90709 6.72069 3.03245C4.62877 3.26533 2.95777 4.25436 1.72954 5.94261C0.254043 7.97184 -0.0932678 10.2777 0.33167 12.6824C0.778458 15.2171 2.07225 17.3153 4.06008 18.9558C6.12152 20.6567 8.49577 21.4905 11.2047 21.3306C12.8498 21.2358 14.6812 21.0155 16.7473 19.2669C17.2682 19.5262 17.8151 19.6297 18.7219 19.7074C19.4205 19.7723 20.0933 19.6729 20.6143 19.5648C21.4302 19.3923 21.3739 18.6367 21.0789 18.4981C18.6874 17.3843 19.2124 17.8374 18.7351 17.4706C19.9501 16.033 21.8063 13.4776 22.379 9.99821C22.4353 9.61409 22.5072 9.073 22.4986 8.76192C22.494 8.57216 22.5377 8.49856 22.7545 8.47671C23.3536 8.40771 23.935 8.24383 24.4692 7.94999C26.0188 7.10357 26.6439 5.71318 26.7911 4.04678C26.8129 3.79204 26.7865 3.52869 26.5174 3.39471ZM13.0143 18.3946C10.6964 16.5724 9.5722 15.9726 9.10816 15.9985C8.67402 16.0244 8.75222 16.5212 8.84768 16.8449C8.94773 17.1646 9.07768 17.3849 9.25996 17.6655C9.38589 17.8512 9.47272 18.1272 9.13404 18.3348C8.38766 18.7965 7.08985 18.1796 7.0289 18.1491C5.51833 17.2595 4.25559 16.0853 3.36546 14.4793C2.50581 12.9337 2.0067 11.2753 1.92447 9.50542C1.90262 9.07818 2.02855 8.92695 2.45406 8.84932C3.01413 8.74582 3.59144 8.72397 4.15093 8.80619C6.51656 9.15178 8.53027 10.2092 10.2185 11.8848C11.1822 12.8388 11.9114 13.979 12.6623 15.0929C13.461 16.2757 14.3201 17.4027 15.4144 18.3268C15.8008 18.6505 16.109 18.8966 16.404 19.0783C15.5144 19.1778 14.0297 19.1991 13.0143 18.3958V18.3946ZM14.1252 11.2489C14.1252 11.0591 14.277 10.9079 14.4679 10.9079C14.511 10.9079 14.5501 10.9165 14.5852 10.9292C14.6329 10.9464 14.6766 10.9723 14.7111 11.0114C14.7721 11.0718 14.8066 11.158 14.8066 11.2489C14.8066 11.4386 14.6548 11.5899 14.4639 11.5899C14.273 11.5899 14.1252 11.4386 14.1252 11.2489ZM17.5759 13.0188C17.3545 13.1096 17.1331 13.1873 16.9203 13.1959C16.5903 13.2131 16.2303 13.0791 16.0348 12.9153C15.7312 12.6605 15.5139 12.5179 15.423 12.0734C15.3839 11.8837 15.4057 11.5899 15.4402 11.4214C15.5185 11.0585 15.4316 10.8257 15.1757 10.614C14.9676 10.4415 14.7025 10.3938 14.4115 10.3938C14.3029 10.3938 14.2034 10.3461 14.1292 10.3076C14.0079 10.2472 13.9078 10.096 14.0033 9.91023C14.0338 9.84985 14.1815 9.70322 14.216 9.67734C14.6111 9.45251 15.0665 9.52612 15.488 9.6946C15.8784 9.85445 16.174 10.1477 16.5989 10.5623C17.033 11.0631 17.1112 11.2011 17.3585 11.5772C17.554 11.871 17.7317 12.1729 17.8536 12.5185C17.9272 12.7341 17.8317 12.9107 17.5759 13.0188Z" fill-rule="evenodd"/>
+    <g id="whale"><use href="#whale-shape" transform="translate(196 223) scale(23.5)"/></g>
+    <clipPath id="whale-edge"><use href="#whale"/></clipPath>
+  </defs>
+  <use href="#tile" fill="#080915" opacity=".33" filter="url(#tile-shadow)" transform="translate(0 15)"/>
+  <g clip-path="url(#tile-edge)" id="glass">
+    <use href="#tile" fill="url(#body)"/>
+    <use href="#tile" fill="url(#top-light)"/>
+    <use href="#tile" fill="url(#bottom-light)"/>
+    <path d="M561 84C672 121 767 128 768 182C768 215 729 236 747 255C766 276 818 244 849 251C908 263 911 344 940 377L948 70Z" fill="url(#reflection)" filter="url(#blur)"/>
+    <path d="M613 101C700 115 808 119 808 174C808 203 770 231 775 239C785 255 831 222 868 243C910 269 913 318 934 350" fill="none" stroke="url(#rim-glow)" stroke-width="8" opacity=".55"/>
+    <path d="M672 105C757 122 829 139 827 180C826 203 798 227 803 233C809 243 844 222 875 245C899 267 910 311 931 321" fill="none" stroke="url(#rim-glow)" stroke-width="26" opacity=".49" filter="url(#blur)"/>
+    <path d="M92 717C117 767 153 816 211 815C249 814 256 782 290 784C311 788 309 803 297 825C274 867 330 891 486 927L79 951Z" fill="url(#reflection)" filter="url(#blur)" transform="rotate(180 282 828) translate(-14 -52)" opacity=".38"/>
+    <path d="M92 749C116 795 143 841 186 845C220 848 232 807 262 813C285 817 256 853 282 879C312 910 395 915 458 930" fill="none" stroke="url(#rim-glow)" stroke-width="10" opacity=".71"/>
+    <path d="M92 756C120 811 150 849 195 853C227 855 236 833 257 832C273 831 257 866 282 886C306 905 390 922 450 930" fill="none" stroke="url(#rim-glow)" stroke-width="27" filter="url(#blur)" opacity=".60"/>
+    <use href="#tile" fill="none" stroke="url(#rim)" stroke-width="21"/>
+    <use href="#tile" fill="none" stroke="url(#sheen)" stroke-width="7"/>
+    <use href="#tile" fill="none" stroke="url(#sheen)" transform="translate(11.26 11.26) scale(.978)" stroke-width="2.5"/>
+  </g>
+  <g id="emblem">
+    <use href="#whale" fill="#031520" opacity=".83" transform="translate(0 22)" filter="url(#mark-shadow)"/>
+    <use href="#whale" fill="#27628e" transform="translate(0 10)"/>
+    <use href="#whale" fill="url(#glacier)"/>
+    <g clip-path="url(#whale-edge)">
+      <path d="M187 393C311 276 477 356 543 443C600 514 663 566 801 494C714 570 645 597 557 545C434 473 340 409 196 462Z" fill="url(#wave-light)" opacity=".40"/>
+      <path d="M199 568C287 671 384 712 524 701C479 739 371 749 315 719C257 688 215 638 199 568Z" fill="#164e87" opacity=".30"/>
+    </g>
+    <use href="#whale-shape" transform="translate(196 223) scale(23.5)" fill="none" stroke="url(#whale-rim)" stroke-width=".16"/>
+    <circle cx="535" cy="487.4" r="9.5" fill="#092733"/>
+    <circle cx="532.5" cy="484.2" r="2.4" fill="#dbffff" opacity=".91"/>
+  </g>
+</svg>
