@@ -2,7 +2,7 @@
 
 ## Collections
 
-Use the [combined subscription](https://raw.githubusercontent.com/lucking7/H.F./main/All.json) to import the full library. [All.json](All.json) lists each image path once and keeps different sizes and styles. To subscribe to a single collection, use one of the indexes below.
+The [combined subscription](https://raw.githubusercontent.com/lucking7/H.F./main/All.json) covers apps, flags, UI, and network policy groups. [All.json](All.json) lists each image path once and keeps different sizes and styles. REX icons are available through the dedicated REX subscriptions below.
 
 | Collection | Indexes | Artwork and sources |
 | --- | --- | --- |
@@ -16,7 +16,7 @@ Use the [combined subscription](https://raw.githubusercontent.com/lucking7/H.F./
 
 Run `python3 -m http.server 8741 --bind 127.0.0.1` from the repository root and open [the local review page](http://127.0.0.1:8741/review/). It opens on the AI glass icons. Use the collection menu to browse the full library or open the [network policy group gallery](http://127.0.0.1:8741/review/?collection=Routing-Policy.json) directly. Review marks are saved in the current browser and can be exported as JSON.
 
-The [full-library view](http://127.0.0.1:8741/review/?collection=all) shows the names in `All.json`. Search also accepts names from the individual indexes.
+The [combined subscription view](http://127.0.0.1:8741/review/?collection=all) shows the names in `All.json`. Search also accepts names from the individual indexes.
 
 Four legacy files have a `.png` extension and contain Photoshop documents. The review page displays their merged images from `review/previews/` and offers the original PSDs for download.
 

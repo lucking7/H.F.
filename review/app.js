@@ -397,7 +397,7 @@ async function start() {
   const controls = [ui.collection, ui.search, ui.filter];
   for (const control of controls) control.disabled = true;
   try {
-    const catalogs = [["All.json", "全部图标"], ...indexes];
+    const catalogs = [["All.json", "综合订阅"], ...indexes];
     const [combined, ...loaded] = await Promise.all(catalogs.map(loadIndex));
     const unique = new Map(combined.items.map(item => [item.path, item]));
     for (const index of loaded) {

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the combined subscription from the public icon indexes."""
+"""Build the combined subscription for apps, flags, UI, and network policy groups."""
 
 import json
 import re
@@ -18,11 +18,8 @@ INDEXES = (
     'Flags.json',
     'UI.json',
     'UI-Handdrawn-Ink.json',
-    'REX.json',
-    'REX-Platforms.json',
-    'REX-Runtime.json',
 )
-COLLECTION_LABELS = {'flags': 'Flags', 'logo': 'Apps', 'rex-icons': 'REX', 'signal': 'UI'}
+COLLECTION_LABELS = {'flags': 'Flags', 'logo': 'Apps', 'signal': 'UI'}
 
 
 def local_image_path(url):
@@ -100,7 +97,7 @@ def main():
     icons = combined_icons()
     catalog = {
         'name': "LUCK's 全部图标",
-        'description': 'Apps, flags, UI, network policy groups, and REX icons, with distinct styles and sizes.',
+        'description': 'Apps, flags, UI, and network policy groups, with distinct styles and sizes.',
         'icons': icons,
     }
     output = ROOT / 'All.json'
