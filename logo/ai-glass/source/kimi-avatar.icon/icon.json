@@ -1,0 +1,106 @@
+{
+  "fill-specializations": [
+    {
+      "value": {
+        "linear-gradient": [
+          "srgb:0.17254902,0.17647059,0.18823529,1.00000000",
+          "srgb:0.02352941,0.02745098,0.03137255,1.00000000"
+        ]
+      }
+    },
+    {
+      "appearance": "dark",
+      "value": {
+        "linear-gradient": [
+          "srgb:0.13725490,0.14117647,0.16078431,1.00000000",
+          "srgb:0.01176471,0.01568627,0.01568627,1.00000000"
+        ]
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "Blue dot",
+      "layers": [
+        {
+          "name": "Blue dot",
+          "image-name": "Blue dot.svg",
+          "glass": true,
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:0.09019608,0.51372549,1.00000000,1.00000000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:0.09019608,0.51372549,1.00000000,1.00000000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:0.66666667,0.66666667,0.66666667,1.00000000"
+              }
+            }
+          ]
+        }
+      ],
+      "lighting": "individual",
+      "specular": true,
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.12
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.04
+      }
+    },
+    {
+      "name": "Kimi",
+      "layers": [
+        {
+          "name": "Kimi",
+          "image-name": "Kimi.svg",
+          "glass": true,
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:1.00000000,1.00000000,1.00000000,1.00000000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:1.00000000,1.00000000,1.00000000,1.00000000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:0.94117647,0.94117647,0.94117647,1.00000000"
+              }
+            }
+          ]
+        }
+      ],
+      "lighting": "individual",
+      "specular": true,
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.18
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.06
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}

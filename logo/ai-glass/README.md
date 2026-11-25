@@ -1,8 +1,43 @@
 # AI glass icons
 
-Nine designs accompany the two supplied Claude Code icons. The PNG exports are listed in the [app index](../../Apps.json) and the [144px index](../../Apps144px.json).
+The collection contains 17 icons. Subscribe to the [app index](../../Apps.json) for both PNG sizes or the [144px index](../../Apps144px.json) for compact images.
 
-![Eleven glass icons, starting with the general AI monogram and brain symbol](preview.png)
+![Six macOS 26 brand icons followed by the eleven earlier AI glass designs](preview.png)
+
+## macOS 26 brand icons
+
+| Icon | LobeHub form | PNG | macOS download | Icon Composer source |
+| --- | --- | --- | --- | --- |
+| Qwen | `brandmarks` | [1024px](png/qwen-brandmark.png) · [144px](144px/qwen-brandmark.png) | [ICNS](icns/qwen-brandmark.icns) | [Qwen project](source/qwen-brandmark.icon/) |
+| OpenRouter | `ProviderCombine` | [1024px](png/openrouter-combine.png) · [144px](144px/openrouter-combine.png) | [ICNS](icns/openrouter-combine.icns) | [OpenRouter project](source/openrouter-combine.icon/) |
+| Ollama | `ProviderIcon` | [1024px](png/ollama-provider.png) · [144px](144px/ollama-provider.png) | [ICNS](icns/ollama-provider.icns) | [Ollama project](source/ollama-provider.icon/) |
+| Kimi | `Avatar` | [1024px](png/kimi-avatar.png) · [144px](144px/kimi-avatar.png) | [ICNS](icns/kimi-avatar.icns) | [Kimi project](source/kimi-avatar.icon/) |
+| Cursor | `AgentIcon` | [1024px](png/cursor-agent.png) · [144px](144px/cursor-agent.png) | [ICNS](icns/cursor-agent.icns) | [Cursor project](source/cursor-agent.icon/) |
+| Mistral AI | `IconCombine` | [1024px](png/mistral-combine.png) · [144px](144px/mistral-combine.png) | [ICNS](icns/mistral-combine.icns) | [Mistral project](source/mistral-combine.icon/) |
+
+OpenRouter stacks its Volt monogram above the wordmark so the round opening remains visible at 32px. Cursor separates the cube’s upper facet into a second layer so it catches light independently. Mistral uses its current full logo on a neutral surface.
+
+The PNGs and ICNS use the default macOS appearance. Open a local `.icon` project in Apple Icon Composer to edit its layers and preview other appearances. To export the Qwen icon from the repository root with Xcode 27.2 installed, run
+
+```sh
+ictool="/Applications/Xcode.app/Contents/Applications/Icon Composer.app/Contents/Executables/ictool"
+"$ictool" logo/ai-glass/source/qwen-brandmark.icon --export-image \
+  --output-file /tmp/qwen.png --platform macOS --rendition Default \
+  --width 1024 --height 1024 --scale 1 --design-generation 26
+```
+
+### Artwork sources
+
+The [LobeHub component guide](https://icons.lobehub.com/skills.md) and [component index](https://icons.lobehub.com/llms.txt) describe the six forms. The vector references below are pinned to LobeHub Icons 6.20.0. The [LobeHub MIT license](source/LICENSE-LobeHub.txt) accompanies the adapted paths. Brand marks belong to their respective owners.
+
+- Qwen uses the three-part silhouette and blue fill from the [Qwen brandmark](https://github.com/lobehub/lobe-icons/blob/05260484d9f4de68f90cc87a634ae68fa4043efd/packages/static-svg/icons/qwen-color.svg).
+- OpenRouter pairs the [symbol](https://github.com/lobehub/lobe-icons/blob/05260484d9f4de68f90cc87a634ae68fa4043efd/packages/static-svg/icons/openrouter-color.svg) and [lettering](https://github.com/lobehub/lobe-icons/blob/05260484d9f4de68f90cc87a634ae68fa4043efd/packages/static-svg/icons/openrouter-text.svg) in the proportions of [OpenRouter’s vertical lockup](https://openrouter.ai/brand/logos/transparent/vertical/svg/vertical-volt.svg).
+- Ollama uses the linework of the [Ollama provider mark](https://github.com/lobehub/lobe-icons/blob/05260484d9f4de68f90cc87a634ae68fa4043efd/packages/static-svg/icons/ollama.svg).
+- Kimi uses the [Kimi mark](https://github.com/lobehub/lobe-icons/blob/05260484d9f4de68f90cc87a634ae68fa4043efd/packages/static-svg/icons/kimi-color.svg) at the scale specified by [Kimi.Avatar](https://github.com/lobehub/lobe-icons/blob/05260484d9f4de68f90cc87a634ae68fa4043efd/src/Kimi/components/Avatar.tsx).
+- Cursor uses the [cube mark](https://github.com/lobehub/lobe-icons/blob/05260484d9f4de68f90cc87a634ae68fa4043efd/packages/static-svg/icons/cursor.svg) selected by the [agent mapping](https://github.com/lobehub/lobe-icons/blob/05260484d9f4de68f90cc87a634ae68fa4043efd/src/features/agentConfig.ts).
+- Mistral follows the [IconCombine form](https://icons.lobehub.com/features/icon-combine). Its pixel emblem, colors and lettering come from [Mistral’s current brand assets](https://mistral.ai/brand/).
+
+## Earlier AI glass icons
 
 | Icon | macOS | PNG | Editable artwork |
 | --- | --- | --- | --- |

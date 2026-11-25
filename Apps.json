@@ -751,6 +751,30 @@
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/mistral.png"
     },
     {
+      "name": "Qwen Brandmark",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/qwen-brandmark.png"
+    },
+    {
+      "name": "OpenRouter Stacked",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/openrouter-combine.png"
+    },
+    {
+      "name": "Ollama Provider",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/ollama-provider.png"
+    },
+    {
+      "name": "Kimi Avatar",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/kimi-avatar.png"
+    },
+    {
+      "name": "Cursor Faceted",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/cursor-agent.png"
+    },
+    {
+      "name": "Mistral AI Lockup",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/png/mistral-combine.png"
+    },
+    {
       "name": "AI Jade Glass (144px)",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/ai.png"
     },
@@ -793,6 +817,30 @@
     {
       "name": "Mistral Ember Glass (144px)",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/mistral.png"
+    },
+    {
+      "name": "Qwen Brandmark (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/qwen-brandmark.png"
+    },
+    {
+      "name": "OpenRouter Stacked (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/openrouter-combine.png"
+    },
+    {
+      "name": "Ollama Provider (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/ollama-provider.png"
+    },
+    {
+      "name": "Kimi Avatar (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/kimi-avatar.png"
+    },
+    {
+      "name": "Cursor Faceted (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/cursor-agent.png"
+    },
+    {
+      "name": "Mistral AI Lockup (144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/logo/ai-glass/144px/mistral-combine.png"
     }
   ]
 }

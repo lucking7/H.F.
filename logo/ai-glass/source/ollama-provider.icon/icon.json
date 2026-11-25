@@ -1,0 +1,84 @@
+{
+  "fill-specializations": [
+    {
+      "value": {
+        "linear-gradient": [
+          "srgb:0.98823529,0.98431373,0.98039216,1.00000000",
+          "srgb:0.83137255,0.86666667,0.87843137,1.00000000"
+        ]
+      }
+    },
+    {
+      "appearance": "dark",
+      "value": {
+        "linear-gradient": [
+          "srgb:0.25490196,0.27450980,0.29019608,1.00000000",
+          "srgb:0.12549020,0.15294118,0.17254902,1.00000000"
+        ]
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "Llama outline",
+      "layers": [
+        {
+          "name": "Llama outline",
+          "image-name": "outline.svg",
+          "glass": false,
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:0.96862745,0.96470588,0.94901961,1.00000000"
+              }
+            }
+          ]
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "Eyes and muzzle",
+      "layers": [
+        {
+          "name": "Eyes and muzzle",
+          "image-name": "face.svg",
+          "glass": false,
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:0.96862745,0.96470588,0.94901961,1.00000000"
+              }
+            }
+          ]
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}

@@ -12,6 +12,12 @@ const indexes = [
 ];
 
 const glass = new Map([
+  ["qwen-brandmark", ["Qwen", "三段蓝色折带组成千问的品牌标记", "brandmarks 品牌标识 通义千问 Qwen Brandmark macOS 26"]],
+  ["openrouter-combine", ["OpenRouter", "石墨色玻璃上，荧光绿 OR 标记与白色字标上下排列", "ProviderCombine 供应商 图文组合 OpenRouter Stacked macOS 26"]],
+  ["ollama-provider", ["Ollama", "浅色玻璃上的羊驼线稿", "ProviderIcon 供应商 标记 羊驼 Ollama Provider macOS 26"]],
+  ["kimi-avatar", ["Kimi", "黑色头像上的白色 K 与蓝点", "Avatar 头像 月之暗面 Moonshot Kimi Avatar macOS 26"]],
+  ["cursor-agent", ["Cursor", "立方体顶面独立受光，中央保留三角形留白", "AgentIcon 智能体 立方体 Cursor Faceted macOS 26"]],
+  ["mistral-combine", ["Mistral AI", "五色像素图形与 Mistral 字标横向排列", "IconCombine 图文组合 像素 Mistral AI Lockup macOS 26"]],
   ["ai", ["AI", "青瓷色玻璃上的深玉色 AI 字标", "通用 AI 人工智能 总览 全部模型 青玉 Jade Glass"]],
   ["ai-symbol", ["AI 符号", "靛蓝玻璃上的双脑叶浮雕", "通用 AI 人工智能 符号 大脑 脑纹 蛋白石 AI Symbol Opal Glass"]],
   ["claude", ["Claude", "铜色星芒与暖瓷玻璃", "琥珀橙 星芒 铜 暖瓷"]],

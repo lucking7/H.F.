@@ -1,0 +1,76 @@
+{
+  "fill-specializations": [
+    {
+      "value": {
+        "linear-gradient": [
+          "srgb:0.98431373,0.98431373,0.98039216,1.00000000",
+          "srgb:0.94509804,0.94117647,0.93333333,1.00000000"
+        ]
+      }
+    },
+    {
+      "appearance": "dark",
+      "value": {
+        "linear-gradient": [
+          "srgb:0.14901961,0.14901961,0.14901961,1.00000000",
+          "srgb:0.07450980,0.07450980,0.07450980,1.00000000"
+        ]
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "Mistral pixel cat",
+      "layers": [
+        {
+          "name": "Mistral pixel cat",
+          "image-name": "pixel-cat.svg",
+          "glass": false
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "Mistral wordmark",
+      "layers": [
+        {
+          "name": "Mistral wordmark",
+          "image-name": "wordmark.svg",
+          "glass": false,
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:1.00000000,1.00000000,1.00000000,1.00000000"
+              }
+            }
+          ]
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  },
+  "fill-specializations": [
+    {
+      "value": {
+        "linear-gradient": [
+          "srgb:0.20784314,0.23921569,0.21568627,1.00000000",
+          "srgb:0.07450980,0.09411765,0.10196078,1.00000000"
+        ]
+      }
+    },
+    {
+      "appearance": "dark",
+      "value": {
+        "linear-gradient": [
+          "srgb:0.16078431,0.18431373,0.16862745,1.00000000",
+          "srgb:0.03529412,0.04705882,0.04313725,1.00000000"
+        ]
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "OpenRouter mark",
+      "layers": [
+        {
+          "name": "OpenRouter mark",
+          "image-name": "openrouter-mark.svg",
+          "glass": false
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "OpenRouter wordmark",
+      "layers": [
+        {
+          "name": "OpenRouter wordmark",
+          "image-name": "openrouter-wordmark.svg",
+          "glass": false
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    }
+  ]
+}
