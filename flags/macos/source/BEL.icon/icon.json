@@ -1,0 +1,141 @@
+{
+  "fill-specializations": [
+    {
+      "value": {
+        "linear-gradient": [
+          "srgb:1.000000,0.878431,0.415686,1.000000",
+          "srgb:0.945098,0.749020,0.196078,1.000000"
+        ]
+      }
+    },
+    {
+      "appearance": "dark",
+      "value": {
+        "linear-gradient": [
+          "srgb:1.000000,0.878431,0.415686,1.000000",
+          "srgb:0.945098,0.749020,0.196078,1.000000"
+        ]
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "Surface light",
+      "layers": [
+        {
+          "name": "Surface light",
+          "image-name": "Surface light.svg",
+          "glass": false
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "Fly",
+      "layers": [
+        {
+          "name": "Fly",
+          "image-name": "Fly.svg",
+          "glass": false,
+          "fill-specializations": [
+            {
+              "value": "automatic"
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:0.537255,0.537255,0.537255,1.000000"
+              }
+            }
+          ]
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "Hoist",
+      "layers": [
+        {
+          "name": "Hoist",
+          "image-name": "Hoist.svg",
+          "glass": false,
+          "fill-specializations": [
+            {
+              "value": "automatic"
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:0.090196,0.090196,0.090196,1.000000"
+              }
+            }
+          ]
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "Monochrome field",
+      "layers": [
+        {
+          "name": "Monochrome field",
+          "image-name": "Field tone.svg",
+          "glass": false,
+          "fill": {
+            "solid": "srgb:0.862745,0.862745,0.862745,1.000000"
+          },
+          "hidden-specializations": [
+            {
+              "value": true
+            },
+            {
+              "appearance": "tinted",
+              "value": false
+            }
+          ]
+        }
+      ],
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}

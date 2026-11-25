@@ -4,6 +4,8 @@ const indexes = [
   ["Apps.json", "应用与品牌"],
   ["Apps144px.json", "应用 · 144 px"],
   ["Flags.json", "旗帜"],
+  ["Flags-macOS.json", "旗帜 · macOS"],
+  ["Flags-macOS144px.json", "旗帜 · macOS · 144 px"],
   ["UI.json", "UI 合集"],
   ["UI-Handdrawn-Ink.json", "手绘墨线"],
   ["REX.json", "REX 图标"],
@@ -82,20 +84,20 @@ async function loadIndex([filename, title]) {
   const items = icons.map(({ name, url }) => {
     const path = localPath(url);
     if (!path || typeof name !== "string") throw new Error(`${filename} 包含无法读取的图标路径`);
-    const glassFile = path.match(/^logo\/ai-glass\/(png|144px)\/([a-z-]+)\.png$/);
-    const detail = glassFile && glass.get(glassFile[2]);
+    const nativeFile = path.match(/^(logo\/ai-glass|flags\/macos)\/(?:png|144px)\/([\w-]+)\.png$/);
+    const detail = nativeFile?.[1] === "logo/ai-glass" && glass.get(nativeFile[2]);
     const psd = psdPaths.has(path);
     const basename = path.slice(path.lastIndexOf("/") + 1);
     const preview = psd ? `review/previews/${basename}` : path;
-    const thumbnail = detail
-      ? `logo/ai-glass/144px/${glassFile[2]}.png`
+    const thumbnail = nativeFile
+      ? `${nativeFile[1]}/144px/${nativeFile[2]}.png`
       : preview.replace(/^signal\/routing-policy\/1024\//, "signal/routing-policy/144/");
     return {
       name,
       path,
       filename,
       keywords: detail ? `${detail[0]} ${detail[1]} ${detail[2]}` : "",
-      icns: detail ? `logo/ai-glass/icns/${glassFile[2]}.icns` : null,
+      icns: nativeFile ? `${nativeFile[1]}/icns/${nativeFile[2]}.icns` : null,
       psdFilename: psd ? basename.replace(/\.png$/, ".psd") : null,
       preview,
       thumbnail,

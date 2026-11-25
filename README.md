@@ -7,7 +7,7 @@ The [combined subscription](https://raw.githubusercontent.com/lucking7/H.F./main
 | Collection | Indexes | Artwork and sources |
 | --- | --- | --- |
 | Apps and brands | [All apps](Apps.json) · [144px](Apps144px.json) | [App and brand artwork](logo/) · [AI glass icons and macOS downloads](logo/ai-glass/README.md) |
-| Flags | [Selected flags](Flags.json) | [Flag previews, editable sources and historical artwork](flags/README.md) |
+| Flags | [Rectangular](Flags.json) · [macOS 1024px](Flags-macOS.json) · [macOS 144px](Flags-macOS144px.json) | [Flag previews, Icon Composer projects and ICNS downloads](flags/README.md) |
 | UI | [Combined UI](UI.json) · [Ink](UI-Handdrawn-Ink.json) | The combined index includes 54 images. The [ink collection](signal/ink/README.md) includes 10 originals and 14 new drawings. |
 | Network policy groups | [1024px](Routing-Policy.json) · [144px](Routing-Policy144px.json) | [Proxy, Star, Smart, Ponte, and AI artwork](signal/routing-policy/README.md) |
 | REX | [All 138 entries](REX.json) · [10 white platform badges](REX-Platforms.json) · [26 runtime logos](REX-Runtime.json) | [Collection guide](rex-icons/1.0.0/README.md) and [manifest of 181 image files](rex-icons/1.0.0/manifest.json), including original variants. |

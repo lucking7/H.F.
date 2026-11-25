@@ -1,0 +1,110 @@
+{
+  "fill-specializations": [
+    {
+      "value": {
+        "linear-gradient": [
+          "srgb:0.258824,0.372549,0.678431,1.000000",
+          "srgb:0.086275,0.215686,0.454902,1.000000"
+        ]
+      }
+    },
+    {
+      "appearance": "dark",
+      "value": {
+        "linear-gradient": [
+          "srgb:0.258824,0.372549,0.678431,1.000000",
+          "srgb:0.086275,0.215686,0.454902,1.000000"
+        ]
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "Surface light",
+      "layers": [
+        {
+          "name": "Surface light",
+          "image-name": "Surface light.svg",
+          "glass": false
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "Twelve stars",
+      "layers": [
+        {
+          "name": "Twelve stars",
+          "image-name": "Twelve stars.svg",
+          "glass": false,
+          "fill-specializations": [
+            {
+              "value": "automatic"
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:0.933333,0.933333,0.933333,1.000000"
+              }
+            }
+          ]
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "Monochrome field",
+      "layers": [
+        {
+          "name": "Monochrome field",
+          "image-name": "Field tone.svg",
+          "glass": false,
+          "fill": {
+            "solid": "srgb:0.219608,0.219608,0.219608,1.000000"
+          },
+          "hidden-specializations": [
+            {
+              "value": true
+            },
+            {
+              "appearance": "tinted",
+              "value": false
+            }
+          ]
+        }
+      ],
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}

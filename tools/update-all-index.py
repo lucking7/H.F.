@@ -16,6 +16,8 @@ INDEXES = (
     'Apps.json',
     'Apps144px.json',
     'Flags.json',
+    'Flags-macOS.json',
+    'Flags-macOS144px.json',
     'UI.json',
     'UI-Handdrawn-Ink.json',
 )

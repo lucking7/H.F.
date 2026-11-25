@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><g transform="translate(-36.48 100.2115) scale(1.714)"><g transform="translate(89.8 .4)scale(.9375)" fill-rule="evenodd"><g transform="rotate(-56.3 361.6 -101.3)scale(10.66667)">
+          <g>
+            <path fill="#2E2E2E" d="M-6-26H6v2H-6Zm0 3H6v2H-6Zm0 3H6v2H-6Z" />
+            <g transform=" translate(0 44)">
+              <path fill="#2E2E2E" d="M-6-26H6v2H-6Zm0 3H6v2H-6Zm0 3H6v2H-6Z" />
+            </g>
+          </g>
+          <path stroke="#FCFCFD" d="M0 17v10" fill="#2E2E2E" />
+          <path fill="#FC6151" d="M0-12a12 12 0 0 1 0 24Z" />
+          <path fill="#3F5DAA" d="M0-12a12 12 0 0 0 0 24A6 6 0 0 0 0 0Z" />
+          <circle cy="-6" r="6" fill="#FC6151" />
+        </g>
+        <g transform="rotate(-123.7 191.2 62.2)scale(10.66667)">
+          <g transform=" translate(0 0)">
+            <g>
+              <path fill="#2E2E2E" d="M-6-26H6v2H-6Zm0 3H6v2H-6Zm0 3H6v2H-6Z" />
+              <g transform=" translate(0 44)">
+                <path fill="#2E2E2E" d="M-6-26H6v2H-6Zm0 3H6v2H-6Zm0 3H6v2H-6Z" />
+              </g>
+            </g>
+          </g>
+          <path stroke="#FCFCFD" d="M0-23.5v3M0 17v3.5m0 3v3" fill="#2E2E2E" />
+        </g>
+      </g></g></svg>

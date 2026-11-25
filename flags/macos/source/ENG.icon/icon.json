@@ -1,0 +1,110 @@
+{
+  "fill-specializations": [
+    {
+      "value": {
+        "linear-gradient": [
+          "srgb:1.000000,1.000000,1.000000,1.000000",
+          "srgb:0.803922,0.823529,0.850980,1.000000"
+        ]
+      }
+    },
+    {
+      "appearance": "dark",
+      "value": {
+        "linear-gradient": [
+          "srgb:1.000000,1.000000,1.000000,1.000000",
+          "srgb:0.803922,0.823529,0.850980,1.000000"
+        ]
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "Surface light",
+      "layers": [
+        {
+          "name": "Surface light",
+          "image-name": "Surface light.svg",
+          "glass": false
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "Cross of Saint George",
+      "layers": [
+        {
+          "name": "Cross of Saint George",
+          "image-name": "Cross of Saint George.svg",
+          "glass": false,
+          "fill-specializations": [
+            {
+              "value": "automatic"
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:0.537255,0.537255,0.537255,1.000000"
+              }
+            }
+          ]
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "Monochrome field",
+      "layers": [
+        {
+          "name": "Monochrome field",
+          "image-name": "Field tone.svg",
+          "glass": false,
+          "fill": {
+            "solid": "srgb:0.992157,0.992157,0.992157,1.000000"
+          },
+          "hidden-specializations": [
+            {
+              "value": true
+            },
+            {
+              "appearance": "tinted",
+              "value": false
+            }
+          ]
+        }
+      ],
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}

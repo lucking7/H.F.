@@ -1,0 +1,55 @@
+{
+  "fill": {
+    "linear-gradient": [
+      "srgb:0.4117647,0.8039216,1.0000000,1.0000000",
+      "srgb:0.0000000,0.3803922,0.6431373,1.0000000"
+    ]
+  },
+  "groups": [
+    {
+      "name": "Historical emblem",
+      "layers": [
+        {
+          "name": "Historical emblem",
+          "image-name": "historical-emblem.png",
+          "glass": false
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    },
+    {
+      "name": "Historical color field",
+      "layers": [
+        {
+          "name": "Historical color field",
+          "image-name": "historical-field.png",
+          "glass": false
+        }
+      ],
+      "lighting": "individual",
+      "specular": false,
+      "shadow": {
+        "kind": "none",
+        "opacity": 0
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}

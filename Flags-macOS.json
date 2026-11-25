@@ -1,0 +1,78 @@
+{
+  "name": "LUCK's macOS 旗帜 · 1024px",
+  "description": "1024px macOS flag icons, including the classic UN flag and historical institution emblem.",
+  "icons": [
+    {
+      "name": "比利时 Belgium · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/BEL.png"
+    },
+    {
+      "name": "德国 Germany · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/DEU.png"
+    },
+    {
+      "name": "英格兰 England · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/ENG.png"
+    },
+    {
+      "name": "欧盟 European Union · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/EUR.png"
+    },
+    {
+      "name": "法国 France · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/FRA.png"
+    },
+    {
+      "name": "英国 United Kingdom · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/GBR.png"
+    },
+    {
+      "name": "香港 Hong Kong · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/HKG.png"
+    },
+    {
+      "name": "爱尔兰 Ireland · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/IRL.png"
+    },
+    {
+      "name": "意大利 Italy · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/ITA.png"
+    },
+    {
+      "name": "日本 Japan · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/JPN.png"
+    },
+    {
+      "name": "韩国 South Korea · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/KOR.png"
+    },
+    {
+      "name": "荷兰 Netherlands · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/NLD.png"
+    },
+    {
+      "name": "新加坡 Singapore · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/SGP.png"
+    },
+    {
+      "name": "台湾 Taiwan · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/TWN.png"
+    },
+    {
+      "name": "联合国 United Nations · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/UN.png"
+    },
+    {
+      "name": "美国 United States · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/USA.png"
+    },
+    {
+      "name": "联合国经典版 Classic UN · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/UN-classic.png"
+    },
+    {
+      "name": "机构徽标 Institution · macOS",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/macos/png/INSTITUTION.png"
+    }
+  ]
+}
