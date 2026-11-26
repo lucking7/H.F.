@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<title>Blue UN peacekeeping helmet</title>
+<defs>
+<linearGradient id="blue" x1="20%" y1="0%" x2="70%" y2="100%">
+  <stop stop-color="#63bde6" /><stop offset=".46" stop-color="#368fc8" /><stop offset="1" stop-color="#16609c" />
+</linearGradient>
+<linearGradient id="plane" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop stop-color="#54a8da" /><stop offset="1" stop-color="#2068a3" />
+</linearGradient>
+<linearGradient id="face" x1="43%" y1="0%" x2="50%" y2="100%">
+  <stop stop-color="#73c5e9" /><stop offset="1" stop-color="#3e97cc" />
+</linearGradient>
+</defs>
+<g id="white-mark" fill="none" stroke="#fff" stroke-width="41" stroke-linecap="square" stroke-linejoin="round">
+<path d="M345 430V500Q345 533 382 533Q420 533 420 500V430" />
+<path d="M475 533V430L552 533V430" />
+</g>
+</svg>

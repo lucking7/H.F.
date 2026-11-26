@@ -20,8 +20,14 @@ INDEXES = (
     'Flags-macOS144px.json',
     'UI.json',
     'UI-Handdrawn-Ink.json',
+    'Region-Symbols.json',
+    'Region-Symbols144px.json',
+    'Region-Letters-Color.json',
+    'Region-Letters-Color144px.json',
 )
 COLLECTION_LABELS = {'flags': 'Flags', 'logo': 'Apps', 'signal': 'UI'}
+REGION_LABELS = {'symbols': 'Symbol', 'letters': 'Letters'}
+REGION_SIZES = {'png': '1024px', '144px': '144px'}
 
 
 def local_image_path(url):
@@ -71,6 +77,9 @@ def combined_icons():
         if path.startswith('logo/ai-glass/144px/'):
             # Keep the size visible when a narrow picker clips the label.
             icon['name'] = '144px · ' + icon['name'].removesuffix(' (144px)')
+        elif path.startswith('flags/regions/'):
+            _, _, style, size, _ = path.split('/')
+            icon['name'] = f"{icon['name']} ({REGION_LABELS[style]} · {REGION_SIZES[size]})"
 
     base_counts = Counter(icon['name'].casefold() for icon in icons_by_path.values())
     for path, icon in icons_by_path.items():

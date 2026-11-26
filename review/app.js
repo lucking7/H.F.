@@ -6,6 +6,10 @@ const indexes = [
   ["Flags.json", "旗帜"],
   ["Flags-macOS.json", "旗帜 · macOS"],
   ["Flags-macOS144px.json", "旗帜 · macOS · 144 px"],
+  ["Region-Symbols.json", "地区与组织 · 意象 · 1024 px"],
+  ["Region-Symbols144px.json", "地区与组织 · 意象 · 144 px"],
+  ["Region-Letters-Color.json", "地区与组织 · 彩色字标 · 1024 px"],
+  ["Region-Letters-Color144px.json", "地区与组织 · 彩色字标 · 144 px"],
   ["UI.json", "UI 合集"],
   ["UI-Handdrawn-Ink.json", "手绘墨线"],
   ["REX.json", "REX 图标"],
@@ -84,7 +88,8 @@ async function loadIndex([filename, title]) {
   const items = icons.map(({ name, url }) => {
     const path = localPath(url);
     if (!path || typeof name !== "string") throw new Error(`${filename} 包含无法读取的图标路径`);
-    const nativeFile = path.match(/^(logo\/ai-glass|flags\/macos)\/(?:png|144px)\/([\w-]+)\.png$/);
+    const nativeFile = path.match(/^(logo\/ai-glass|flags\/macos|flags\/regions\/(?:symbols|letters))\/(?:png|144px)\/([\w-]+)\.png$/);
+    const icnsDirectory = nativeFile && !nativeFile[1].startsWith("flags/regions/") ? nativeFile[1] : null;
     const detail = nativeFile?.[1] === "logo/ai-glass" && glass.get(nativeFile[2]);
     const psd = psdPaths.has(path);
     const basename = path.slice(path.lastIndexOf("/") + 1);
@@ -97,7 +102,7 @@ async function loadIndex([filename, title]) {
       path,
       filename,
       keywords: detail ? `${detail[0]} ${detail[1]} ${detail[2]}` : "",
-      icns: nativeFile ? `${nativeFile[1]}/icns/${nativeFile[2]}.icns` : null,
+      icns: icnsDirectory ? `${icnsDirectory}/icns/${nativeFile[2]}.icns` : null,
       psdFilename: psd ? basename.replace(/\.png$/, ".psd") : null,
       preview,
       thumbnail,
@@ -406,7 +411,13 @@ async function start() {
   for (const control of controls) control.disabled = true;
   try {
     const catalogs = [["All.json", "综合订阅"], ...indexes];
-    const [combined, ...loaded] = await Promise.all(catalogs.map(loadIndex));
+    const loadedCatalogs = [];
+    const batchSize = 4;
+    for (let offset = 0; offset < catalogs.length; offset += batchSize) {
+      const batch = catalogs.slice(offset, offset + batchSize);
+      loadedCatalogs.push(...await Promise.all(batch.map(loadIndex)));
+    }
+    const [combined, ...loaded] = loadedCatalogs;
     const unique = new Map(combined.items.map(item => [item.path, item]));
     for (const index of loaded) {
       for (const item of index.items) {

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Germany · Brandenburg Gate</title>
+  <desc>The Brandenburg Gate with a flat stepped attic, its Quadriga, six Doric columns, and a black-red-gold entablature.</desc>
+  <path id="Columns" fill="#424B52" d="M160 495h61v36h-7v176h7v28h-61v-28h7V531h-7z M288 495h61v36h-7v176h7v28h-61v-28h7V531h-7z M416 495h61v36h-7v176h7v28h-61v-28h7V531h-7z M547 495h61v36h-7v176h7v28h-61v-28h7V531h-7z M675 495h61v36h-7v176h7v28h-61v-28h7V531h-7z M803 495h61v36h-7v176h7v28h-61v-28h7V531h-7z"/>
+  <path id="Black-attic" fill="#26292F" d="M260 367h504v29h116q17 0 17 17v31H127v-31q0-17 17-17h116z"/>
+  <path id="Red-frieze" fill="#C73D38" d="M127 439h770v45H127z"/>
+  <path id="Gold-cornice" fill="#E7A929" d="M127 482h770v49H127z"/>
+  <path id="Stone-steps" fill="#556069" d="M154 725h716v34h30q15 0 15 15v27H109v-27q0-15 15-15h30z"/>
+  <path id="Quadriga" fill="#52665B" d="M472 369H345v-27h37l12-55 15-19 35 7v20l-20 11 8 32h29l13-61 13-16 22 7v-24q-15-5-15-20a20 20 0 0 1 40 0q0 15-15 20v24l22-7 13 16 13 61h29l8-32-20-11v-20l35-7 15 19 12 55h37v27z"/>
+</svg>

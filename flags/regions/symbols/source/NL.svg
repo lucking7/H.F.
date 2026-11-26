@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Netherlands · windmill</title>
+  <desc>A Dutch tower mill with a short roof, a flared millhouse and four leading-edge sails.</desc>
+  <path id="Tower" fill="#345681" d="M411 466h202l61 333q6 28-23 30H373q-29-2-23-30z"/>
+  <path id="Cap" fill="#2D405E" d="M367 501l97-119q48-57 96 0l97 119q15 19-9 19H376q-24 0-9-19z"/>
+  <path id="Doorway" fill="#FAEDCF" d="M478 829V738q0-35 34-35t34 35v91z"/>
+  <g id="Sails" fill="#BA414D">
+    <path d="M-26-16h52v-117h49v-190q0-10-10-10h-106q-10 0-10 10v181l25 42z" transform="translate(512 466) rotate(45)"/>
+    <path d="M-26-16h52v-117h49v-190q0-10-10-10h-106q-10 0-10 10v181l25 42z" transform="translate(512 466) rotate(135)"/>
+    <path d="M-26-16h52v-117h49v-190q0-10-10-10h-106q-10 0-10 10v181l25 42z" transform="translate(512 466) rotate(225)"/>
+    <path d="M-26-16h52v-117h49v-190q0-10-10-10h-106q-10 0-10 10v181l25 42z" transform="translate(512 466) rotate(315)"/>
+  </g>
+  <g id="Sail-cloth" fill="#F9E7D1">
+    <path d="M-10-291h53v119h-53z" transform="translate(512 466) rotate(45)"/>
+    <path d="M-10-291h53v119h-53z" transform="translate(512 466) rotate(135)"/>
+    <path d="M-10-291h53v119h-53z" transform="translate(512 466) rotate(225)"/>
+    <path d="M-10-291h53v119h-53z" transform="translate(512 466) rotate(315)"/>
+  </g>
+  <circle id="Hub" fill="#FCE7CF" cx="512" cy="466" r="42"/>
+</svg>

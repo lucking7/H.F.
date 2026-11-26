@@ -1313,6 +1313,150 @@
     {
       "name": "Ink - Game",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/signal/ink/1024/game.png"
+    },
+    {
+      "name": "US (Symbol · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/US.png"
+    },
+    {
+      "name": "JP (Symbol · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/JP.png"
+    },
+    {
+      "name": "KR (Symbol · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/KR.png"
+    },
+    {
+      "name": "SG (Symbol · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/SG.png"
+    },
+    {
+      "name": "NL (Symbol · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/NL.png"
+    },
+    {
+      "name": "DE (Symbol · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/DE.png"
+    },
+    {
+      "name": "UN (Symbol · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/UN.png"
+    },
+    {
+      "name": "TW (Symbol · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/TW.png"
+    },
+    {
+      "name": "EU (Symbol · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/EU.png"
+    },
+    {
+      "name": "US (Symbol · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/144px/US.png"
+    },
+    {
+      "name": "JP (Symbol · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/144px/JP.png"
+    },
+    {
+      "name": "KR (Symbol · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/144px/KR.png"
+    },
+    {
+      "name": "SG (Symbol · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/144px/SG.png"
+    },
+    {
+      "name": "NL (Symbol · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/144px/NL.png"
+    },
+    {
+      "name": "DE (Symbol · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/144px/DE.png"
+    },
+    {
+      "name": "UN (Symbol · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/144px/UN.png"
+    },
+    {
+      "name": "TW (Symbol · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/144px/TW.png"
+    },
+    {
+      "name": "EU (Symbol · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/144px/EU.png"
+    },
+    {
+      "name": "US (Letters · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/US.png"
+    },
+    {
+      "name": "JP (Letters · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/JP.png"
+    },
+    {
+      "name": "KR (Letters · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/KR.png"
+    },
+    {
+      "name": "SG (Letters · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/SG.png"
+    },
+    {
+      "name": "NL (Letters · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/NL.png"
+    },
+    {
+      "name": "DE (Letters · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/DE.png"
+    },
+    {
+      "name": "UN (Letters · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/UN.png"
+    },
+    {
+      "name": "TW (Letters · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/TW.png"
+    },
+    {
+      "name": "EU (Letters · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/EU.png"
+    },
+    {
+      "name": "US (Letters · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/US.png"
+    },
+    {
+      "name": "JP (Letters · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/JP.png"
+    },
+    {
+      "name": "KR (Letters · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/KR.png"
+    },
+    {
+      "name": "SG (Letters · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/SG.png"
+    },
+    {
+      "name": "NL (Letters · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/NL.png"
+    },
+    {
+      "name": "DE (Letters · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/DE.png"
+    },
+    {
+      "name": "UN (Letters · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/UN.png"
+    },
+    {
+      "name": "TW (Letters · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/TW.png"
+    },
+    {
+      "name": "EU (Letters · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/EU.png"
     }
   ]
 }

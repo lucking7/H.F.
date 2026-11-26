@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Netherlands · windmill</title>
+  <desc>A Dutch tower mill with a short roof, a flared millhouse and four leading-edge sails.</desc>
+  <g id="Sails" fill="#BA414D">
+    <path d="M-26-16h52v-117h49v-190q0-10-10-10h-106q-10 0-10 10v181l25 42z" transform="translate(512 466) rotate(45)" />
+    <path d="M-26-16h52v-117h49v-190q0-10-10-10h-106q-10 0-10 10v181l25 42z" transform="translate(512 466) rotate(135)" />
+    <path d="M-26-16h52v-117h49v-190q0-10-10-10h-106q-10 0-10 10v181l25 42z" transform="translate(512 466) rotate(225)" />
+    <path d="M-26-16h52v-117h49v-190q0-10-10-10h-106q-10 0-10 10v181l25 42z" transform="translate(512 466) rotate(315)" />
+  </g>
+  </svg>

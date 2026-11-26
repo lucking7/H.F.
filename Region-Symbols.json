@@ -1,0 +1,42 @@
+{
+  "name": "LUCK's 地区与组织意象 · 1024px",
+  "description": "Regional and organizational symbols for macOS, 1024px PNGs.",
+  "icons": [
+    {
+      "name": "US",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/US.png"
+    },
+    {
+      "name": "JP",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/JP.png"
+    },
+    {
+      "name": "KR",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/KR.png"
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/SG.png"
+    },
+    {
+      "name": "NL",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/NL.png"
+    },
+    {
+      "name": "DE",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/DE.png"
+    },
+    {
+      "name": "UN",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/UN.png"
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/TW.png"
+    },
+    {
+      "name": "EU",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/symbols/png/EU.png"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>KR</title>
+  <g transform="translate(212.500 359) scale(1.000000 1)" fill="none" stroke="#BE3846" stroke-width="96" stroke-linecap="round" stroke-linejoin="round">
+    <path id="Letter-K" d="M0 0 V306 M204 0 L0 193 M88 112 L212 306" transform="translate(0.000 0)" />
+    <path id="Letter-R" d="M0 306 V0 H105 C175 0 211 29 211 84 C211 139 175 168 105 168 H0 M122 168 L225 306" transform="translate(374.000 0)" />
+  </g>
+</svg>

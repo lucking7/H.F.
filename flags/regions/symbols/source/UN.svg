@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<title>Blue UN peacekeeping helmet</title>
+<defs>
+<linearGradient id="blue" x1="20%" y1="0%" x2="70%" y2="100%">
+  <stop stop-color="#63bde6"/><stop offset=".46" stop-color="#368fc8"/><stop offset="1" stop-color="#16609c"/>
+</linearGradient>
+<linearGradient id="plane" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop stop-color="#54a8da"/><stop offset="1" stop-color="#2068a3"/>
+</linearGradient>
+<linearGradient id="face" x1="43%" y1="0%" x2="50%" y2="100%">
+  <stop stop-color="#73c5e9"/><stop offset="1" stop-color="#3e97cc"/>
+</linearGradient>
+</defs>
+<path id="liner" fill="#153f66" d="M167 612Q197 653 257 660L374 662 409 721Q430 758 475 758L644 758Q686 755 706 717L743 650 860 632Q875 628 878 604L868 563 175 562Z"/>
+<path id="shell" fill="url(#blue)" d="M169 584Q180 425 278 338Q364 260 498 260Q678 260 758 378Q794 433 806 500L880 550Q901 565 890 591L880 612Q873 628 853 625L749 606Q720 601 707 631L668 709Q657 736 625 736H470Q437 736 421 708L390 657Q378 633 350 633L213 631Q165 630 169 584Z"/>
+<path id="front-plane" fill="url(#plane)" d="M501 276Q676 272 756 388Q796 446 803 510L879 557Q892 565 889 581L879 609Q872 623 855 620L741 600Q711 598 695 628L673 671Q686 556 643 460Q600 364 501 276Z"/>
+<path id="rim" fill="#2976b1" d="M174 589Q181 613 211 615L350 617Q387 616 404 645L437 701Q451 724 475 724L624 722Q646 722 656 701L694 624Q713 585 749 590L860 609Q877 612 888 586L880 612Q873 628 853 625L749 606Q720 601 707 631L668 709Q657 736 625 736H470Q437 736 421 708L390 657Q378 633 350 633L213 631Q170 630 169 602Z"/>
+<g id="white-mark" fill="none" stroke="#fff" stroke-width="41" stroke-linecap="square" stroke-linejoin="round">
+<path d="M345 430V500Q345 533 382 533Q420 533 420 500V430"/>
+<path d="M475 533V430L552 533V430"/>
+</g>
+</svg>

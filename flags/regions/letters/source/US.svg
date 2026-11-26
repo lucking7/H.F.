@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>US</title>
+  <g transform="translate(220.000 359) scale(1.000000 1)" fill="none" stroke="#213E66" stroke-width="96" stroke-linecap="round" stroke-linejoin="round">
+    <path id="Letter-U" d="M0 0 V199 C0 267 42 306 111 306 C179 306 221 267 221 199 V0" transform="translate(0.000 0)" />
+    <path id="Letter-S" d="M205 42 C176 13 149 0 106 0 C51 0 15 31 15 75 C15 118 45 137 113 153 C181 169 213 191 213 236 C213 282 174 306 113 306 C65 306 25 291 0 258" transform="translate(371.000 0)" />
+  </g>
+</svg>

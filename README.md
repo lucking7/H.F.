@@ -2,12 +2,13 @@
 
 ## Collections
 
-The [combined subscription](https://raw.githubusercontent.com/lucking7/H.F./main/All.json) covers apps, flags, UI, and network policy groups. [All.json](All.json) lists each image path once and keeps different sizes and styles. REX icons are available through the dedicated REX subscriptions below.
+The [combined subscription](https://raw.githubusercontent.com/lucking7/H.F./main/All.json) covers apps, flags, regional artwork, UI, and network policy groups. [All.json](All.json) lists each image path once and keeps different sizes and styles. REX icons are available through the dedicated REX subscriptions below.
 
 | Collection | Indexes | Artwork and sources |
 | --- | --- | --- |
 | Apps and brands | [All apps](Apps.json) · [144px](Apps144px.json) | [App and brand artwork](logo/) · [AI glass icons and macOS downloads](logo/ai-glass/README.md) |
 | Flags | [Rectangular](Flags.json) · [macOS 1024px](Flags-macOS.json) · [macOS 144px](Flags-macOS144px.json) | [Flag previews, Icon Composer projects and ICNS downloads](flags/README.md) |
+| Regions and organizations | Symbols [1024px](Region-Symbols.json) · [144px](Region-Symbols144px.json) · Colored letters [1024px](Region-Letters-Color.json) · [144px](Region-Letters-Color144px.json) | [Artwork, palette and sources](flags/regions/README.md) |
 | UI | [Combined UI](UI.json) · [Ink](UI-Handdrawn-Ink.json) | The combined index includes 54 images. The [ink collection](signal/ink/README.md) includes 10 originals and 14 new drawings. |
 | Network policy groups | [1024px](Routing-Policy.json) · [144px](Routing-Policy144px.json) | [Proxy, Star, Smart, Ponte, and AI artwork](signal/routing-policy/README.md) |
 | REX | [All 138 entries](REX.json) · [10 white platform badges](REX-Platforms.json) · [26 runtime logos](REX-Runtime.json) | [Collection guide](rex-icons/1.0.0/README.md) and [manifest of 181 image files](rex-icons/1.0.0/manifest.json), including original variants. |

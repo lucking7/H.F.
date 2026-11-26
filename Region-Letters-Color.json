@@ -1,0 +1,42 @@
+{
+  "name": "LUCK's 地区与组织彩色字母 · 1024px",
+  "description": "Color-coded region and organization letter icons for macOS, 1024px PNGs.",
+  "icons": [
+    {
+      "name": "US",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/US.png"
+    },
+    {
+      "name": "JP",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/JP.png"
+    },
+    {
+      "name": "KR",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/KR.png"
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/SG.png"
+    },
+    {
+      "name": "NL",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/NL.png"
+    },
+    {
+      "name": "DE",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/DE.png"
+    },
+    {
+      "name": "UN",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/UN.png"
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/TW.png"
+    },
+    {
+      "name": "EU",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/EU.png"
+    }
+  ]
+}
