@@ -1,6 +1,6 @@
 # Regions and organizations
 
-Two macOS 26 icon sets for regional and organization labels. Each set covers nine entries in a shallow-relief style. The 144 px PNGs have 7 px of transparent padding on each side. Use the 144 px catalogs for compact lists in Surge.
+Two macOS 26 icon sets for regional and organization labels. The shallow-relief collection includes nine symbols and ten colored letter icons. The 144 px PNGs have 7 px of transparent padding on each side. Use the 144 px catalogs for compact lists in Surge.
 
 | Set | Subscriptions | Artwork and editable source |
 | --- | --- | --- |
@@ -18,6 +18,7 @@ Two macOS 26 icon sets for regional and organization labels. Each set covers nin
 | UN | United Nations | Peacekeeper's blue helmet |
 | TW | Taiwan | Main-island coastline |
 | EU | European Union | Ballot box |
+| HK | Hong Kong | Letters only |
 
 ## Sources
 

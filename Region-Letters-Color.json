@@ -37,6 +37,10 @@
     {
       "name": "EU",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/EU.png"
+    },
+    {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/HK.png"
     }
   ]
 }

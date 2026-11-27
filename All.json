@@ -1423,6 +1423,10 @@
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/EU.png"
     },
     {
+      "name": "HK (Letters · 1024px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/png/HK.png"
+    },
+    {
       "name": "US (Letters · 144px)",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/US.png"
     },
@@ -1457,6 +1461,10 @@
     {
       "name": "EU (Letters · 144px)",
       "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/EU.png"
+    },
+    {
+      "name": "HK (Letters · 144px)",
+      "url": "https://raw.githubusercontent.com/lucking7/H.F./main/flags/regions/letters/144px/HK.png"
     }
   ]
 }
